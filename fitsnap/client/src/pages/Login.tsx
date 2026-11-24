@@ -1264,14 +1264,14 @@ export const Login: React.FC = () => {
 
               <div>
                 <span className="text-xs font-semibold uppercase tracking-wider text-[#2F5BFF] block mb-2 font-mono">
-                  FITSNAP PRO [PLACEHOLDER]
+                  FITSNAP PRO
                 </span>
                 <div className="flex items-baseline gap-1 mb-2">
                   <span className="text-4xl font-bold text-[#0F172A] font-display">
-                    {billingCycle === 'yearly' ? '$4.92' : '$7.99'}
+                    {billingCycle === 'yearly' ? '$4' : '$5'}
                   </span>
                   <span className="text-sm text-[#94A3B8]">
-                    / month {billingCycle === 'yearly' && '(billed annually at $59/yr)'}
+                    / month {billingCycle === 'yearly' && '(billed annually at $48/yr)'}
                   </span>
                 </div>
                 <p className="text-sm text-[#475569] mb-6">
