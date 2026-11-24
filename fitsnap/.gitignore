@@ -1,0 +1,23 @@
+# Dependencies & Build
+node_modules/
+dist/
+.DS_Store
+
+# Environment & Secrets
+.env
+.env.local
+
+# SQLite Database
+dev.db
+dev.db-journal
+dev.db-wal
+dev.db-shm
+server/prisma/dev.db*
+server/dev.db*
+
+# Raw Datasets & Processed Large Data
+Food Classification Dataset/
+FoodData_Central_survey_food_csv_2024-10-31/
+data/processed/
+*.zip
+*.tar.gz

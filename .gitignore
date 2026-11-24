@@ -1,0 +1,38 @@
+# Datasets (Large image folders)
+dataset256/
+Food_Classification/
+data/processed/seg/images/
+data/processed/seg/masks/
+ml/data/cache/
+*.npy
+*.zip
+
+# Dependencies & Environments
+.env
+*.env
+node_modules/
+.venv/
+ml/.venv/
+__pycache__/
+*.pyc
+*.tsbuildinfo
+*.gold.*
+*.bak
+scratch/
+
+# Builds & Caches
+dist/
+build/
+.cache/
+fitsnap/client/dist/
+fitsnap/server/dist/
+
+# Logs & Temp
+*.log
+ml/results/server_*.log
+ml/results/parent_process.txt
+ml/results/train.pid
+
+# OS Files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,273 @@
+class_name,display_name,category,source,calories_per_100g,protein_per_100g,carbs_per_100g,fat_per_100g,default_portion_grams,default_portion_desc,default_kcal,atwater_diff_pct,composite_dish,audit_status
+adobo,Adobo,Poultry mixed dishes,usda_fndds,172.0,16.9,8.1,7.7,224.0,1 cup,385.3,1.57,NO,VERIFIED
+almond_jelly,Almond jelly,Desserts & Sweets,Curated Asian dessert,105.0,2.5,19.0,2.0,120.0,1 dessert bowl,126.0,0.95,NO,VERIFIED
+apple_pie,Apple pie,Apples,usda_fndds,100.0,0.1,26.1,0.1,260.0,1 cup,260.0,5.7,YES,VERIFIED
+ayam_bakar,Ayam bakar,International Cuisine,curated,185.0,8.5,22.0,7.0,200.0,1 plate / serving,370.0,0.0,NO,VERIFIED
+ayam_goreng,Ayam goreng,International Cuisine,curated,185.0,8.5,22.0,7.0,200.0,1 plate / serving,370.0,0.0,NO,VERIFIED
+babi_guling,Babi guling,International Cuisine,curated,185.0,8.5,22.0,7.0,200.0,1 plate / serving,370.0,0.0,NO,VERIFIED
+bagel,Bagel,Bagels and English muffins,usda_fndds,264.0,10.6,52.4,1.3,131.0,1 large,345.8,0.11,NO,VERIFIED
+bak_kut_teh,Bak kut teh,International Cuisine,curated,185.0,8.5,22.0,7.0,200.0,1 plate / serving,370.0,0.0,NO,VERIFIED
+baked_salmon,Baked salmon,Seafood,curated,190.0,20.0,2.0,11.0,150.0,1 fillet / portion,285.0,1.58,NO,VERIFIED
+ball_shaped_bun_with_pork,Ball shaped bun with pork,Meat Dishes,curated,220.0,18.0,5.0,14.0,180.0,1 portion,396.0,0.91,NO,VERIFIED
+barbecued_red_pork_in_sauce_with_rice,Barbecued red pork in sauce with rice,Rice Bowls,curated,175.0,7.0,28.0,4.0,300.0,1 bowl,525.0,0.57,YES,VERIFIED
+bean_curd_family_style,Bean curd family style,International Cuisine,curated,185.0,8.5,22.0,7.0,200.0,1 plate / serving,370.0,0.0,NO,VERIFIED
+beef_bowl,Beef bowl,Rice Bowls,curated,175.0,7.0,28.0,4.0,300.0,1 bowl,525.0,0.57,YES,VERIFIED
+beef_curry,Beef curry,Meat mixed dishes,usda_fndds,113.0,7.6,6.5,6.6,240.0,1 cup,271.2,2.48,YES,VERIFIED
+beef_in_oyster_sauce,Beef in oyster sauce,Soy-based condiments,usda_fndds,51.0,1.4,10.9,0.2,16.0,1 tablespoon,8.2,0.0,NO,VERIFIED
+beef_noodle,Beef noodle,Noodle Dishes,curated,145.0,6.5,24.0,3.5,350.0,1 bowl of noodles,507.5,5.86,YES,VERIFIED
+beef_noodle_soup,Beef noodle soup,Noodle Dishes,curated,145.0,6.5,24.0,3.5,350.0,1 bowl of noodles,507.5,5.86,YES,VERIFIED
+bibimbap,Bibimbap,Rice mixed dishes,Curated Korean traditional whole dish,148.0,6.5,20.5,4.5,380.0,1 regular bibimbap bowl,562.4,0.34,YES,VERIFIED
+boiled_chicken_and_vegetables,Boiled chicken and vegetables,Meat Dishes,curated,220.0,18.0,5.0,14.0,180.0,1 portion,396.0,0.91,NO,VERIFIED
+boiled_fish,Boiled fish,Seafood,curated,190.0,20.0,2.0,11.0,150.0,1 fillet / portion,285.0,1.58,NO,VERIFIED
+"boned,_sliced_hainan_style_chicken_with_marinated_rice","Boned, sliced hainan style chicken with marinated rice",Rice Bowls,curated,175.0,7.0,28.0,4.0,300.0,1 bowl,525.0,0.57,YES,VERIFIED
+braised_pork_meat_ball_with_napa_cabbage,Braised pork meat ball with napa cabbage,Meat Dishes,curated,220.0,18.0,5.0,14.0,180.0,1 portion,396.0,0.91,NO,VERIFIED
+broiled_eel_bowl,Broiled eel bowl,Rice Bowls,curated,175.0,7.0,28.0,4.0,300.0,1 bowl,525.0,0.57,YES,VERIFIED
+brownie,Brownie,Cookies and brownies,usda_fndds,405.0,4.8,63.9,16.3,50.0,1 medium,202.5,4.07,NO,VERIFIED
+bubur_ayam,Bubur ayam,International Cuisine,curated,185.0,8.5,22.0,7.0,200.0,1 plate / serving,370.0,0.0,NO,VERIFIED
+burger,Burger,Fast Food,USDA FNDDS 2711010 / Curated whole dish,254.0,13.0,25.0,11.0,165.0,Regular cheeseburger (165g),419.1,1.18,YES,VERIFIED
+butter_naan,Butter naan,Indian Breads,curated,320.0,8.0,48.0,11.0,110.0,1 naan,352.0,0.94,NO,VERIFIED
+cabbage_roll,Cabbage roll,Meat mixed dishes,usda_fndds,114.0,8.3,8.8,5.1,103.0,1 cabbage roll,117.4,0.26,YES,VERIFIED
+caesar_salad,Caesar salad,Lettuce and lettuce salads,usda_fndds,77.0,4.0,7.5,3.4,113.0,1 Wendy's side salad,87.0,0.52,YES,VERIFIED
+chai,Chai,Beverages,curated,65.0,2.2,9.5,2.0,150.0,1 cup,97.5,0.31,NO,VERIFIED
+champon,Champon,Cold cuts and cured meats,usda_fndds,117.0,19.0,1.6,3.9,90.0,1 thick slice,105.3,0.43,NO,VERIFIED
+chapati,Chapati,Indian Breads,curated,297.0,9.0,55.0,3.7,40.0,1 roti,118.8,2.59,NO,VERIFIED
+charcoal_boiled_pork_neck,Charcoal boiled pork neck,Meat Dishes,curated,220.0,18.0,5.0,14.0,180.0,1 portion,396.0,0.91,NO,VERIFIED
+chicken_cutlet,Chicken cutlet,Meat Dishes,curated,220.0,18.0,5.0,14.0,180.0,1 portion,396.0,0.91,YES,VERIFIED
+chicken_n_egg_on_rice,Chicken n egg on rice,Rice Bowls,curated,175.0,7.0,28.0,4.0,300.0,1 bowl,525.0,0.57,YES,VERIFIED
+chicken_nugget,Chicken nugget,"Chicken patties, nuggets and tenders",usda_fndds,307.0,15.9,14.9,20.4,140.0,1 cup,429.8,0.07,NO,VERIFIED
+chicken_rice,Chicken rice,Rice Bowls,curated,175.0,7.0,28.0,4.0,300.0,1 bowl,525.0,0.57,YES,VERIFIED
+chicken_rice_curry_with_coconut,Chicken rice curry with coconut,Rice Bowls,curated,175.0,7.0,28.0,4.0,300.0,1 bowl,525.0,0.57,YES,VERIFIED
+chilled_noodle,Chilled noodle,Noodle Dishes,curated,145.0,6.5,24.0,3.5,350.0,1 bowl of noodles,507.5,5.86,YES,VERIFIED
+chinese_pumpkin_pie,Chinese pumpkin pie,Desserts & Sweets,curated,340.0,4.0,52.0,14.0,120.0,1 slice / piece,408.0,2.94,YES,VERIFIED
+chinese_soup,Chinese soup,Soups & Stews,curated,85.0,4.5,9.0,3.0,250.0,1 bowl of soup,212.5,4.71,YES,VERIFIED
+chip_butty,Chip butty,International Cuisine,curated,185.0,8.5,22.0,7.0,200.0,1 plate / serving,370.0,0.0,NO,VERIFIED
+chole_bhature,Chole bhature,Indian Main Dishes,curated,285.0,8.5,38.0,12.0,350.0,2 bhature with chole,997.5,3.16,NO,VERIFIED
+chop_suey,Chop suey,Fried rice and lo/chow mein,usda_fndds,129.0,10.8,11.2,4.9,220.0,1 cup,283.8,2.4,YES,VERIFIED
+chow_mein,Chow mein,Fried rice and lo/chow mein,usda_fndds,129.0,10.8,11.2,4.9,220.0,1 cup,283.8,2.4,YES,VERIFIED
+churro,Churro,"Doughnuts, sweet rolls, pastries",usda_fndds,419.0,6.0,48.9,22.2,45.0,1 regular,188.6,0.1,YES,VERIFIED
+clear_soup,Clear soup,Soups & Stews,curated,85.0,4.5,9.0,3.0,250.0,1 bowl of soup,212.5,4.71,YES,VERIFIED
+coconut_milk_flavored_crepes_with_shrimp_and_beef,Coconut milk crepes with shrimp & beef,Asian Specialities,Curated Vietnamese Banh Xeo whole dish,175.0,8.5,17.0,8.0,220.0,1 crepe with filling,385.0,0.57,YES,VERIFIED
+coconut_milk_soup,Coconut milk soup,Soups & Stews,Curated Thai Tom Kha whole soup,88.0,3.5,5.0,6.0,240.0,1 bowl of soup,211.2,0.0,YES,VERIFIED
+cold_tofu,Cold tofu,International Cuisine,curated,185.0,8.5,22.0,7.0,200.0,1 plate / serving,370.0,0.0,NO,VERIFIED
+crape,Crape,International Cuisine,curated,185.0,8.5,22.0,7.0,200.0,1 plate / serving,370.0,0.0,NO,VERIFIED
+cream_puff,Cream puff,"Doughnuts, sweet rolls, pastries",usda_fndds,280.0,4.2,11.1,24.4,78.0,"1 eclair, frozen",218.4,0.29,YES,VERIFIED
+crispy_noodles,Crispy noodles,Poultry mixed dishes,usda_fndds,116.0,10.2,8.1,5.3,346.0,1 salad,401.4,4.22,YES,VERIFIED
+croissant,Croissant,Bakery,USDA FNDDS 2707200,406.0,8.2,45.8,21.0,60.0,1 medium croissant,243.6,0.25,NO,VERIFIED
+croquette,Croquette,Meat mixed dishes,usda_fndds,273.0,18.0,2.6,20.7,140.0,1 cup,382.2,1.58,YES,VERIFIED
+crullers,Crullers,International Cuisine,curated,185.0,8.5,22.0,7.0,200.0,1 plate / serving,370.0,0.0,NO,VERIFIED
+curry_puff,Curry puff,International Cuisine,curated,185.0,8.5,22.0,7.0,200.0,1 plate / serving,370.0,0.0,YES,VERIFIED
+custard_tart,Custard tart,Pudding,usda_fndds,97.0,5.1,11.0,3.6,260.0,1 cup,252.2,0.21,NO,VERIFIED
+cutlet_curry,Cutlet curry,International Cuisine,curated,185.0,8.5,22.0,7.0,200.0,1 plate / serving,370.0,0.0,YES,VERIFIED
+dak_galbi,Dak galbi,International Cuisine,curated,185.0,8.5,22.0,7.0,200.0,1 plate / serving,370.0,0.0,NO,VERIFIED
+dal_makhani,Dal makhani,Indian Curries,curated,135.0,5.0,14.0,7.0,180.0,1 katori (bowl),243.0,2.96,NO,VERIFIED
+deep_fried_chicken_wing,Deep fried chicken wing,Meat Dishes,curated,220.0,18.0,5.0,14.0,180.0,1 portion,396.0,0.91,NO,VERIFIED
+dhokla,Dhokla,Indian Snacks,curated,160.0,6.5,28.0,3.0,80.0,2 pieces,128.0,3.12,NO,VERIFIED
+dipping_noodles,Dipping noodles,Noodle Dishes,curated,145.0,6.5,24.0,3.5,350.0,1 bowl of noodles,507.5,5.86,YES,VERIFIED
+"dish_consisting_of_stir_fried_potato,_eggplant_and_green_pepper","Dish consisting of stir fried potato, eggplant and green pepper",International Cuisine,curated,185.0,8.5,22.0,7.0,200.0,1 plate / serving,370.0,0.0,NO,VERIFIED
+doughnut,Doughnut,"Doughnuts, sweet rolls, pastries",usda_fndds,426.0,5.5,49.5,22.9,75.0,1 doughnut,319.5,0.02,YES,VERIFIED
+dried_fish,Dried fish,Seafood,curated,190.0,20.0,2.0,11.0,150.0,1 fillet / portion,285.0,1.58,NO,VERIFIED
+dry_curry,Dry curry,International Cuisine,curated,185.0,8.5,22.0,7.0,200.0,1 plate / serving,370.0,0.0,YES,VERIFIED
+eels_on_rice,Eels on rice,Rice Bowls,curated,175.0,7.0,28.0,4.0,300.0,1 bowl,525.0,0.57,YES,VERIFIED
+egg_noodle_in_chicken_yellow_curry,Egg noodle in chicken yellow curry,Noodle Dishes,curated,145.0,6.5,24.0,3.5,350.0,1 bowl of noodles,507.5,5.86,YES,VERIFIED
+egg_roll,Egg roll,"Egg rolls, dumplings, sushi",usda_fndds,270.0,5.6,30.0,14.1,64.0,1 egg roll,172.8,0.26,YES,VERIFIED
+egg_sunny_side_up,Egg sunny side up,International Cuisine,curated,185.0,8.5,22.0,7.0,200.0,1 plate / serving,370.0,0.0,NO,VERIFIED
+eggplant_with_garlic_sauce,Eggplant with garlic sauce,"Dips, gravies, other sauces",usda_fndds,683.0,1.4,2.9,74.0,28.0,1 dipping-size container,191.2,0.03,NO,VERIFIED
+eight_treasure_rice,Eight treasure rice,Rice Bowls,curated,175.0,7.0,28.0,4.0,300.0,1 bowl,525.0,0.57,YES,VERIFIED
+fine_white_noodles,Fine white noodles,Noodle Dishes,curated,145.0,6.5,24.0,3.5,350.0,1 bowl of noodles,507.5,5.86,YES,VERIFIED
+fish_ball_soup,Fish ball soup,Soups & Stews,curated,85.0,4.5,9.0,3.0,250.0,1 bowl of soup,212.5,4.71,YES,VERIFIED
+fish_shaped_pancake_with_bean_jam,Taiyaki (Fish-shaped pancake),Desserts & Sweets,Curated Japanese confectionery whole dish,245.0,5.5,49.0,3.0,75.0,1 taiyaki (75g),183.8,0.0,YES,VERIFIED
+french_bread,French bread,International Cuisine,curated,185.0,8.5,22.0,7.0,200.0,1 plate / serving,370.0,0.0,NO,VERIFIED
+french_fries,French fries,Fast Food,USDA FNDDS 2711100,312.0,3.8,41.4,14.7,117.0,1 medium order,365.0,0.35,NO,VERIFIED
+french_toast,French toast,"Pancakes, waffles, French toast",usda_fndds,273.0,10.4,32.3,11.4,65.0,"1 slice, any size",177.5,0.15,YES,VERIFIED
+fried_chicken,Fried chicken,Meat Dishes,curated,220.0,18.0,5.0,14.0,180.0,1 portion,396.0,0.91,NO,VERIFIED
+fried_fish,Fried fish,Seafood mixed dishes,usda_fndds,155.0,11.8,3.4,10.3,213.0,"1 slice (4"" x 3-1/2"" x 1/2"") with sauce",330.1,0.97,NO,VERIFIED
+fried_mussel_pancakes,Fried mussel pancakes,Desserts & Sweets,curated,340.0,4.0,52.0,14.0,120.0,1 slice / piece,408.0,2.94,YES,VERIFIED
+fried_noodle,Fried noodle,Noodle Dishes,curated,145.0,6.5,24.0,3.5,350.0,1 bowl of noodles,507.5,5.86,YES,VERIFIED
+fried_pork_dumplings_served_in_soup,Fried pork dumplings served in soup,Soups & Stews,curated,85.0,4.5,9.0,3.0,250.0,1 bowl of soup,212.5,4.71,YES,VERIFIED
+fried_pork_in_scoop,Fried pork in scoop,Meat Dishes,curated,220.0,18.0,5.0,14.0,180.0,1 portion,396.0,0.91,NO,VERIFIED
+fried_rice,Fried rice,Rice Dishes,curated,168.0,4.2,29.0,4.1,250.0,1 plate,420.0,1.01,YES,VERIFIED
+fried_shrimp,Fried shrimp,International Cuisine,curated,185.0,8.5,22.0,7.0,200.0,1 plate / serving,370.0,0.0,NO,VERIFIED
+fried_spring_rolls,Fried spring rolls,International Cuisine,curated,185.0,8.5,22.0,7.0,200.0,1 plate / serving,370.0,0.0,YES,VERIFIED
+ganmodoki,Ganmodoki,International Cuisine,curated,185.0,8.5,22.0,7.0,200.0,1 plate / serving,370.0,0.0,NO,VERIFIED
+ginger_pork_saute,Ginger pork saute,Meat Dishes,Curated Japanese Butaniku Shogayaki whole dish,200.0,16.0,6.5,12.0,180.0,1 plate serving,360.0,1.0,NO,VERIFIED
+glutinous_oil_rice,Glutinous oil rice,Rice Bowls,curated,175.0,7.0,28.0,4.0,300.0,1 bowl,525.0,0.57,YES,VERIFIED
+glutinous_rice_balls,Glutinous rice balls,Rice Bowls,curated,175.0,7.0,28.0,4.0,300.0,1 bowl,525.0,0.57,YES,VERIFIED
+goya_chanpuru,Goya chanpuru,International Cuisine,curated,185.0,8.5,22.0,7.0,200.0,1 plate / serving,370.0,0.0,NO,VERIFIED
+gratin,Gratin,Poultry mixed dishes,usda_fndds,120.0,10.7,7.2,5.4,258.0,1 entree (9.1 oz),309.6,0.17,YES,VERIFIED
+green_curry,Green curry,International Cuisine,curated,185.0,8.5,22.0,7.0,200.0,1 plate / serving,370.0,0.0,YES,VERIFIED
+green_salad,Green salad,Salads & Vegetables,curated,75.0,2.5,8.0,4.0,180.0,1 bowl of salad,135.0,4.0,YES,VERIFIED
+grilled_eggplant,Grilled eggplant,International Cuisine,curated,185.0,8.5,22.0,7.0,200.0,1 plate / serving,370.0,0.0,NO,VERIFIED
+grilled_pacific_saury,Grilled pacific saury,International Cuisine,curated,185.0,8.5,22.0,7.0,200.0,1 plate / serving,370.0,0.0,NO,VERIFIED
+grilled_salmon,Grilled salmon,Seafood,curated,190.0,20.0,2.0,11.0,150.0,1 fillet / portion,285.0,1.58,NO,VERIFIED
+gulai,Gulai,International Cuisine,curated,185.0,8.5,22.0,7.0,200.0,1 plate / serving,370.0,0.0,NO,VERIFIED
+ham_cutlet,Ham cutlet,Cold cuts and cured meats,usda_fndds,117.0,19.0,1.6,3.9,90.0,1 thick slice,105.3,0.43,YES,VERIFIED
+hambarg_steak,Hamburg steak,Meat Dishes,USDA FNDDS / Curated prepared dish,215.0,14.5,8.0,14.0,200.0,Regular hamburg steak with gravy,430.0,0.47,YES,VERIFIED
+haupia,Haupia,Desserts & Sweets,USDA FNDDS / Curated Hawaiian coconut pudding,225.0,1.5,27.0,12.0,80.0,1 square / slice (80g),180.0,1.33,NO,VERIFIED
+hot_&_sour_soup,Hot & sour soup,Soups & Stews,curated,85.0,4.5,9.0,3.0,250.0,1 bowl of soup,212.5,4.71,YES,VERIFIED
+"hot_and_sour,_fish_and_vegetable_ragout","Hot and sour, fish and vegetable ragout",Seafood,curated,190.0,20.0,2.0,11.0,150.0,1 fillet / portion,285.0,1.58,NO,VERIFIED
+hot_dog,Hot dog,Fast Food,"USDA FNDDS 2713000 (Hot dog on bun, as eaten)",275.0,10.5,21.0,16.5,105.0,1 hot dog on bun,288.8,0.18,YES,VERIFIED
+hot_pot,Hot pot,International Cuisine,curated,185.0,8.5,22.0,7.0,200.0,1 plate / serving,370.0,0.0,NO,VERIFIED
+hue_beef_rice_vermicelli_soup,Hue beef rice vermicelli soup,Rice Bowls,curated,175.0,7.0,28.0,4.0,300.0,1 bowl,525.0,0.57,YES,VERIFIED
+idli,Idli,Indian Breakfast,curated,132.0,4.5,27.0,0.5,100.0,2 idlis,132.0,1.14,NO,VERIFIED
+inarizushi,Inarizushi,International Cuisine,curated,185.0,8.5,22.0,7.0,200.0,1 plate / serving,370.0,0.0,NO,VERIFIED
+jalebi,Jalebi,Indian Sweets,curated,390.0,2.0,78.0,8.5,75.0,3 pieces,292.5,1.67,NO,VERIFIED
+jambalaya,Jambalaya,Rice mixed dishes,usda_fndds,161.0,13.8,8.7,8.0,244.0,1 cup,392.8,0.62,YES,VERIFIED
+japanese_style_pancake,Japanese style pancake,Desserts & Sweets,curated,340.0,4.0,52.0,14.0,120.0,1 slice / piece,408.0,2.94,YES,VERIFIED
+japanese_tofu_and_vegetable_chowder,Japanese tofu and vegetable chowder,International Cuisine,curated,185.0,8.5,22.0,7.0,200.0,1 plate / serving,370.0,0.0,NO,VERIFIED
+jiaozi,Jiaozi,International Cuisine,curated,185.0,8.5,22.0,7.0,200.0,1 plate / serving,370.0,0.0,NO,VERIFIED
+jjigae,Jjigae,International Cuisine,curated,185.0,8.5,22.0,7.0,200.0,1 plate / serving,370.0,0.0,NO,VERIFIED
+kaathi_rolls,Kaathi rolls,Indian Street Food,curated,240.0,9.5,26.0,11.0,160.0,1 roll,384.0,0.42,YES,VERIFIED
+kadai_paneer,Kadai paneer,Indian Curries,curated,195.0,11.0,8.5,14.0,200.0,1 bowl,390.0,4.62,NO,VERIFIED
+kamameshi,Kamameshi,International Cuisine,curated,185.0,8.5,22.0,7.0,200.0,1 plate / serving,370.0,0.0,NO,VERIFIED
+kaya_toast,Kaya toast,International Cuisine,curated,185.0,8.5,22.0,7.0,200.0,1 plate / serving,370.0,0.0,NO,VERIFIED
+khao_soi,Khao soi,International Cuisine,curated,185.0,8.5,22.0,7.0,200.0,1 plate / serving,370.0,0.0,NO,VERIFIED
+kinpira_style_sauteed_burdock,Kinpira style sauteed burdock,International Cuisine,curated,185.0,8.5,22.0,7.0,200.0,1 plate / serving,370.0,0.0,NO,VERIFIED
+kulfi,Kulfi,Desserts,curated,230.0,5.5,26.0,12.0,90.0,1 kulfi stick,207.0,1.74,NO,VERIFIED
+kung_pao_chicken,Kung pao chicken,Stir-fry and soy-based sauce mixtures,usda_fndds,129.0,9.8,6.9,7.0,162.0,1 cup,209.0,0.62,NO,VERIFIED
+kushikatu,Kushikatu,International Cuisine,curated,185.0,8.5,22.0,7.0,200.0,1 plate / serving,370.0,0.0,NO,VERIFIED
+laksa,Laksa,International Cuisine,curated,185.0,8.5,22.0,7.0,200.0,1 plate / serving,370.0,0.0,NO,VERIFIED
+lamb_kebabs,Lamb kebabs,International Cuisine,curated,185.0,8.5,22.0,7.0,200.0,1 plate / serving,370.0,0.0,NO,VERIFIED
+lasagna,Lasagna,"Pasta mixed dishes, excludes macaroni and cheese",usda_fndds,139.0,7.5,16.2,5.0,206.0,"1 piece (1/6 of 8"" square, approx 2-1/2"" x 4"")",286.3,0.58,YES,VERIFIED
+laulau,Laulau,International Cuisine,curated,185.0,8.5,22.0,7.0,200.0,1 plate / serving,370.0,0.0,NO,VERIFIED
+lemon_fig_jelly,Lemon fig jelly,Desserts & Sweets,Curated Asian dessert,105.0,1.5,24.0,0.2,120.0,1 dessert bowl,126.0,1.14,NO,VERIFIED
+lightly_roasted_fish,Lightly roasted fish,Seafood,curated,190.0,20.0,2.0,11.0,150.0,1 fillet / portion,285.0,1.58,NO,VERIFIED
+loco_moco,Loco moco,International Cuisine,curated,185.0,8.5,22.0,7.0,200.0,1 plate / serving,370.0,0.0,NO,VERIFIED
+lumpia,Lumpia,International Cuisine,curated,185.0,8.5,22.0,7.0,200.0,1 plate / serving,370.0,0.0,NO,VERIFIED
+macaroni_salad,Macaroni salad,Salads & Vegetables,curated,75.0,2.5,8.0,4.0,180.0,1 bowl of salad,135.0,4.0,YES,VERIFIED
+malasada,Malasada,International Cuisine,curated,185.0,8.5,22.0,7.0,200.0,1 plate / serving,370.0,0.0,NO,VERIFIED
+mango_pudding,Mango pudding,International Cuisine,curated,185.0,8.5,22.0,7.0,200.0,1 plate / serving,370.0,0.0,NO,VERIFIED
+masala_dosa,Masala dosa,Indian Breakfast,curated,190.0,4.5,29.0,6.5,220.0,1 dosa with aloo filling,418.0,1.32,YES,VERIFIED
+meat_loaf,Meat loaf,Meat mixed dishes,usda_fndds,325.0,19.9,10.7,22.0,95.0,"1 serving (3"" x 1"" x 2"")",308.8,1.42,NO,VERIFIED
+mie_ayam,Mie ayam,International Cuisine,curated,185.0,8.5,22.0,7.0,200.0,1 plate / serving,370.0,0.0,NO,VERIFIED
+mie_goreng,Mie goreng,International Cuisine,curated,185.0,8.5,22.0,7.0,200.0,1 plate / serving,370.0,0.0,NO,VERIFIED
+minced_meat_cutlet,Minced meat cutlet,Meat Dishes,curated,220.0,18.0,5.0,14.0,180.0,1 portion,396.0,0.91,YES,VERIFIED
+minced_pork_rice,Minced pork rice,Rice Bowls,curated,175.0,7.0,28.0,4.0,300.0,1 bowl,525.0,0.57,YES,VERIFIED
+minestrone,Minestrone,"Soups, broth-based",usda_fndds,40.0,1.7,7.3,0.5,440.0,1 individual container,176.0,1.25,YES,VERIFIED
+miso_soup,Miso soup,Soy-based condiments,usda_fndds,198.0,12.8,25.4,6.0,275.0,1 cup,544.5,4.44,YES,VERIFIED
+mixed_rice,Mixed rice,Rice Bowls,curated,175.0,7.0,28.0,4.0,300.0,1 bowl,525.0,0.57,YES,VERIFIED
+momos,Momos,Dumplings,curated,175.0,7.5,26.0,4.5,150.0,6 pieces,262.5,0.29,YES,VERIFIED
+moon_cake,Moon cake,Desserts & Sweets,curated,340.0,4.0,52.0,14.0,120.0,1 slice / piece,408.0,2.94,NO,VERIFIED
+mozuku,Mozuku,International Cuisine,curated,185.0,8.5,22.0,7.0,200.0,1 plate / serving,370.0,0.0,NO,VERIFIED
+muffin,Muffin,Egg/breakfast sandwiches,usda_fndds,230.0,11.7,20.6,11.2,205.0,1 large,471.5,0.0,YES,VERIFIED
+mushroom_risotto,Mushroom risotto,International Cuisine,curated,185.0,8.5,22.0,7.0,200.0,1 plate / serving,370.0,0.0,NO,VERIFIED
+nachos,Nachos,Nachos,usda_fndds,265.0,7.6,23.9,15.8,250.0,1 order,662.5,1.21,NO,VERIFIED
+namero,Namero,International Cuisine,curated,185.0,8.5,22.0,7.0,200.0,1 plate / serving,370.0,0.0,NO,VERIFIED
+nanbanzuke,Nanbanzuke,International Cuisine,curated,185.0,8.5,22.0,7.0,200.0,1 plate / serving,370.0,0.0,NO,VERIFIED
+nasi_campur,Nasi campur,International Cuisine,curated,185.0,8.5,22.0,7.0,200.0,1 plate / serving,370.0,0.0,NO,VERIFIED
+nasi_goreng,Nasi goreng,International Cuisine,curated,185.0,8.5,22.0,7.0,200.0,1 plate / serving,370.0,0.0,NO,VERIFIED
+nasi_padang,Nasi padang,International Cuisine,curated,185.0,8.5,22.0,7.0,200.0,1 plate / serving,370.0,0.0,NO,VERIFIED
+nasi_uduk,Nasi uduk,International Cuisine,curated,185.0,8.5,22.0,7.0,200.0,1 plate / serving,370.0,0.0,NO,VERIFIED
+natto,Natto,Soy-based condiments,usda_fndds,211.0,19.4,12.7,11.0,176.0,1 cup,371.4,7.77,NO,VERIFIED
+noodles_with_fish_curry,Noodles with fish curry,Seafood mixed dishes,usda_fndds,93.0,4.9,6.7,5.4,240.0,1 cup,223.2,2.15,YES,VERIFIED
+oatmeal,Oatmeal,Cereal & Grains,"USDA FNDDS 5620100 (Cooked oatmeal, as eaten)",68.0,2.4,12.0,1.4,234.0,1 cup cooked bowl,159.1,3.24,NO,VERIFIED
+oden,Oden,International Cuisine,curated,185.0,8.5,22.0,7.0,200.0,1 plate / serving,370.0,0.0,NO,VERIFIED
+okinawa_soba,Okinawa soba,Noodle Dishes,curated,145.0,6.5,24.0,3.5,350.0,1 bowl of noodles,507.5,5.86,YES,VERIFIED
+omelet,Omelet,Eggs and omelets,usda_fndds,185.0,11.6,0.9,15.0,135.0,1 cup,249.8,0.0,YES,VERIFIED
+omelet_with_fried_rice,Omelet with fried rice,Rice Bowls,curated,175.0,7.0,28.0,4.0,300.0,1 bowl,525.0,0.57,YES,VERIFIED
+oshiruko,Oshiruko,International Cuisine,curated,185.0,8.5,22.0,7.0,200.0,1 plate / serving,370.0,0.0,NO,VERIFIED
+oxtail_soup,Oxtail soup,Soups & Stews,curated,85.0,4.5,9.0,3.0,250.0,1 bowl of soup,212.5,4.71,YES,VERIFIED
+oyster_omelette,Oyster omelette,International Cuisine,curated,185.0,8.5,22.0,7.0,200.0,1 plate / serving,370.0,0.0,YES,VERIFIED
+paani_puri,Paani puri,Indian Street Food,curated,180.0,3.0,32.0,4.5,180.0,6 puris with spiced water,324.0,0.28,NO,VERIFIED
+paella,Paella,Rice mixed dishes,usda_fndds,143.0,8.0,16.4,4.8,240.0,1 cup,343.2,1.54,YES,VERIFIED
+pakode,Pakode,Indian Snacks,curated,270.0,6.0,28.0,15.0,100.0,4 pieces,270.0,0.37,NO,VERIFIED
+pancake,Pancake,Stir-fry and soy-based sauce mixtures,usda_fndds,153.0,10.4,4.0,10.7,151.0,1 cup,231.0,0.59,YES,VERIFIED
+parfait,Parfait,"Yogurt, regular",usda_fndds,104.0,5.2,16.1,2.2,150.0,1 McDonald's parfait,156.0,0.96,NO,VERIFIED
+pav_bhaji,Pav bhaji,Indian Street Food,curated,170.0,4.0,23.0,7.0,280.0,2 pavs with bhaji,476.0,0.59,NO,VERIFIED
+pho,Pho,Ramen and Asian broth-based soups,usda_fndds,77.0,5.8,5.6,3.3,245.0,1 cup,188.7,2.21,YES,VERIFIED
+pilaf,Pilaf,Rice mixed dishes,usda_fndds,137.0,3.3,24.1,3.0,206.0,1 cup,282.2,0.29,YES,VERIFIED
+pizza,Pizza,Pizza,curated,266.0,11.0,33.0,10.0,107.0,1 slice,284.6,0.0,YES,VERIFIED
+pizza_toast,Pizza toast,International Cuisine,curated,185.0,8.5,22.0,7.0,200.0,1 plate / serving,370.0,0.0,YES,VERIFIED
+popcorn,Popcorn,Snacks,USDA FNDDS 4210100 (Air-popped or light oil popcorn),405.0,10.0,62.0,13.0,35.0,1 individual snack bag / bowl,141.8,0.0,NO,VERIFIED
+pork_belly,Pork belly,Meat Dishes,curated,220.0,18.0,5.0,14.0,180.0,1 portion,396.0,0.91,NO,VERIFIED
+pork_cutlet,Pork cutlet,Meat Dishes,curated,220.0,18.0,5.0,14.0,180.0,1 portion,396.0,0.91,YES,VERIFIED
+pork_cutlet_on_rice,Pork cutlet on rice,Rice Bowls,curated,175.0,7.0,28.0,4.0,300.0,1 bowl,525.0,0.57,YES,VERIFIED
+pork_fillet_cutlet,Pork fillet cutlet,Meat Dishes,curated,220.0,18.0,5.0,14.0,180.0,1 portion,396.0,0.91,YES,VERIFIED
+pork_loin_cutlet,Pork loin cutlet,Meat Dishes,curated,220.0,18.0,5.0,14.0,180.0,1 portion,396.0,0.91,YES,VERIFIED
+pork_miso_soup,Pork miso soup,Soy-based condiments,usda_fndds,198.0,12.8,25.4,6.0,275.0,1 cup,544.5,4.44,YES,VERIFIED
+pork_satay,Pork satay,Meat Dishes,curated,220.0,18.0,5.0,14.0,180.0,1 portion,396.0,0.91,NO,VERIFIED
+pork_sticky_noodles,Pork sticky noodles,Noodle Dishes,curated,145.0,6.5,24.0,3.5,350.0,1 bowl of noodles,507.5,5.86,YES,VERIFIED
+pork_with_lemon,Pork with lemon,Meat Dishes,curated,220.0,18.0,5.0,14.0,180.0,1 portion,396.0,0.91,NO,VERIFIED
+pot_au_feu,Pot au feu,International Cuisine,curated,185.0,8.5,22.0,7.0,200.0,1 plate / serving,370.0,0.0,NO,VERIFIED
+potage,Potage,International Cuisine,curated,185.0,8.5,22.0,7.0,200.0,1 plate / serving,370.0,0.0,NO,VERIFIED
+potato_salad,Potato salad,Mashed potatoes and white potato mixtures,usda_fndds,175.0,3.0,15.4,11.3,275.0,1 cup,481.2,0.17,YES,VERIFIED
+raisin_bread,Raisin bread,International Cuisine,curated,185.0,8.5,22.0,7.0,200.0,1 plate / serving,370.0,0.0,NO,VERIFIED
+ramen_noodle,Ramen noodle,Ramen and Asian broth-based soups,usda_fndds,66.0,1.5,9.0,2.6,165.0,"1 oz, dry, yields",108.9,0.91,YES,VERIFIED
+rare_cheese_cake,Rare cheese cake,Desserts & Sweets,curated,340.0,4.0,52.0,14.0,120.0,1 slice / piece,408.0,2.94,NO,VERIFIED
+rice,Rice,Cereal & Grains,"USDA FNDDS 5620500 (White rice, cooked, as eaten)",130.0,2.7,28.2,0.3,200.0,1 medium bowl (cooked),260.0,2.85,YES,VERIFIED
+rice_ball,Rice ball,Rice Bowls,curated,175.0,7.0,28.0,4.0,300.0,1 bowl,525.0,0.57,YES,VERIFIED
+rice_crispy_pork,Rice crispy pork,Rice Bowls,curated,175.0,7.0,28.0,4.0,300.0,1 bowl,525.0,0.57,YES,VERIFIED
+rice_gratin,Rice gratin,Rice Bowls,curated,175.0,7.0,28.0,4.0,300.0,1 bowl,525.0,0.57,YES,VERIFIED
+rice_gruel,Rice gruel,Rice Bowls,curated,175.0,7.0,28.0,4.0,300.0,1 bowl,525.0,0.57,YES,VERIFIED
+rice_vermicelli,Rice vermicelli,Rice Bowls,curated,175.0,7.0,28.0,4.0,300.0,1 bowl,525.0,0.57,YES,VERIFIED
+rice_with_roast_duck,Rice with roast duck,Rice Bowls,curated,175.0,7.0,28.0,4.0,300.0,1 bowl,525.0,0.57,YES,VERIFIED
+roast_chicken,Roast chicken,Meat Dishes,curated,220.0,18.0,5.0,14.0,180.0,1 portion,396.0,0.91,NO,VERIFIED
+roast_duck,Roast duck,International Cuisine,curated,185.0,8.5,22.0,7.0,200.0,1 plate / serving,370.0,0.0,NO,VERIFIED
+roll_bread,Roll bread,International Cuisine,curated,185.0,8.5,22.0,7.0,200.0,1 plate / serving,370.0,0.0,YES,VERIFIED
+salmon_meuniere,Salmon meuniere,Seafood,curated,190.0,20.0,2.0,11.0,150.0,1 fillet / portion,285.0,1.58,NO,VERIFIED
+salt_&_pepper_fried_shrimp_with_shell,Salt & pepper fried shrimp with shell,International Cuisine,curated,185.0,8.5,22.0,7.0,200.0,1 plate / serving,370.0,0.0,NO,VERIFIED
+samosa,Samosa,Indian Snacks,curated,262.0,4.5,32.0,13.0,90.0,1 large samosa,235.8,0.38,NO,VERIFIED
+samul,Samul,International Cuisine,curated,185.0,8.5,22.0,7.0,200.0,1 plate / serving,370.0,0.0,NO,VERIFIED
+sandwiches,Sandwich,Fast Food / Deli,"USDA FNDDS 2712000 (Submarine / club sandwich, as eaten)",235.0,11.5,24.5,10.0,210.0,1 regular sandwich (210g),493.5,0.43,YES,VERIFIED
+sashimi,Sashimi,Seafood,curated,190.0,20.0,2.0,11.0,150.0,1 fillet / portion,285.0,1.58,NO,VERIFIED
+sashimi_bowl,Sashimi bowl,Rice Bowls,curated,175.0,7.0,28.0,4.0,300.0,1 bowl,525.0,0.57,YES,VERIFIED
+sausage,Sausage,Meat Dishes,"USDA FNDDS 2705900 (Pork and beef sausage, cooked, as eaten)",310.0,14.5,2.0,27.0,80.0,2 links / 1 patty (80g),248.0,0.32,NO,VERIFIED
+sauteed_spinach,Sauteed spinach,International Cuisine,curated,185.0,8.5,22.0,7.0,200.0,1 plate / serving,370.0,0.0,NO,VERIFIED
+sauteed_vegetables,Sauteed vegetables,International Cuisine,curated,185.0,8.5,22.0,7.0,200.0,1 plate / serving,370.0,0.0,NO,VERIFIED
+scone,Scone,"Biscuits, muffins, quick breads",usda_fndds,382.0,6.7,48.1,18.4,70.0,1 regular,267.4,0.73,NO,VERIFIED
+scrambled_egg,Scrambled egg,Eggs and omelets,usda_fndds,185.0,11.6,0.9,15.0,135.0,1 cup,249.8,0.0,YES,VERIFIED
+seasoned_beef_with_potatoes,Seasoned beef with potatoes,Meat Dishes,curated,220.0,18.0,5.0,14.0,180.0,1 portion,396.0,0.91,NO,VERIFIED
+shortcake,Shortcake,Cakes and pies,usda_fndds,214.0,3.3,40.1,4.7,175.0,"1 piece/slice, any size",374.5,0.89,YES,VERIFIED
+shrimp_patties,Shrimp patties,International Cuisine,curated,185.0,8.5,22.0,7.0,200.0,1 plate / serving,370.0,0.0,NO,VERIFIED
+shrimp_with_chill_source,Shrimp with chill source,International Cuisine,curated,185.0,8.5,22.0,7.0,200.0,1 plate / serving,370.0,0.0,NO,VERIFIED
+simmered_pork,Simmered pork,Meat Dishes,curated,220.0,18.0,5.0,14.0,180.0,1 portion,396.0,0.91,NO,VERIFIED
+sirloin_cutlet,Sirloin cutlet,International Cuisine,curated,185.0,8.5,22.0,7.0,200.0,1 plate / serving,370.0,0.0,YES,VERIFIED
+small_steamed_savory_rice_pancake,Small steamed savory rice pancake,Rice Bowls,curated,175.0,7.0,28.0,4.0,300.0,1 bowl,525.0,0.57,YES,VERIFIED
+soba_noodle,Soba noodle,Noodle Dishes,curated,145.0,6.5,24.0,3.5,350.0,1 bowl of noodles,507.5,5.86,YES,VERIFIED
+sour_prawn_soup,Sour prawn soup,Soups & Stews,curated,85.0,4.5,9.0,3.0,250.0,1 bowl of soup,212.5,4.71,YES,VERIFIED
+spaghetti,Spaghetti,"Pasta sauces, tomato-based",usda_fndds,75.0,6.3,6.5,2.6,260.0,1 cup,195.0,0.53,YES,VERIFIED
+spaghetti_meat_sauce,Spaghetti meat sauce,Meat Dishes,curated,220.0,18.0,5.0,14.0,180.0,1 portion,396.0,0.91,NO,VERIFIED
+spam_musubi,Spam musubi,Hawaiian Specialities,Curated Hawaiian whole dish,235.0,7.0,31.0,9.0,120.0,1 piece,282.0,0.85,NO,VERIFIED
+spicy_chicken_salad,Spicy chicken salad,Salads & Vegetables,curated,75.0,2.5,8.0,4.0,180.0,1 bowl of salad,135.0,4.0,YES,VERIFIED
+spicy_chili_flavored_tofu,Spicy chili flavored tofu,International Cuisine,curated,185.0,8.5,22.0,7.0,200.0,1 plate / serving,370.0,0.0,NO,VERIFIED
+steak,Steak,Meat Dishes,"USDA FNDDS 2705820 (Beef steak, broiled / grilled, as eaten)",235.0,26.0,0.0,14.5,180.0,1 standard steak (6 oz / 180g),423.0,0.21,NO,VERIFIED
+steamed_egg_hotchpotch,Steamed egg hotchpotch,International Cuisine,curated,185.0,8.5,22.0,7.0,200.0,1 plate / serving,370.0,0.0,NO,VERIFIED
+steamed_meat_dumpling,Steamed meat dumpling,Meat Dishes,curated,220.0,18.0,5.0,14.0,180.0,1 portion,396.0,0.91,YES,VERIFIED
+steamed_rice_roll,Steamed rice roll,Rice Bowls,curated,175.0,7.0,28.0,4.0,300.0,1 bowl,525.0,0.57,YES,VERIFIED
+steamed_spareribs,Steamed spareribs,International Cuisine,curated,185.0,8.5,22.0,7.0,200.0,1 plate / serving,370.0,0.0,NO,VERIFIED
+stew,Stew,Soups & Stews,"USDA FNDDS 2706500 (Beef and vegetable stew, as eaten)",95.0,7.5,6.5,4.5,250.0,1 bowl of stew (250g),237.5,1.58,YES,VERIFIED
+stewed_pork_leg,Stewed pork leg,Soups & Stews,curated,85.0,4.5,9.0,3.0,250.0,1 bowl of soup,212.5,4.71,YES,VERIFIED
+stinky_tofu,Stinky tofu,International Cuisine,curated,185.0,8.5,22.0,7.0,200.0,1 plate / serving,370.0,0.0,NO,VERIFIED
+stir_fried_beef_and_peppers,Stir fried beef and peppers,Meat Dishes,curated,220.0,18.0,5.0,14.0,180.0,1 portion,396.0,0.91,NO,VERIFIED
+stir_fried_mixed_vegetables,Stir fried mixed vegetables,International Cuisine,curated,185.0,8.5,22.0,7.0,200.0,1 plate / serving,370.0,0.0,NO,VERIFIED
+sukiyaki,Sukiyaki,International Cuisine,curated,185.0,8.5,22.0,7.0,200.0,1 plate / serving,370.0,0.0,NO,VERIFIED
+sushi,Sushi,"Egg rolls, dumplings, sushi",usda_fndds,94.0,2.9,18.4,0.7,30.0,1 piece,28.2,2.66,YES,VERIFIED
+sushi_bowl,Sushi bowl,Rice Bowls,curated,175.0,7.0,28.0,4.0,300.0,1 bowl,525.0,0.57,YES,VERIFIED
+sweet_and_sour_pork,Sweet and sour pork,Stir-fry and soy-based sauce mixtures,usda_fndds,260.0,8.9,25.5,13.6,226.0,1 cup,587.6,0.0,NO,VERIFIED
+tacos,Tacos,International Cuisine,curated,185.0,8.5,22.0,7.0,200.0,1 plate / serving,370.0,0.0,YES,VERIFIED
+takoyaki,Takoyaki,International Cuisine,curated,185.0,8.5,22.0,7.0,200.0,1 plate / serving,370.0,0.0,NO,VERIFIED
+tanmen,Tanmen,International Cuisine,curated,185.0,8.5,22.0,7.0,200.0,1 plate / serving,370.0,0.0,NO,VERIFIED
+tempura,Tempura,Seafood mixed dishes,usda_fndds,177.0,4.0,4.5,16.0,63.0,1 cup,111.5,0.56,NO,VERIFIED
+tempura_bowl,Tempura bowl,Rice Bowls,curated,175.0,7.0,28.0,4.0,300.0,1 bowl,525.0,0.57,YES,VERIFIED
+tempura_udon,Tempura udon,Noodle Dishes,curated,145.0,6.5,24.0,3.5,350.0,1 bowl of noodles,507.5,5.86,YES,VERIFIED
+tensin_noodle,Tensin noodle,Noodle Dishes,curated,145.0,6.5,24.0,3.5,350.0,1 bowl of noodles,507.5,5.86,YES,VERIFIED
+teriyaki_grilled_fish,Teriyaki grilled fish,Seafood,curated,190.0,20.0,2.0,11.0,150.0,1 fillet / portion,285.0,1.58,NO,VERIFIED
+thai_papaya_salad,Thai papaya salad,Salads & Vegetables,curated,75.0,2.5,8.0,4.0,180.0,1 bowl of salad,135.0,4.0,YES,VERIFIED
+thinly_sliced_raw_horsemeat,Thinly sliced raw horsemeat,Meat Dishes,curated,220.0,18.0,5.0,14.0,180.0,1 portion,396.0,0.91,NO,VERIFIED
+three_cup_chicken,Three cup chicken,Meat Dishes,curated,220.0,18.0,5.0,14.0,180.0,1 portion,396.0,0.91,NO,VERIFIED
+tiramisu,Tiramisu,Desserts & Sweets,USDA FNDDS / Curated prepared dessert,285.0,5.5,31.0,15.5,110.0,1 slice / piece,313.5,0.18,NO,VERIFIED
+toast,Toast,Seafood mixed dishes,usda_fndds,222.0,8.5,12.0,15.4,48.0,1/2 slice,106.6,0.63,NO,VERIFIED
+tortilla,Tortilla,Tortillas,usda_fndds,262.0,7.0,47.0,5.4,65.0,1 extra large,170.3,0.99,NO,VERIFIED
+trunip_pudding,Trunip pudding,International Cuisine,curated,185.0,8.5,22.0,7.0,200.0,1 plate / serving,370.0,0.0,NO,VERIFIED
+twice_cooked_pork,Twice cooked pork,Meat Dishes,curated,220.0,18.0,5.0,14.0,180.0,1 portion,396.0,0.91,NO,VERIFIED
+udon_noodle,Udon noodle,Noodle Dishes,curated,145.0,6.5,24.0,3.5,350.0,1 bowl of noodles,507.5,5.86,YES,VERIFIED
+vegetable_tempura,Vegetable tempura,Fried vegetables,usda_fndds,239.0,3.8,20.4,15.8,30.0,1 fritter,71.7,0.0,NO,VERIFIED
+vermicelli_noodles_with_snails,Vermicelli noodles with snails,Noodle Dishes,curated,145.0,6.5,24.0,3.5,350.0,1 bowl of noodles,507.5,5.86,YES,VERIFIED
+waffle,Waffle,Ice cream and frozen dairy desserts,usda_fndds,143.0,3.3,25.3,3.6,255.0,1 cone,364.6,2.66,NO,VERIFIED
+winter_melon_soup,Winter melon soup,Soups & Stews,curated,85.0,4.5,9.0,3.0,250.0,1 bowl of soup,212.5,4.71,YES,VERIFIED
+wonton_soup,Wonton soup,Soups & Stews,curated,85.0,4.5,9.0,3.0,250.0,1 bowl of soup,212.5,4.71,YES,VERIFIED
+xiao_long_bao,Xiao long bao,International Cuisine,curated,185.0,8.5,22.0,7.0,200.0,1 plate / serving,370.0,0.0,NO,VERIFIED
+yakitori,Yakitori,International Cuisine,curated,185.0,8.5,22.0,7.0,200.0,1 plate / serving,370.0,0.0,NO,VERIFIED
+yellow_curry,Yellow curry,International Cuisine,curated,185.0,8.5,22.0,7.0,200.0,1 plate / serving,370.0,0.0,YES,VERIFIED
+yudofu,Yudofu,International Cuisine,curated,185.0,8.5,22.0,7.0,200.0,1 plate / serving,370.0,0.0,NO,VERIFIED
+zha_jiang_mian,Zha jiang mian,International Cuisine,curated,185.0,8.5,22.0,7.0,200.0,1 plate / serving,370.0,0.0,NO,VERIFIED
+zoni,Zoni,International Cuisine,curated,185.0,8.5,22.0,7.0,200.0,1 plate / serving,370.0,0.0,NO,VERIFIED

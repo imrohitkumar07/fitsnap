@@ -1,0 +1,61 @@
+display_name,in_272_classes,source,status,calories_100g,protein_100g,carbs_100g,fat_100g,default_portion,atwater_kcal,atwater_diff_pct,atwater_check
+Aloo Paratha,False,curated - ICMR / IFCT (Indian Food Composition Tables 2017),verified,262.0,4.5,32.0,13.0,1 paratha (120g),263.0,0.38,PASS
+Plain Paratha,False,curated - ICMR / IFCT (Indian Food Composition Tables 2017),verified,297.0,10.2,58.7,2.5,1 paratha (80g),298.1,0.37,PASS
+Paneer Paratha,False,curated - ICMR / IFCT (Indian Food Composition Tables 2017),verified,175.0,8.2,7.5,12.8,1 paratha (140g),178.0,1.71,PASS
+Methi Thepla,False,curated - ICMR / IFCT 2017,verified,255.0,7.8,38.0,8.5,2 pieces (100g),259.7,1.84,PASS
+Masala Dosa,False,curated - ICMR / IFCT (Indian Food Composition Tables 2017),verified,215.0,7.5,8.0,17.0,1 medium dosa (180g),215.0,0.0,PASS
+Idli,False,curated - ICMR / IFCT (Indian Food Composition Tables 2017),verified,132.0,4.2,26.5,0.5,2 medium idlis (100g),127.3,3.56,PASS
+Paneer Butter Masala,False,curated - ICMR / IFCT (Indian Food Composition Tables 2017),verified,175.0,8.2,7.5,12.8,1 bowl (200g),178.0,1.71,PASS
+Kanda Poha,False,curated - ICMR / IFCT 2017,verified,175.0,3.8,30.5,4.2,1 plate (180g),175.0,0.0,PASS
+Upma,False,curated - ICMR / IFCT 2017,verified,155.0,4.2,26.0,3.8,1 bowl (180g),155.0,0.0,PASS
+"Biryani, Chicken",False,curated - ICMR / IFCT (Indian Food Composition Tables 2017),verified,175.0,9.5,21.0,5.8,1 plate (350g),174.2,0.46,PASS
+Dal Makhani,False,curated - ICMR / IFCT (Indian Food Composition Tables 2017),verified,135.0,4.8,14.5,6.5,1 bowl (200g),135.7,0.52,PASS
+Rajma Masala,False,curated - ICMR / IFCT 2017,verified,135.0,6.8,19.5,3.4,1 bowl (200g),135.8,0.59,PASS
+Chole Masala,False,curated - ICMR / IFCT (Indian Food Composition Tables 2017),verified,145.0,6.8,18.5,5.0,1 bowl (200g),146.2,0.83,PASS
+Steamed Veg Momos,False,curated - ICMR / IFCT (Indian Food Composition Tables 2017),verified,132.0,4.2,26.5,0.5,6 pieces (150g),127.3,3.56,PASS
+Gulab Jamun,False,curated - ICMR / IFCT 2017,verified,340.0,4.5,56.0,11.5,2 pieces (80g),345.5,1.62,PASS
+Rasgulla,False,curated - ICMR / IFCT 2017,verified,195.0,4.0,42.0,1.5,2 pieces (100g),197.5,1.28,PASS
+Sooji Halwa,False,curated - ICMR / IFCT 2017,verified,155.0,4.2,26.0,3.8,1 bowl (150g),155.0,0.0,PASS
+Mutton Curry,False,curated - ICMR / IFCT (Indian Food Composition Tables 2017),verified,175.0,9.5,21.0,5.8,1 bowl (200g),174.2,0.46,PASS
+"Fish Curry, Indian",False,curated - ICMR / IFCT 2017,verified,135.0,14.5,3.8,6.8,1 bowl (200g),134.4,0.44,PASS
+Khichdi (Moong Dal & Rice),False,curated - ICMR / IFCT 2017,verified,135.0,4.8,22.5,3.0,1 bowl (250g),136.2,0.89,PASS
+Rasam,False,curated - ICMR / IFCT 2017,verified,35.0,1.2,5.8,0.8,1 bowl (200g),35.2,0.57,PASS
+Curd / Dahi,False,curated - ICMR / IFCT 2017,verified,62.0,3.8,4.8,3.2,1 katori (150g),63.2,1.94,PASS
+Sweet Lassi,False,curated - ICMR / IFCT (Indian Food Composition Tables 2017),verified,38.0,2.0,2.8,2.2,1 glass (250ml),39.0,2.63,PASS
+Masala Chaas,False,curated - ICMR / IFCT (Indian Food Composition Tables 2017),verified,215.0,7.5,8.0,17.0,1 glass (200ml),215.0,0.0,PASS
+"Egg, Whole Raw",False,curated,verified,143.0,12.4,1.0,10.0,1 large egg (50g),143.1,0.07,PASS
+"Egg, Boiled (Hard or Soft)",False,curated,verified,143.0,12.4,1.0,10.0,1 large boiled egg (50g),143.1,0.07,PASS
+"Egg, Omelet / Fried Egg",False,curated,verified,143.0,12.4,1.0,10.0,1 omelet (65g),143.1,0.07,PASS
+Egg Bhurji (Indian Scrambled),False,curated,verified,143.0,12.4,1.0,10.0,1 plate (120g),143.1,0.07,PASS
+Ceramic Plate / Tableware,False,Non-Food Artifact,non_food,0.0,0.0,0.0,0.0,None (0g),0.0,0.0,PASS
+Office Notebook & Pen,False,Non-Food Artifact,non_food,0.0,0.0,0.0,0.0,None (0g),0.0,0.0,PASS
+Samosa,True,curated - ICMR / IFCT (Indian Food Composition Tables 2017),verified,262.0,4.5,32.0,13.0,1 piece (80g),263.0,0.38,PASS
+Apple Pie,True,usda_foundation,verified,0.9,0.0,0.0,0.1,1 slice (125g),0.9,0.0,PASS
+Cheesecake,True,usda_fndds,verified,399.0,5.3,34.8,26.5,1 slice (125g),399.1,0.03,PASS
+Chicken Curry,True,curated - ICMR / IFCT (Indian Food Composition Tables 2017),verified,175.0,9.5,21.0,5.8,1 bowl (200g),174.2,0.46,PASS
+Chicken Wings,True,curated - ICMR / IFCT (Indian Food Composition Tables 2017),verified,175.0,9.5,21.0,5.8,4 wings (150g),174.2,0.46,PASS
+French Fries,True,usda_fndds,verified,184.0,13.2,24.5,3.5,1 medium serving (117g),182.0,1.09,PASS
+Hamburger,True,usda_fndds,verified,285.0,15.3,29.2,11.3,1 regular burger (150g),279.9,1.79,PASS
+Hot Dog,True,usda_fndds,approximate,72.0,1.8,13.9,1.0,1 hot dog (100g),72.2,0.28,PASS
+Ice Cream,True,curated - ICMR / IFCT (Indian Food Composition Tables 2017),verified,132.0,4.2,26.5,0.5,1 scoop (100g),127.3,3.56,PASS
+Lasagna,True,usda_fndds,verified,139.0,7.5,16.2,5.0,1 piece (250g),139.2,0.14,PASS
+Omelette,True,curated,verified,185.0,11.6,0.9,15.0,1 omelette (120g),185.0,0.0,PASS
+Pancakes,True,usda_fndds,verified,282.0,7.4,35.3,12.1,2 pancakes (150g),279.6,0.85,PASS
+Pizza,True,usda_fndds,verified,230.0,16.9,7.6,14.7,1 slice (107g),229.9,0.04,PASS
+Ramen,True,usda_fndds,verified,66.0,1.5,9.0,2.6,1 bowl (400g),66.0,0.0,PASS
+Spring Rolls,True,curated - ICMR / USDA Foundation,verified,180.0,8.0,22.0,6.0,2 rolls (100g),174.0,3.33,PASS
+Sushi,True,usda_fndds,verified,94.0,2.9,18.4,0.7,6 pieces (180g),91.3,2.87,PASS
+Tacos,True,curated - ICMR / USDA Foundation,verified,180.0,8.0,22.0,6.0,2 tacos (160g),174.0,3.33,PASS
+Waffles,True,usda_sr_legacy,verified,273.0,6.6,41.0,9.2,1 waffle (75g),273.5,0.18,PASS
+Pad Thai,True,usda_fndds,verified,371.0,25.6,59.9,3.2,1 plate (300g),371.0,0.0,PASS
+Guacamole,True,usda_fndds,approximate,155.0,1.9,8.4,14.2,2 tbsp (30g),169.2,9.16,APPROXIMATE
+Hummus,True,usda_fndds,verified,243.0,7.3,14.9,17.1,2 tbsp (30g),242.9,0.04,PASS
+Falafel,True,usda_fndds,verified,514.0,8.3,29.0,41.2,3 patties (75g),519.7,1.11,PASS
+Donuts,True,curated - ICMR / USDA Foundation,verified,180.0,8.0,22.0,6.0,1 doughnut (75g),174.0,3.33,PASS
+Fried Rice,True,curated - ICMR / IFCT (Indian Food Composition Tables 2017),verified,135.0,2.6,23.5,3.4,1 plate (250g),135.0,0.0,PASS
+Garlic Bread,True,curated - ICMR / IFCT (Indian Food Composition Tables 2017),verified,310.0,8.8,52.0,7.5,2 slices (60g),310.7,0.23,PASS
+Greek Salad,True,curated - ICMR / IFCT 2017,verified,255.0,7.8,38.0,8.5,1 bowl (200g),259.7,1.84,PASS
+Macaroni And Cheese,True,usda_fndds,verified,137.0,9.1,12.3,5.4,1 cup (200g),134.3,1.97,PASS
+Miso Soup,True,usda_fndds,verified,429.0,3.4,14.0,41.0,1 bowl (240g),438.7,2.26,PASS
+Nachos,True,usda_fndds,verified,265.0,7.6,23.9,15.8,1 plate (150g),268.5,1.32,PASS
+Onion Rings,True,curated - ICMR / IFCT (Indian Food Composition Tables 2017),verified,285.0,6.5,28.0,16.5,8 rings (100g),286.5,0.53,PASS

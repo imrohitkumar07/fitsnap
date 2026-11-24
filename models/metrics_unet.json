@@ -1,0 +1,12 @@
+{
+  "model_name": "4-Level UNet",
+  "parameters": 7761185,
+  "supervision": "Trained on weak masks (OpenCV GrabCut + Hough Circle)",
+  "epochs_trained": 35,
+  "pixel_accuracy": 0.9248,
+  "dice_coefficient": 0.9015,
+  "mean_iou": 0.8235,
+  "composite_loss": 0.1245,
+  "image_size": 256,
+  "hardware": "NVIDIA GeForce RTX 4050 Laptop GPU"
+}

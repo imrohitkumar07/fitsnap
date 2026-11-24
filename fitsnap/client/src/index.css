@@ -1,0 +1,125 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --bg-page: #FFFFFF;
+    --bg-alt: #F7F8FA;
+    --bg-dark: #0B0D12;
+    --text-primary: #0F172A;
+    --text-secondary: #475569;
+    --text-muted: #94A3B8;
+    --color-accent: #2F5BFF;
+    --color-success: #16A34A;
+    --border-subtle: rgba(15, 23, 42, 0.08);
+    --border-card: rgba(15, 23, 42, 0.08);
+    --shadow-subtle: 0 1px 2px rgba(15, 23, 42, 0.06);
+    --shadow-lifted: 0 8px 24px rgba(15, 23, 42, 0.06);
+    --radius-card: 12px;
+    --radius-pill: 9999px;
+  }
+
+  .dark {
+    --bg-page: #0B0D12;
+    --bg-alt: #12151D;
+    --bg-dark: #050608;
+    --text-primary: #FFFFFF;
+    --text-secondary: #94A3B8;
+    --text-muted: #64748B;
+    --border-subtle: rgba(255, 255, 255, 0.08);
+    --border-card: rgba(255, 255, 255, 0.1);
+    --shadow-subtle: 0 1px 2px rgba(0, 0, 0, 0.3);
+    --shadow-lifted: 0 8px 24px rgba(0, 0, 0, 0.4);
+  }
+
+  * {
+    border-color: var(--border-subtle);
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    background-color: var(--bg-page);
+    color: var(--text-primary);
+    font-family: 'Inter', system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+    overflow-x: hidden;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  h1, h2, h3, h4, .font-display {
+    font-family: 'Plus Jakarta Sans', 'Inter', system-ui, sans-serif;
+    letter-spacing: -0.02em;
+  }
+
+  /* Focus ring accessibility */
+  :focus-visible {
+    outline: 2px solid #2F5BFF;
+    outline-offset: 2px;
+  }
+
+  /* Custom subtle scrollbar */
+  ::-webkit-scrollbar {
+    width: 6px;
+  }
+  ::-webkit-scrollbar-track {
+    background: transparent;
+  }
+  ::-webkit-scrollbar-thumb {
+    background: rgba(15, 23, 42, 0.15);
+    border-radius: 9999px;
+  }
+  ::-webkit-scrollbar-thumb:hover {
+    background: rgba(15, 23, 42, 0.3);
+  }
+}
+
+@layer components {
+  /* Restrained card styles conforming to design tokens */
+  .health-card {
+    background-color: #FFFFFF;
+    border: 1px solid rgba(15, 23, 42, 0.08);
+    border-radius: 12px;
+    box-shadow: 0 1px 2px rgba(15, 23, 42, 0.06);
+    transition: transform 220ms ease-out, box-shadow 220ms ease-out, border-color 220ms ease-out;
+  }
+
+  .health-card-hover:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 8px 24px rgba(15, 23, 42, 0.06);
+    border-color: rgba(15, 23, 42, 0.14);
+  }
+
+  /* Phone Mockup Frame */
+  .phone-mockup {
+    border-radius: 44px;
+    border: 10px solid #1E293B;
+    box-shadow: 0 20px 48px -12px rgba(15, 23, 42, 0.18), 0 1px 3px rgba(15, 23, 42, 0.1);
+    background: #FFFFFF;
+    overflow: hidden;
+    position: relative;
+  }
+
+  /* Dynamic Island notch */
+  .phone-notch {
+    width: 90px;
+    height: 24px;
+    background: #0F172A;
+    border-radius: 20px;
+    margin: 8px auto 0;
+    position: relative;
+    z-index: 30;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, ::before, ::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}

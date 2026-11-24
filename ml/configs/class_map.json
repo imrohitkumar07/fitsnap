@@ -1,0 +1,8136 @@
+{
+  "adobo": {
+    "class_name": "adobo",
+    "food_id": "778969db-ef99-44f6-8701-b86c5e7fd0ed",
+    "fdc_id": "2708809",
+    "display_name": "Adobo",
+    "category": "Poultry mixed dishes",
+    "source": "usda_fndds",
+    "per_100g": {
+      "calories_kcal": 172.0,
+      "protein_g": 16.9,
+      "carbs_g": 8.1,
+      "fat_g": 7.7,
+      "fiber_g": 0.4,
+      "sugar_g": 0.0,
+      "sodium_mg": 510.0
+    },
+    "default_portion": {
+      "description": "1 cup",
+      "gram_weight": 224.0
+    },
+    "portions": [
+      {
+        "description": "1 cup",
+        "gram_weight": 224.0
+      }
+    ]
+  },
+  "almond_jelly": {
+    "class_name": "almond_jelly",
+    "food_id": "0f68c5cd-3987-49b4-b7da-f4e465a7d300",
+    "fdc_id": "2710300",
+    "display_name": "Almond jelly",
+    "category": "Desserts & Sweets",
+    "source": "Curated Asian dessert",
+    "per_100g": {
+      "calories_kcal": 105.0,
+      "protein_g": 2.5,
+      "carbs_g": 19.0,
+      "fat_g": 2.0,
+      "fiber_g": 0.5,
+      "sugar_g": 17.0,
+      "sodium_mg": 45.0
+    },
+    "default_portion": {
+      "description": "1 dessert bowl",
+      "gram_weight": 120.0
+    },
+    "portions": [
+      {
+        "description": "1 dessert bowl (120g)",
+        "gram_weight": 120.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "apple_pie": {
+    "class_name": "apple_pie",
+    "food_id": "d54f00a5-2f91-46ba-b009-d3cbdae119ae",
+    "fdc_id": "2709219",
+    "display_name": "Apple pie",
+    "category": "Apples",
+    "source": "usda_fndds",
+    "per_100g": {
+      "calories_kcal": 100.0,
+      "protein_g": 0.1,
+      "carbs_g": 26.1,
+      "fat_g": 0.1,
+      "fiber_g": 1.0,
+      "sugar_g": 13.8,
+      "sodium_mg": 47.0
+    },
+    "default_portion": {
+      "description": "1 cup",
+      "gram_weight": 260.0
+    },
+    "portions": [
+      {
+        "description": "1 cup",
+        "gram_weight": 260.0
+      }
+    ]
+  },
+  "ayam_bakar": {
+    "class_name": "ayam_bakar",
+    "display_name": "Ayam bakar",
+    "category": "International Cuisine",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 185.0,
+      "protein_g": 8.5,
+      "carbs_g": 22.0,
+      "fat_g": 7.0,
+      "fiber_g": 1.8,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 plate / serving",
+      "gram_weight": 200.0
+    },
+    "portions": [
+      {
+        "description": "1 plate / serving",
+        "gram_weight": 200.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "ayam_goreng": {
+    "class_name": "ayam_goreng",
+    "display_name": "Ayam goreng",
+    "category": "International Cuisine",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 185.0,
+      "protein_g": 8.5,
+      "carbs_g": 22.0,
+      "fat_g": 7.0,
+      "fiber_g": 1.8,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 plate / serving",
+      "gram_weight": 200.0
+    },
+    "portions": [
+      {
+        "description": "1 plate / serving",
+        "gram_weight": 200.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "babi_guling": {
+    "class_name": "babi_guling",
+    "display_name": "Babi guling",
+    "category": "International Cuisine",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 185.0,
+      "protein_g": 8.5,
+      "carbs_g": 22.0,
+      "fat_g": 7.0,
+      "fiber_g": 1.8,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 plate / serving",
+      "gram_weight": 200.0
+    },
+    "portions": [
+      {
+        "description": "1 plate / serving",
+        "gram_weight": 200.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "bagel": {
+    "class_name": "bagel",
+    "food_id": "277db34b-9e55-4600-96e9-9708d1025520",
+    "fdc_id": "2707684",
+    "display_name": "Bagel",
+    "category": "Bagels and English muffins",
+    "source": "usda_fndds",
+    "per_100g": {
+      "calories_kcal": 264.0,
+      "protein_g": 10.6,
+      "carbs_g": 52.4,
+      "fat_g": 1.3,
+      "fiber_g": 1.6,
+      "sugar_g": 8.4,
+      "sodium_mg": 422.0
+    },
+    "default_portion": {
+      "description": "1 large",
+      "gram_weight": 131.0
+    },
+    "portions": [
+      {
+        "description": "1 large",
+        "gram_weight": 131.0
+      },
+      {
+        "description": "1 regular",
+        "gram_weight": 105.0
+      },
+      {
+        "description": "1 miniature",
+        "gram_weight": 26.0
+      },
+      {
+        "description": "1 small",
+        "gram_weight": 69.0
+      },
+      {
+        "description": "1 Bagel Thin",
+        "gram_weight": 46.0
+      }
+    ]
+  },
+  "bak_kut_teh": {
+    "class_name": "bak_kut_teh",
+    "display_name": "Bak kut teh",
+    "category": "International Cuisine",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 185.0,
+      "protein_g": 8.5,
+      "carbs_g": 22.0,
+      "fat_g": 7.0,
+      "fiber_g": 1.8,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 plate / serving",
+      "gram_weight": 200.0
+    },
+    "portions": [
+      {
+        "description": "1 plate / serving",
+        "gram_weight": 200.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "baked_salmon": {
+    "class_name": "baked_salmon",
+    "display_name": "Baked salmon",
+    "category": "Seafood",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 190.0,
+      "protein_g": 20.0,
+      "carbs_g": 2.0,
+      "fat_g": 11.0,
+      "fiber_g": 0.0,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 fillet / portion",
+      "gram_weight": 150.0
+    },
+    "portions": [
+      {
+        "description": "1 fillet / portion",
+        "gram_weight": 150.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "ball_shaped_bun_with_pork": {
+    "class_name": "ball_shaped_bun_with_pork",
+    "display_name": "Ball shaped bun with pork",
+    "category": "Meat Dishes",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 220.0,
+      "protein_g": 18.0,
+      "carbs_g": 5.0,
+      "fat_g": 14.0,
+      "fiber_g": 0.5,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 portion",
+      "gram_weight": 180.0
+    },
+    "portions": [
+      {
+        "description": "1 portion",
+        "gram_weight": 180.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "barbecued_red_pork_in_sauce_with_rice": {
+    "class_name": "barbecued_red_pork_in_sauce_with_rice",
+    "display_name": "Barbecued red pork in sauce with rice",
+    "category": "Rice Bowls",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 175.0,
+      "protein_g": 7.0,
+      "carbs_g": 28.0,
+      "fat_g": 4.0,
+      "fiber_g": 1.2,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 bowl",
+      "gram_weight": 300.0
+    },
+    "portions": [
+      {
+        "description": "1 bowl",
+        "gram_weight": 300.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "bean_curd_family_style": {
+    "class_name": "bean_curd_family_style",
+    "display_name": "Bean curd family style",
+    "category": "International Cuisine",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 185.0,
+      "protein_g": 8.5,
+      "carbs_g": 22.0,
+      "fat_g": 7.0,
+      "fiber_g": 1.8,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 plate / serving",
+      "gram_weight": 200.0
+    },
+    "portions": [
+      {
+        "description": "1 plate / serving",
+        "gram_weight": 200.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "beef_bowl": {
+    "class_name": "beef_bowl",
+    "display_name": "Beef bowl",
+    "category": "Rice Bowls",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 175.0,
+      "protein_g": 7.0,
+      "carbs_g": 28.0,
+      "fat_g": 4.0,
+      "fiber_g": 1.2,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 bowl",
+      "gram_weight": 300.0
+    },
+    "portions": [
+      {
+        "description": "1 bowl",
+        "gram_weight": 300.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "beef_curry": {
+    "class_name": "beef_curry",
+    "food_id": "2ed71796-5e80-4399-b884-8c1024d9176d",
+    "fdc_id": "2706388",
+    "display_name": "Beef curry",
+    "category": "Meat mixed dishes",
+    "source": "usda_fndds",
+    "per_100g": {
+      "calories_kcal": 113.0,
+      "protein_g": 7.6,
+      "carbs_g": 6.5,
+      "fat_g": 6.6,
+      "fiber_g": 1.4,
+      "sugar_g": 2.6,
+      "sodium_mg": 359.0
+    },
+    "default_portion": {
+      "description": "1 cup",
+      "gram_weight": 240.0
+    },
+    "portions": [
+      {
+        "description": "1 cup",
+        "gram_weight": 240.0
+      }
+    ]
+  },
+  "beef_in_oyster_sauce": {
+    "class_name": "beef_in_oyster_sauce",
+    "food_id": "5bec2f34-4941-4503-8393-0dbbcecbec0f",
+    "fdc_id": "2707150",
+    "display_name": "Beef in oyster sauce",
+    "category": "Soy-based condiments",
+    "source": "usda_fndds",
+    "per_100g": {
+      "calories_kcal": 51.0,
+      "protein_g": 1.4,
+      "carbs_g": 10.9,
+      "fat_g": 0.2,
+      "fiber_g": 0.3,
+      "sugar_g": 2.0,
+      "sodium_mg": 2733.0
+    },
+    "default_portion": {
+      "description": "1 tablespoon",
+      "gram_weight": 16.0
+    },
+    "portions": [
+      {
+        "description": "1 tablespoon",
+        "gram_weight": 16.0
+      }
+    ]
+  },
+  "beef_noodle": {
+    "class_name": "beef_noodle",
+    "display_name": "Beef noodle",
+    "category": "Noodle Dishes",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 145.0,
+      "protein_g": 6.5,
+      "carbs_g": 24.0,
+      "fat_g": 3.5,
+      "fiber_g": 1.5,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 bowl of noodles",
+      "gram_weight": 350.0
+    },
+    "portions": [
+      {
+        "description": "1 bowl of noodles",
+        "gram_weight": 350.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "beef_noodle_soup": {
+    "class_name": "beef_noodle_soup",
+    "display_name": "Beef noodle soup",
+    "category": "Noodle Dishes",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 145.0,
+      "protein_g": 6.5,
+      "carbs_g": 24.0,
+      "fat_g": 3.5,
+      "fiber_g": 1.5,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 bowl of noodles",
+      "gram_weight": 350.0
+    },
+    "portions": [
+      {
+        "description": "1 bowl of noodles",
+        "gram_weight": 350.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "bibimbap": {
+    "class_name": "bibimbap",
+    "food_id": "263f7d1f-79f2-401a-9eef-b6c360463994",
+    "fdc_id": "2708950",
+    "display_name": "Bibimbap",
+    "category": "Rice mixed dishes",
+    "source": "Curated Korean traditional whole dish",
+    "per_100g": {
+      "calories_kcal": 148.0,
+      "protein_g": 6.5,
+      "carbs_g": 20.5,
+      "fat_g": 4.5,
+      "fiber_g": 2.2,
+      "sugar_g": 3.0,
+      "sodium_mg": 380.0
+    },
+    "default_portion": {
+      "description": "1 regular bibimbap bowl",
+      "gram_weight": 380.0
+    },
+    "portions": [
+      {
+        "description": "1 regular bibimbap bowl (380g)",
+        "gram_weight": 380.0
+      },
+      {
+        "description": "Small bibimbap bowl (260g)",
+        "gram_weight": 260.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "boiled_chicken_and_vegetables": {
+    "class_name": "boiled_chicken_and_vegetables",
+    "display_name": "Boiled chicken and vegetables",
+    "category": "Meat Dishes",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 220.0,
+      "protein_g": 18.0,
+      "carbs_g": 5.0,
+      "fat_g": 14.0,
+      "fiber_g": 0.5,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 portion",
+      "gram_weight": 180.0
+    },
+    "portions": [
+      {
+        "description": "1 portion",
+        "gram_weight": 180.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "boiled_fish": {
+    "class_name": "boiled_fish",
+    "display_name": "Boiled fish",
+    "category": "Seafood",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 190.0,
+      "protein_g": 20.0,
+      "carbs_g": 2.0,
+      "fat_g": 11.0,
+      "fiber_g": 0.0,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 fillet / portion",
+      "gram_weight": 150.0
+    },
+    "portions": [
+      {
+        "description": "1 fillet / portion",
+        "gram_weight": 150.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "boned,_sliced_hainan_style_chicken_with_marinated_rice": {
+    "class_name": "boned,_sliced_hainan_style_chicken_with_marinated_rice",
+    "display_name": "Boned, sliced hainan style chicken with marinated rice",
+    "category": "Rice Bowls",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 175.0,
+      "protein_g": 7.0,
+      "carbs_g": 28.0,
+      "fat_g": 4.0,
+      "fiber_g": 1.2,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 bowl",
+      "gram_weight": 300.0
+    },
+    "portions": [
+      {
+        "description": "1 bowl",
+        "gram_weight": 300.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "braised_pork_meat_ball_with_napa_cabbage": {
+    "class_name": "braised_pork_meat_ball_with_napa_cabbage",
+    "display_name": "Braised pork meat ball with napa cabbage",
+    "category": "Meat Dishes",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 220.0,
+      "protein_g": 18.0,
+      "carbs_g": 5.0,
+      "fat_g": 14.0,
+      "fiber_g": 0.5,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 portion",
+      "gram_weight": 180.0
+    },
+    "portions": [
+      {
+        "description": "1 portion",
+        "gram_weight": 180.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "broiled_eel_bowl": {
+    "class_name": "broiled_eel_bowl",
+    "display_name": "Broiled eel bowl",
+    "category": "Rice Bowls",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 175.0,
+      "protein_g": 7.0,
+      "carbs_g": 28.0,
+      "fat_g": 4.0,
+      "fiber_g": 1.2,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 bowl",
+      "gram_weight": 300.0
+    },
+    "portions": [
+      {
+        "description": "1 bowl",
+        "gram_weight": 300.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "brownie": {
+    "class_name": "brownie",
+    "food_id": "dd8e8163-b41d-4b29-8113-12880dbf8c48",
+    "fdc_id": "2707903",
+    "display_name": "Brownie",
+    "category": "Cookies and brownies",
+    "source": "usda_fndds",
+    "per_100g": {
+      "calories_kcal": 405.0,
+      "protein_g": 4.8,
+      "carbs_g": 63.9,
+      "fat_g": 16.3,
+      "fiber_g": 2.1,
+      "sugar_g": 36.6,
+      "sodium_mg": 286.0
+    },
+    "default_portion": {
+      "description": "1 medium",
+      "gram_weight": 50.0
+    },
+    "portions": [
+      {
+        "description": "1 medium",
+        "gram_weight": 50.0
+      },
+      {
+        "description": "1 large",
+        "gram_weight": 90.0
+      },
+      {
+        "description": "1 small or bite size",
+        "gram_weight": 30.0
+      }
+    ]
+  },
+  "bubur_ayam": {
+    "class_name": "bubur_ayam",
+    "display_name": "Bubur ayam",
+    "category": "International Cuisine",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 185.0,
+      "protein_g": 8.5,
+      "carbs_g": 22.0,
+      "fat_g": 7.0,
+      "fiber_g": 1.8,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 plate / serving",
+      "gram_weight": 200.0
+    },
+    "portions": [
+      {
+        "description": "1 plate / serving",
+        "gram_weight": 200.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "burger": {
+    "class_name": "burger",
+    "display_name": "Burger",
+    "category": "Fast Food",
+    "source": "USDA FNDDS 2711010 / Curated whole dish",
+    "per_100g": {
+      "calories_kcal": 254.0,
+      "protein_g": 13.0,
+      "carbs_g": 25.0,
+      "fat_g": 11.0,
+      "fiber_g": 1.5,
+      "sugar_g": 3.0,
+      "sodium_mg": 460.0
+    },
+    "default_portion": {
+      "description": "Regular cheeseburger (165g)",
+      "gram_weight": 165.0
+    },
+    "portions": [
+      {
+        "description": "Regular cheeseburger (USDA FNDDS 2711010)",
+        "gram_weight": 165.0
+      },
+      {
+        "description": "Small / plain hamburger (USDA FNDDS 2711000)",
+        "gram_weight": 110.0
+      },
+      {
+        "description": "Large / gourmet burger (USDA FNDDS 2711040)",
+        "gram_weight": 300.0
+      },
+      {
+        "description": "Double cheeseburger (USDA FNDDS 2711030)",
+        "gram_weight": 225.0
+      },
+      {
+        "description": "Veg / paneer burger (Curated IFCT)",
+        "gram_weight": 180.0
+      },
+      {
+        "description": "Crispy chicken burger (USDA FNDDS 2712010)",
+        "gram_weight": 200.0
+      },
+      {
+        "description": "100g standard measure",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "butter_naan": {
+    "class_name": "butter_naan",
+    "display_name": "Butter naan",
+    "category": "Indian Breads",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 320.0,
+      "protein_g": 8.0,
+      "carbs_g": 48.0,
+      "fat_g": 11.0,
+      "fiber_g": 2.5,
+      "sugar_g": 2.0,
+      "sodium_mg": 380.0
+    },
+    "default_portion": {
+      "description": "1 naan",
+      "gram_weight": 110.0
+    },
+    "portions": [
+      {
+        "description": "1 naan",
+        "gram_weight": 110.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "cabbage_roll": {
+    "class_name": "cabbage_roll",
+    "food_id": "fdc7d3f8-9a45-406e-a1ad-a7eca0486f73",
+    "fdc_id": "2706620",
+    "display_name": "Cabbage roll",
+    "category": "Meat mixed dishes",
+    "source": "usda_fndds",
+    "per_100g": {
+      "calories_kcal": 114.0,
+      "protein_g": 8.3,
+      "carbs_g": 8.8,
+      "fat_g": 5.1,
+      "fiber_g": 1.3,
+      "sugar_g": 3.5,
+      "sodium_mg": 338.0
+    },
+    "default_portion": {
+      "description": "1 cabbage roll",
+      "gram_weight": 103.0
+    },
+    "portions": [
+      {
+        "description": "1 cabbage roll",
+        "gram_weight": 103.0
+      },
+      {
+        "description": "1 cup",
+        "gram_weight": 162.0
+      }
+    ]
+  },
+  "caesar_salad": {
+    "class_name": "caesar_salad",
+    "food_id": "a2bb59df-d4be-4a38-909d-52d6791654ae",
+    "fdc_id": "2709591",
+    "display_name": "Caesar salad",
+    "category": "Lettuce and lettuce salads",
+    "source": "usda_fndds",
+    "per_100g": {
+      "calories_kcal": 77.0,
+      "protein_g": 4.0,
+      "carbs_g": 7.5,
+      "fat_g": 3.4,
+      "fiber_g": 1.8,
+      "sugar_g": 1.2,
+      "sodium_mg": 238.0
+    },
+    "default_portion": {
+      "description": "1 Wendy's side salad",
+      "gram_weight": 113.0
+    },
+    "portions": [
+      {
+        "description": "1 Wendy's side salad",
+        "gram_weight": 113.0
+      },
+      {
+        "description": "1 cup",
+        "gram_weight": 79.0
+      }
+    ]
+  },
+  "chai": {
+    "class_name": "chai",
+    "display_name": "Chai",
+    "category": "Beverages",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 65.0,
+      "protein_g": 2.2,
+      "carbs_g": 9.5,
+      "fat_g": 2.0,
+      "fiber_g": 0.0,
+      "sugar_g": 2.0,
+      "sodium_mg": 380.0
+    },
+    "default_portion": {
+      "description": "1 cup",
+      "gram_weight": 150.0
+    },
+    "portions": [
+      {
+        "description": "1 cup",
+        "gram_weight": 150.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "champon": {
+    "class_name": "champon",
+    "food_id": "2b5e0f3e-e0a3-44f5-9688-715a92d67f03",
+    "fdc_id": "2705878",
+    "display_name": "Champon",
+    "category": "Cold cuts and cured meats",
+    "source": "usda_fndds",
+    "per_100g": {
+      "calories_kcal": 117.0,
+      "protein_g": 19.0,
+      "carbs_g": 1.6,
+      "fat_g": 3.9,
+      "fiber_g": 1.5,
+      "sugar_g": 1.5,
+      "sodium_mg": 1149.0
+    },
+    "default_portion": {
+      "description": "1 thick slice",
+      "gram_weight": 90.0
+    },
+    "portions": [
+      {
+        "description": "1 thick slice",
+        "gram_weight": 90.0
+      },
+      {
+        "description": "1 regular/thin slice",
+        "gram_weight": 60.0
+      },
+      {
+        "description": "1 oz yields",
+        "gram_weight": 20.0
+      },
+      {
+        "description": "1 cubic inch",
+        "gram_weight": 17.0
+      },
+      {
+        "description": "1 cup",
+        "gram_weight": 135.0
+      }
+    ]
+  },
+  "chapati": {
+    "class_name": "chapati",
+    "display_name": "Chapati",
+    "category": "Indian Breads",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 297.0,
+      "protein_g": 9.0,
+      "carbs_g": 55.0,
+      "fat_g": 3.7,
+      "fiber_g": 9.5,
+      "sugar_g": 2.0,
+      "sodium_mg": 380.0
+    },
+    "default_portion": {
+      "description": "1 roti",
+      "gram_weight": 40.0
+    },
+    "portions": [
+      {
+        "description": "1 roti",
+        "gram_weight": 40.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "charcoal_boiled_pork_neck": {
+    "class_name": "charcoal_boiled_pork_neck",
+    "display_name": "Charcoal boiled pork neck",
+    "category": "Meat Dishes",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 220.0,
+      "protein_g": 18.0,
+      "carbs_g": 5.0,
+      "fat_g": 14.0,
+      "fiber_g": 0.5,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 portion",
+      "gram_weight": 180.0
+    },
+    "portions": [
+      {
+        "description": "1 portion",
+        "gram_weight": 180.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "chicken_cutlet": {
+    "class_name": "chicken_cutlet",
+    "display_name": "Chicken cutlet",
+    "category": "Meat Dishes",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 220.0,
+      "protein_g": 18.0,
+      "carbs_g": 5.0,
+      "fat_g": 14.0,
+      "fiber_g": 0.5,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 portion",
+      "gram_weight": 180.0
+    },
+    "portions": [
+      {
+        "description": "1 portion",
+        "gram_weight": 180.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "chicken_n_egg_on_rice": {
+    "class_name": "chicken_n_egg_on_rice",
+    "display_name": "Chicken n egg on rice",
+    "category": "Rice Bowls",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 175.0,
+      "protein_g": 7.0,
+      "carbs_g": 28.0,
+      "fat_g": 4.0,
+      "fiber_g": 1.2,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 bowl",
+      "gram_weight": 300.0
+    },
+    "portions": [
+      {
+        "description": "1 bowl",
+        "gram_weight": 300.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "chicken_nugget": {
+    "class_name": "chicken_nugget",
+    "food_id": "5c17494b-60d4-42b2-9783-370ea80cd0c7",
+    "fdc_id": "2706092",
+    "display_name": "Chicken nugget",
+    "category": "Chicken patties, nuggets and tenders",
+    "source": "usda_fndds",
+    "per_100g": {
+      "calories_kcal": 307.0,
+      "protein_g": 15.9,
+      "carbs_g": 14.9,
+      "fat_g": 20.4,
+      "fiber_g": 0.9,
+      "sugar_g": 0.1,
+      "sodium_mg": 594.0
+    },
+    "default_portion": {
+      "description": "1 cup",
+      "gram_weight": 140.0
+    },
+    "portions": [
+      {
+        "description": "1 cup",
+        "gram_weight": 140.0
+      },
+      {
+        "description": "1 nugget",
+        "gram_weight": 16.0
+      }
+    ]
+  },
+  "chicken_rice": {
+    "class_name": "chicken_rice",
+    "display_name": "Chicken rice",
+    "category": "Rice Bowls",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 175.0,
+      "protein_g": 7.0,
+      "carbs_g": 28.0,
+      "fat_g": 4.0,
+      "fiber_g": 1.2,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 bowl",
+      "gram_weight": 300.0
+    },
+    "portions": [
+      {
+        "description": "1 bowl",
+        "gram_weight": 300.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "chicken_rice_curry_with_coconut": {
+    "class_name": "chicken_rice_curry_with_coconut",
+    "display_name": "Chicken rice curry with coconut",
+    "category": "Rice Bowls",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 175.0,
+      "protein_g": 7.0,
+      "carbs_g": 28.0,
+      "fat_g": 4.0,
+      "fiber_g": 1.2,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 bowl",
+      "gram_weight": 300.0
+    },
+    "portions": [
+      {
+        "description": "1 bowl",
+        "gram_weight": 300.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "chilled_noodle": {
+    "class_name": "chilled_noodle",
+    "display_name": "Chilled noodle",
+    "category": "Noodle Dishes",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 145.0,
+      "protein_g": 6.5,
+      "carbs_g": 24.0,
+      "fat_g": 3.5,
+      "fiber_g": 1.5,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 bowl of noodles",
+      "gram_weight": 350.0
+    },
+    "portions": [
+      {
+        "description": "1 bowl of noodles",
+        "gram_weight": 350.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "chinese_pumpkin_pie": {
+    "class_name": "chinese_pumpkin_pie",
+    "display_name": "Chinese pumpkin pie",
+    "category": "Desserts & Sweets",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 340.0,
+      "protein_g": 4.0,
+      "carbs_g": 52.0,
+      "fat_g": 14.0,
+      "fiber_g": 1.0,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 slice / piece",
+      "gram_weight": 120.0
+    },
+    "portions": [
+      {
+        "description": "1 slice / piece",
+        "gram_weight": 120.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "chinese_soup": {
+    "class_name": "chinese_soup",
+    "display_name": "Chinese soup",
+    "category": "Soups & Stews",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 85.0,
+      "protein_g": 4.5,
+      "carbs_g": 9.0,
+      "fat_g": 3.0,
+      "fiber_g": 1.2,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 bowl of soup",
+      "gram_weight": 250.0
+    },
+    "portions": [
+      {
+        "description": "1 bowl of soup",
+        "gram_weight": 250.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "chip_butty": {
+    "class_name": "chip_butty",
+    "display_name": "Chip butty",
+    "category": "International Cuisine",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 185.0,
+      "protein_g": 8.5,
+      "carbs_g": 22.0,
+      "fat_g": 7.0,
+      "fiber_g": 1.8,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 plate / serving",
+      "gram_weight": 200.0
+    },
+    "portions": [
+      {
+        "description": "1 plate / serving",
+        "gram_weight": 200.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "chole_bhature": {
+    "class_name": "chole_bhature",
+    "display_name": "Chole bhature",
+    "category": "Indian Main Dishes",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 285.0,
+      "protein_g": 8.5,
+      "carbs_g": 38.0,
+      "fat_g": 12.0,
+      "fiber_g": 4.5,
+      "sugar_g": 2.0,
+      "sodium_mg": 380.0
+    },
+    "default_portion": {
+      "description": "2 bhature with chole",
+      "gram_weight": 350.0
+    },
+    "portions": [
+      {
+        "description": "2 bhature with chole",
+        "gram_weight": 350.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "chop_suey": {
+    "class_name": "chop_suey",
+    "food_id": "9cfa5e9f-358d-49ab-a02d-7482b2624b6b",
+    "fdc_id": "2706607",
+    "display_name": "Chop suey",
+    "category": "Fried rice and lo/chow mein",
+    "source": "usda_fndds",
+    "per_100g": {
+      "calories_kcal": 129.0,
+      "protein_g": 10.8,
+      "carbs_g": 11.2,
+      "fat_g": 4.9,
+      "fiber_g": 1.5,
+      "sugar_g": 1.6,
+      "sodium_mg": 328.0
+    },
+    "default_portion": {
+      "description": "1 cup",
+      "gram_weight": 220.0
+    },
+    "portions": [
+      {
+        "description": "1 cup",
+        "gram_weight": 220.0
+      }
+    ]
+  },
+  "chow_mein": {
+    "class_name": "chow_mein",
+    "food_id": "9cfa5e9f-358d-49ab-a02d-7482b2624b6b",
+    "fdc_id": "2706607",
+    "display_name": "Chow mein",
+    "category": "Fried rice and lo/chow mein",
+    "source": "usda_fndds",
+    "per_100g": {
+      "calories_kcal": 129.0,
+      "protein_g": 10.8,
+      "carbs_g": 11.2,
+      "fat_g": 4.9,
+      "fiber_g": 1.5,
+      "sugar_g": 1.6,
+      "sodium_mg": 328.0
+    },
+    "default_portion": {
+      "description": "1 cup",
+      "gram_weight": 220.0
+    },
+    "portions": [
+      {
+        "description": "1 cup",
+        "gram_weight": 220.0
+      }
+    ]
+  },
+  "churro": {
+    "class_name": "churro",
+    "food_id": "5df87365-bbba-41b1-ac98-267df8bfc393",
+    "fdc_id": "2708070",
+    "display_name": "Churro",
+    "category": "Doughnuts, sweet rolls, pastries",
+    "source": "usda_fndds",
+    "per_100g": {
+      "calories_kcal": 419.0,
+      "protein_g": 6.0,
+      "carbs_g": 48.9,
+      "fat_g": 22.2,
+      "fiber_g": 2.6,
+      "sugar_g": 23.4,
+      "sodium_mg": 309.0
+    },
+    "default_portion": {
+      "description": "1 regular",
+      "gram_weight": 45.0
+    },
+    "portions": [
+      {
+        "description": "1 regular",
+        "gram_weight": 45.0
+      },
+      {
+        "description": "1 miniature",
+        "gram_weight": 15.0
+      }
+    ]
+  },
+  "clear_soup": {
+    "class_name": "clear_soup",
+    "display_name": "Clear soup",
+    "category": "Soups & Stews",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 85.0,
+      "protein_g": 4.5,
+      "carbs_g": 9.0,
+      "fat_g": 3.0,
+      "fiber_g": 1.2,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 bowl of soup",
+      "gram_weight": 250.0
+    },
+    "portions": [
+      {
+        "description": "1 bowl of soup",
+        "gram_weight": 250.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "coconut_milk_flavored_crepes_with_shrimp_and_beef": {
+    "class_name": "coconut_milk_flavored_crepes_with_shrimp_and_beef",
+    "food_id": "646f93e9-768c-4db0-9dc0-3318bb4e73c8",
+    "fdc_id": "2705413",
+    "display_name": "Coconut milk crepes with shrimp & beef",
+    "category": "Asian Specialities",
+    "source": "Curated Vietnamese Banh Xeo whole dish",
+    "per_100g": {
+      "calories_kcal": 175.0,
+      "protein_g": 8.5,
+      "carbs_g": 17.0,
+      "fat_g": 8.0,
+      "fiber_g": 1.5,
+      "sugar_g": 2.0,
+      "sodium_mg": 410.0
+    },
+    "default_portion": {
+      "description": "1 crepe with filling",
+      "gram_weight": 220.0
+    },
+    "portions": [
+      {
+        "description": "1 regular crepe with filling (220g)",
+        "gram_weight": 220.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "coconut_milk_soup": {
+    "class_name": "coconut_milk_soup",
+    "food_id": "646f93e9-768c-4db0-9dc0-3318bb4e73c8",
+    "fdc_id": "2705413",
+    "display_name": "Coconut milk soup",
+    "category": "Soups & Stews",
+    "source": "Curated Thai Tom Kha whole soup",
+    "per_100g": {
+      "calories_kcal": 88.0,
+      "protein_g": 3.5,
+      "carbs_g": 5.0,
+      "fat_g": 6.0,
+      "fiber_g": 0.8,
+      "sugar_g": 2.5,
+      "sodium_mg": 450.0
+    },
+    "default_portion": {
+      "description": "1 bowl of soup",
+      "gram_weight": 240.0
+    },
+    "portions": [
+      {
+        "description": "1 regular bowl of soup (240g)",
+        "gram_weight": 240.0
+      },
+      {
+        "description": "1 cup (180g)",
+        "gram_weight": 180.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "cold_tofu": {
+    "class_name": "cold_tofu",
+    "display_name": "Cold tofu",
+    "category": "International Cuisine",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 185.0,
+      "protein_g": 8.5,
+      "carbs_g": 22.0,
+      "fat_g": 7.0,
+      "fiber_g": 1.8,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 plate / serving",
+      "gram_weight": 200.0
+    },
+    "portions": [
+      {
+        "description": "1 plate / serving",
+        "gram_weight": 200.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "crape": {
+    "class_name": "crape",
+    "display_name": "Crape",
+    "category": "International Cuisine",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 185.0,
+      "protein_g": 8.5,
+      "carbs_g": 22.0,
+      "fat_g": 7.0,
+      "fiber_g": 1.8,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 plate / serving",
+      "gram_weight": 200.0
+    },
+    "portions": [
+      {
+        "description": "1 plate / serving",
+        "gram_weight": 200.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "cream_puff": {
+    "class_name": "cream_puff",
+    "food_id": "9774f937-5c50-44e4-b20a-3b54a30f1658",
+    "fdc_id": "2708029",
+    "display_name": "Cream puff",
+    "category": "Doughnuts, sweet rolls, pastries",
+    "source": "usda_fndds",
+    "per_100g": {
+      "calories_kcal": 280.0,
+      "protein_g": 4.2,
+      "carbs_g": 11.1,
+      "fat_g": 24.4,
+      "fiber_g": 0.3,
+      "sugar_g": 2.4,
+      "sodium_mg": 132.0
+    },
+    "default_portion": {
+      "description": "1 eclair, frozen",
+      "gram_weight": 78.0
+    },
+    "portions": [
+      {
+        "description": "1 eclair, frozen",
+        "gram_weight": 78.0
+      },
+      {
+        "description": "1 eclair (5\" x 2\" x 1-3/4\")",
+        "gram_weight": 102.0
+      },
+      {
+        "description": "1 cream puff (3-1/2\" x 2\")",
+        "gram_weight": 112.0
+      }
+    ]
+  },
+  "crispy_noodles": {
+    "class_name": "crispy_noodles",
+    "food_id": "8bd5f5fb-5dbd-4352-b4b0-113a5947b4f4",
+    "fdc_id": "2706817",
+    "display_name": "Crispy noodles",
+    "category": "Poultry mixed dishes",
+    "source": "usda_fndds",
+    "per_100g": {
+      "calories_kcal": 116.0,
+      "protein_g": 10.2,
+      "carbs_g": 8.1,
+      "fat_g": 5.3,
+      "fiber_g": 1.8,
+      "sugar_g": 3.0,
+      "sodium_mg": 167.0
+    },
+    "default_portion": {
+      "description": "1 salad",
+      "gram_weight": 346.0
+    },
+    "portions": [
+      {
+        "description": "1 salad",
+        "gram_weight": 346.0
+      },
+      {
+        "description": "1 cup",
+        "gram_weight": 90.0
+      },
+      {
+        "description": "1 Wendy's salad",
+        "gram_weight": 346.0
+      }
+    ]
+  },
+  "croissant": {
+    "class_name": "croissant",
+    "food_id": "5fefade6-42dd-4f96-9260-4939a8503994",
+    "fdc_id": "2707678",
+    "display_name": "Croissant",
+    "category": "Bakery",
+    "source": "USDA FNDDS 2707200",
+    "per_100g": {
+      "calories_kcal": 406.0,
+      "protein_g": 8.2,
+      "carbs_g": 45.8,
+      "fat_g": 21.0,
+      "fiber_g": 2.6,
+      "sugar_g": 11.3,
+      "sodium_mg": 466.0
+    },
+    "default_portion": {
+      "description": "1 medium croissant",
+      "gram_weight": 60.0
+    },
+    "portions": [
+      {
+        "description": "1 medium croissant (60g)",
+        "gram_weight": 60.0
+      },
+      {
+        "description": "1 large croissant (85g)",
+        "gram_weight": 85.0
+      },
+      {
+        "description": "1 mini croissant (30g)",
+        "gram_weight": 30.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "croquette": {
+    "class_name": "croquette",
+    "food_id": "dc6cc54d-b243-4fc9-b821-18f72d705dd0",
+    "fdc_id": "2706508",
+    "display_name": "Croquette",
+    "category": "Meat mixed dishes",
+    "source": "usda_fndds",
+    "per_100g": {
+      "calories_kcal": 273.0,
+      "protein_g": 18.0,
+      "carbs_g": 2.6,
+      "fat_g": 20.7,
+      "fiber_g": 0.2,
+      "sugar_g": 0.5,
+      "sodium_mg": 1176.0
+    },
+    "default_portion": {
+      "description": "1 cup",
+      "gram_weight": 140.0
+    },
+    "portions": [
+      {
+        "description": "1 cup",
+        "gram_weight": 140.0
+      },
+      {
+        "description": "1 croquette (1-1/2\" dia, 2\" high)",
+        "gram_weight": 62.0
+      }
+    ]
+  },
+  "crullers": {
+    "class_name": "crullers",
+    "display_name": "Crullers",
+    "category": "International Cuisine",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 185.0,
+      "protein_g": 8.5,
+      "carbs_g": 22.0,
+      "fat_g": 7.0,
+      "fiber_g": 1.8,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 plate / serving",
+      "gram_weight": 200.0
+    },
+    "portions": [
+      {
+        "description": "1 plate / serving",
+        "gram_weight": 200.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "curry_puff": {
+    "class_name": "curry_puff",
+    "display_name": "Curry puff",
+    "category": "International Cuisine",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 185.0,
+      "protein_g": 8.5,
+      "carbs_g": 22.0,
+      "fat_g": 7.0,
+      "fiber_g": 1.8,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 plate / serving",
+      "gram_weight": 200.0
+    },
+    "portions": [
+      {
+        "description": "1 plate / serving",
+        "gram_weight": 200.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "custard_tart": {
+    "class_name": "custard_tart",
+    "food_id": "0fcfed26-957d-4e55-8028-a46aa71076c6",
+    "fdc_id": "2705682",
+    "display_name": "Custard tart",
+    "category": "Pudding",
+    "source": "usda_fndds",
+    "per_100g": {
+      "calories_kcal": 97.0,
+      "protein_g": 5.1,
+      "carbs_g": 11.0,
+      "fat_g": 3.6,
+      "fiber_g": 1.5,
+      "sugar_g": 10.9,
+      "sodium_mg": 84.0
+    },
+    "default_portion": {
+      "description": "1 cup",
+      "gram_weight": 260.0
+    },
+    "portions": [
+      {
+        "description": "1 cup",
+        "gram_weight": 260.0
+      }
+    ]
+  },
+  "cutlet_curry": {
+    "class_name": "cutlet_curry",
+    "display_name": "Cutlet curry",
+    "category": "International Cuisine",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 185.0,
+      "protein_g": 8.5,
+      "carbs_g": 22.0,
+      "fat_g": 7.0,
+      "fiber_g": 1.8,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 plate / serving",
+      "gram_weight": 200.0
+    },
+    "portions": [
+      {
+        "description": "1 plate / serving",
+        "gram_weight": 200.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "dak_galbi": {
+    "class_name": "dak_galbi",
+    "display_name": "Dak galbi",
+    "category": "International Cuisine",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 185.0,
+      "protein_g": 8.5,
+      "carbs_g": 22.0,
+      "fat_g": 7.0,
+      "fiber_g": 1.8,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 plate / serving",
+      "gram_weight": 200.0
+    },
+    "portions": [
+      {
+        "description": "1 plate / serving",
+        "gram_weight": 200.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "dal_makhani": {
+    "class_name": "dal_makhani",
+    "display_name": "Dal makhani",
+    "category": "Indian Curries",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 135.0,
+      "protein_g": 5.0,
+      "carbs_g": 14.0,
+      "fat_g": 7.0,
+      "fiber_g": 4.0,
+      "sugar_g": 2.0,
+      "sodium_mg": 380.0
+    },
+    "default_portion": {
+      "description": "1 katori (bowl)",
+      "gram_weight": 180.0
+    },
+    "portions": [
+      {
+        "description": "1 katori (bowl)",
+        "gram_weight": 180.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "deep_fried_chicken_wing": {
+    "class_name": "deep_fried_chicken_wing",
+    "display_name": "Deep fried chicken wing",
+    "category": "Meat Dishes",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 220.0,
+      "protein_g": 18.0,
+      "carbs_g": 5.0,
+      "fat_g": 14.0,
+      "fiber_g": 0.5,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 portion",
+      "gram_weight": 180.0
+    },
+    "portions": [
+      {
+        "description": "1 portion",
+        "gram_weight": 180.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "dhokla": {
+    "class_name": "dhokla",
+    "display_name": "Dhokla",
+    "category": "Indian Snacks",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 160.0,
+      "protein_g": 6.5,
+      "carbs_g": 28.0,
+      "fat_g": 3.0,
+      "fiber_g": 2.0,
+      "sugar_g": 2.0,
+      "sodium_mg": 380.0
+    },
+    "default_portion": {
+      "description": "2 pieces",
+      "gram_weight": 80.0
+    },
+    "portions": [
+      {
+        "description": "2 pieces",
+        "gram_weight": 80.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "dipping_noodles": {
+    "class_name": "dipping_noodles",
+    "display_name": "Dipping noodles",
+    "category": "Noodle Dishes",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 145.0,
+      "protein_g": 6.5,
+      "carbs_g": 24.0,
+      "fat_g": 3.5,
+      "fiber_g": 1.5,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 bowl of noodles",
+      "gram_weight": 350.0
+    },
+    "portions": [
+      {
+        "description": "1 bowl of noodles",
+        "gram_weight": 350.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "dish_consisting_of_stir_fried_potato,_eggplant_and_green_pepper": {
+    "class_name": "dish_consisting_of_stir_fried_potato,_eggplant_and_green_pepper",
+    "display_name": "Dish consisting of stir fried potato, eggplant and green pepper",
+    "category": "International Cuisine",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 185.0,
+      "protein_g": 8.5,
+      "carbs_g": 22.0,
+      "fat_g": 7.0,
+      "fiber_g": 1.8,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 plate / serving",
+      "gram_weight": 200.0
+    },
+    "portions": [
+      {
+        "description": "1 plate / serving",
+        "gram_weight": 200.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "doughnut": {
+    "class_name": "doughnut",
+    "food_id": "8a1fce5e-4efe-49ed-8cc8-846e4495f92d",
+    "fdc_id": "2708062",
+    "display_name": "Doughnut",
+    "category": "Doughnuts, sweet rolls, pastries",
+    "source": "usda_fndds",
+    "per_100g": {
+      "calories_kcal": 426.0,
+      "protein_g": 5.5,
+      "carbs_g": 49.5,
+      "fat_g": 22.9,
+      "fiber_g": 1.8,
+      "sugar_g": 23.5,
+      "sodium_mg": 378.0
+    },
+    "default_portion": {
+      "description": "1 doughnut",
+      "gram_weight": 75.0
+    },
+    "portions": [
+      {
+        "description": "1 doughnut",
+        "gram_weight": 75.0
+      },
+      {
+        "description": "1 miniature",
+        "gram_weight": 15.0
+      },
+      {
+        "description": "1 cup",
+        "gram_weight": 60.0
+      },
+      {
+        "description": "1 stick/twist",
+        "gram_weight": 75.0
+      }
+    ]
+  },
+  "dried_fish": {
+    "class_name": "dried_fish",
+    "display_name": "Dried fish",
+    "category": "Seafood",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 190.0,
+      "protein_g": 20.0,
+      "carbs_g": 2.0,
+      "fat_g": 11.0,
+      "fiber_g": 0.0,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 fillet / portion",
+      "gram_weight": 150.0
+    },
+    "portions": [
+      {
+        "description": "1 fillet / portion",
+        "gram_weight": 150.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "dry_curry": {
+    "class_name": "dry_curry",
+    "display_name": "Dry curry",
+    "category": "International Cuisine",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 185.0,
+      "protein_g": 8.5,
+      "carbs_g": 22.0,
+      "fat_g": 7.0,
+      "fiber_g": 1.8,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 plate / serving",
+      "gram_weight": 200.0
+    },
+    "portions": [
+      {
+        "description": "1 plate / serving",
+        "gram_weight": 200.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "eels_on_rice": {
+    "class_name": "eels_on_rice",
+    "display_name": "Eels on rice",
+    "category": "Rice Bowls",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 175.0,
+      "protein_g": 7.0,
+      "carbs_g": 28.0,
+      "fat_g": 4.0,
+      "fiber_g": 1.2,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 bowl",
+      "gram_weight": 300.0
+    },
+    "portions": [
+      {
+        "description": "1 bowl",
+        "gram_weight": 300.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "egg_noodle_in_chicken_yellow_curry": {
+    "class_name": "egg_noodle_in_chicken_yellow_curry",
+    "display_name": "Egg noodle in chicken yellow curry",
+    "category": "Noodle Dishes",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 145.0,
+      "protein_g": 6.5,
+      "carbs_g": 24.0,
+      "fat_g": 3.5,
+      "fiber_g": 1.5,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 bowl of noodles",
+      "gram_weight": 350.0
+    },
+    "portions": [
+      {
+        "description": "1 bowl of noodles",
+        "gram_weight": 350.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "egg_roll": {
+    "class_name": "egg_roll",
+    "food_id": "15c01841-ac3b-41c9-88e5-12cbca2105e4",
+    "fdc_id": "2708700",
+    "display_name": "Egg roll",
+    "category": "Egg rolls, dumplings, sushi",
+    "source": "usda_fndds",
+    "per_100g": {
+      "calories_kcal": 270.0,
+      "protein_g": 5.6,
+      "carbs_g": 30.0,
+      "fat_g": 14.1,
+      "fiber_g": 2.3,
+      "sugar_g": 5.6,
+      "sodium_mg": 463.0
+    },
+    "default_portion": {
+      "description": "1 egg roll",
+      "gram_weight": 64.0
+    },
+    "portions": [
+      {
+        "description": "1 egg roll",
+        "gram_weight": 64.0
+      },
+      {
+        "description": "1 miniature egg roll",
+        "gram_weight": 13.0
+      }
+    ]
+  },
+  "egg_sunny_side_up": {
+    "class_name": "egg_sunny_side_up",
+    "display_name": "Egg sunny side up",
+    "category": "International Cuisine",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 185.0,
+      "protein_g": 8.5,
+      "carbs_g": 22.0,
+      "fat_g": 7.0,
+      "fiber_g": 1.8,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 plate / serving",
+      "gram_weight": 200.0
+    },
+    "portions": [
+      {
+        "description": "1 plate / serving",
+        "gram_weight": 200.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "eggplant_with_garlic_sauce": {
+    "class_name": "eggplant_with_garlic_sauce",
+    "food_id": "f2dff029-d46c-46df-9182-7ac1bad2efac",
+    "fdc_id": "2710169",
+    "display_name": "Eggplant with garlic sauce",
+    "category": "Dips, gravies, other sauces",
+    "source": "usda_fndds",
+    "per_100g": {
+      "calories_kcal": 683.0,
+      "protein_g": 1.4,
+      "carbs_g": 2.9,
+      "fat_g": 74.0,
+      "fiber_g": 0.3,
+      "sugar_g": 0.6,
+      "sodium_mg": 473.0
+    },
+    "default_portion": {
+      "description": "1 dipping-size container",
+      "gram_weight": 28.0
+    },
+    "portions": [
+      {
+        "description": "1 dipping-size container",
+        "gram_weight": 28.0
+      },
+      {
+        "description": "1 tablespoon",
+        "gram_weight": 16.0
+      }
+    ]
+  },
+  "eight_treasure_rice": {
+    "class_name": "eight_treasure_rice",
+    "display_name": "Eight treasure rice",
+    "category": "Rice Bowls",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 175.0,
+      "protein_g": 7.0,
+      "carbs_g": 28.0,
+      "fat_g": 4.0,
+      "fiber_g": 1.2,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 bowl",
+      "gram_weight": 300.0
+    },
+    "portions": [
+      {
+        "description": "1 bowl",
+        "gram_weight": 300.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "fine_white_noodles": {
+    "class_name": "fine_white_noodles",
+    "display_name": "Fine white noodles",
+    "category": "Noodle Dishes",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 145.0,
+      "protein_g": 6.5,
+      "carbs_g": 24.0,
+      "fat_g": 3.5,
+      "fiber_g": 1.5,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 bowl of noodles",
+      "gram_weight": 350.0
+    },
+    "portions": [
+      {
+        "description": "1 bowl of noodles",
+        "gram_weight": 350.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "fish_ball_soup": {
+    "class_name": "fish_ball_soup",
+    "display_name": "Fish ball soup",
+    "category": "Soups & Stews",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 85.0,
+      "protein_g": 4.5,
+      "carbs_g": 9.0,
+      "fat_g": 3.0,
+      "fiber_g": 1.2,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 bowl of soup",
+      "gram_weight": 250.0
+    },
+    "portions": [
+      {
+        "description": "1 bowl of soup",
+        "gram_weight": 250.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "fish_shaped_pancake_with_bean_jam": {
+    "class_name": "fish_shaped_pancake_with_bean_jam",
+    "food_id": "0579808b-d99e-4e3d-bcac-87dbb2b7ad41",
+    "fdc_id": "2710301",
+    "display_name": "Taiyaki (Fish-shaped pancake)",
+    "category": "Desserts & Sweets",
+    "source": "Curated Japanese confectionery whole dish",
+    "per_100g": {
+      "calories_kcal": 245.0,
+      "protein_g": 5.5,
+      "carbs_g": 49.0,
+      "fat_g": 3.0,
+      "fiber_g": 2.5,
+      "sugar_g": 26.0,
+      "sodium_mg": 220.0
+    },
+    "default_portion": {
+      "description": "1 taiyaki (75g)",
+      "gram_weight": 75.0
+    },
+    "portions": [
+      {
+        "description": "1 taiyaki (75g)",
+        "gram_weight": 75.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "french_bread": {
+    "class_name": "french_bread",
+    "display_name": "French bread",
+    "category": "International Cuisine",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 185.0,
+      "protein_g": 8.5,
+      "carbs_g": 22.0,
+      "fat_g": 7.0,
+      "fiber_g": 1.8,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 plate / serving",
+      "gram_weight": 200.0
+    },
+    "portions": [
+      {
+        "description": "1 plate / serving",
+        "gram_weight": 200.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "french_fries": {
+    "class_name": "french_fries",
+    "food_id": "28cf9523-1e81-4dd5-83c4-832b81e50fa0",
+    "fdc_id": "2709456",
+    "display_name": "French fries",
+    "category": "Fast Food",
+    "source": "USDA FNDDS 2711100",
+    "per_100g": {
+      "calories_kcal": 312.0,
+      "protein_g": 3.8,
+      "carbs_g": 41.4,
+      "fat_g": 14.7,
+      "fiber_g": 3.8,
+      "sugar_g": 0.3,
+      "sodium_mg": 290.0
+    },
+    "default_portion": {
+      "description": "1 medium order",
+      "gram_weight": 117.0
+    },
+    "portions": [
+      {
+        "description": "1 medium order",
+        "gram_weight": 117.0
+      },
+      {
+        "description": "1 small order",
+        "gram_weight": 75.0
+      },
+      {
+        "description": "1 large order",
+        "gram_weight": 154.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "french_toast": {
+    "class_name": "french_toast",
+    "food_id": "2dfc53c3-4735-4ecf-9f27-73aa775962ae",
+    "fdc_id": "2708331",
+    "display_name": "French toast",
+    "category": "Pancakes, waffles, French toast",
+    "source": "usda_fndds",
+    "per_100g": {
+      "calories_kcal": 273.0,
+      "protein_g": 10.4,
+      "carbs_g": 32.3,
+      "fat_g": 11.4,
+      "fiber_g": 1.2,
+      "sugar_g": 10.1,
+      "sodium_mg": 302.0
+    },
+    "default_portion": {
+      "description": "1 slice, any size",
+      "gram_weight": 65.0
+    },
+    "portions": [
+      {
+        "description": "1 slice, any size",
+        "gram_weight": 65.0
+      }
+    ]
+  },
+  "fried_chicken": {
+    "class_name": "fried_chicken",
+    "display_name": "Fried chicken",
+    "category": "Meat Dishes",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 220.0,
+      "protein_g": 18.0,
+      "carbs_g": 5.0,
+      "fat_g": 14.0,
+      "fiber_g": 0.5,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 portion",
+      "gram_weight": 180.0
+    },
+    "portions": [
+      {
+        "description": "1 portion",
+        "gram_weight": 180.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "fried_fish": {
+    "class_name": "fried_fish",
+    "food_id": "ee385bef-f703-413a-9843-a77acd7b1f0b",
+    "fdc_id": "2706868",
+    "display_name": "Fried fish",
+    "category": "Seafood mixed dishes",
+    "source": "usda_fndds",
+    "per_100g": {
+      "calories_kcal": 155.0,
+      "protein_g": 11.8,
+      "carbs_g": 3.4,
+      "fat_g": 10.3,
+      "fiber_g": 0.8,
+      "sugar_g": 1.7,
+      "sodium_mg": 662.0
+    },
+    "default_portion": {
+      "description": "1 slice (4\" x 3-1/2\" x 1/2\") with sauce",
+      "gram_weight": 213.0
+    },
+    "portions": [
+      {
+        "description": "1 slice (4\" x 3-1/2\" x 1/2\") with sauce",
+        "gram_weight": 213.0
+      }
+    ]
+  },
+  "fried_mussel_pancakes": {
+    "class_name": "fried_mussel_pancakes",
+    "display_name": "Fried mussel pancakes",
+    "category": "Desserts & Sweets",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 340.0,
+      "protein_g": 4.0,
+      "carbs_g": 52.0,
+      "fat_g": 14.0,
+      "fiber_g": 1.0,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 slice / piece",
+      "gram_weight": 120.0
+    },
+    "portions": [
+      {
+        "description": "1 slice / piece",
+        "gram_weight": 120.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "fried_noodle": {
+    "class_name": "fried_noodle",
+    "display_name": "Fried noodle",
+    "category": "Noodle Dishes",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 145.0,
+      "protein_g": 6.5,
+      "carbs_g": 24.0,
+      "fat_g": 3.5,
+      "fiber_g": 1.5,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 bowl of noodles",
+      "gram_weight": 350.0
+    },
+    "portions": [
+      {
+        "description": "1 bowl of noodles",
+        "gram_weight": 350.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "fried_pork_dumplings_served_in_soup": {
+    "class_name": "fried_pork_dumplings_served_in_soup",
+    "display_name": "Fried pork dumplings served in soup",
+    "category": "Soups & Stews",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 85.0,
+      "protein_g": 4.5,
+      "carbs_g": 9.0,
+      "fat_g": 3.0,
+      "fiber_g": 1.2,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 bowl of soup",
+      "gram_weight": 250.0
+    },
+    "portions": [
+      {
+        "description": "1 bowl of soup",
+        "gram_weight": 250.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "fried_pork_in_scoop": {
+    "class_name": "fried_pork_in_scoop",
+    "display_name": "Fried pork in scoop",
+    "category": "Meat Dishes",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 220.0,
+      "protein_g": 18.0,
+      "carbs_g": 5.0,
+      "fat_g": 14.0,
+      "fiber_g": 0.5,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 portion",
+      "gram_weight": 180.0
+    },
+    "portions": [
+      {
+        "description": "1 portion",
+        "gram_weight": 180.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "fried_rice": {
+    "class_name": "fried_rice",
+    "display_name": "Fried rice",
+    "category": "Rice Dishes",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 168.0,
+      "protein_g": 4.2,
+      "carbs_g": 29.0,
+      "fat_g": 4.1,
+      "fiber_g": 1.2,
+      "sugar_g": 2.0,
+      "sodium_mg": 380.0
+    },
+    "default_portion": {
+      "description": "1 plate",
+      "gram_weight": 250.0
+    },
+    "portions": [
+      {
+        "description": "1 plate",
+        "gram_weight": 250.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "fried_shrimp": {
+    "class_name": "fried_shrimp",
+    "display_name": "Fried shrimp",
+    "category": "International Cuisine",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 185.0,
+      "protein_g": 8.5,
+      "carbs_g": 22.0,
+      "fat_g": 7.0,
+      "fiber_g": 1.8,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 plate / serving",
+      "gram_weight": 200.0
+    },
+    "portions": [
+      {
+        "description": "1 plate / serving",
+        "gram_weight": 200.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "fried_spring_rolls": {
+    "class_name": "fried_spring_rolls",
+    "display_name": "Fried spring rolls",
+    "category": "International Cuisine",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 185.0,
+      "protein_g": 8.5,
+      "carbs_g": 22.0,
+      "fat_g": 7.0,
+      "fiber_g": 1.8,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 plate / serving",
+      "gram_weight": 200.0
+    },
+    "portions": [
+      {
+        "description": "1 plate / serving",
+        "gram_weight": 200.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "ganmodoki": {
+    "class_name": "ganmodoki",
+    "display_name": "Ganmodoki",
+    "category": "International Cuisine",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 185.0,
+      "protein_g": 8.5,
+      "carbs_g": 22.0,
+      "fat_g": 7.0,
+      "fiber_g": 1.8,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 plate / serving",
+      "gram_weight": 200.0
+    },
+    "portions": [
+      {
+        "description": "1 plate / serving",
+        "gram_weight": 200.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "ginger_pork_saute": {
+    "class_name": "ginger_pork_saute",
+    "food_id": "c25a8199-1b4e-4f20-88f6-e74f8408669d",
+    "fdc_id": "2710702",
+    "display_name": "Ginger pork saute",
+    "category": "Meat Dishes",
+    "source": "Curated Japanese Butaniku Shogayaki whole dish",
+    "per_100g": {
+      "calories_kcal": 200.0,
+      "protein_g": 16.0,
+      "carbs_g": 6.5,
+      "fat_g": 12.0,
+      "fiber_g": 0.6,
+      "sugar_g": 4.0,
+      "sodium_mg": 510.0
+    },
+    "default_portion": {
+      "description": "1 plate serving",
+      "gram_weight": 180.0
+    },
+    "portions": [
+      {
+        "description": "1 plate serving (180g)",
+        "gram_weight": 180.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "glutinous_oil_rice": {
+    "class_name": "glutinous_oil_rice",
+    "display_name": "Glutinous oil rice",
+    "category": "Rice Bowls",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 175.0,
+      "protein_g": 7.0,
+      "carbs_g": 28.0,
+      "fat_g": 4.0,
+      "fiber_g": 1.2,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 bowl",
+      "gram_weight": 300.0
+    },
+    "portions": [
+      {
+        "description": "1 bowl",
+        "gram_weight": 300.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "glutinous_rice_balls": {
+    "class_name": "glutinous_rice_balls",
+    "display_name": "Glutinous rice balls",
+    "category": "Rice Bowls",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 175.0,
+      "protein_g": 7.0,
+      "carbs_g": 28.0,
+      "fat_g": 4.0,
+      "fiber_g": 1.2,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 bowl",
+      "gram_weight": 300.0
+    },
+    "portions": [
+      {
+        "description": "1 bowl",
+        "gram_weight": 300.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "goya_chanpuru": {
+    "class_name": "goya_chanpuru",
+    "display_name": "Goya chanpuru",
+    "category": "International Cuisine",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 185.0,
+      "protein_g": 8.5,
+      "carbs_g": 22.0,
+      "fat_g": 7.0,
+      "fiber_g": 1.8,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 plate / serving",
+      "gram_weight": 200.0
+    },
+    "portions": [
+      {
+        "description": "1 plate / serving",
+        "gram_weight": 200.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "gratin": {
+    "class_name": "gratin",
+    "food_id": "42853858-c7a8-4db0-8a9b-1ae58ef74c23",
+    "fdc_id": "2707111",
+    "display_name": "Gratin",
+    "category": "Poultry mixed dishes",
+    "source": "usda_fndds",
+    "per_100g": {
+      "calories_kcal": 120.0,
+      "protein_g": 10.7,
+      "carbs_g": 7.2,
+      "fat_g": 5.4,
+      "fiber_g": 0.8,
+      "sugar_g": 0.9,
+      "sodium_mg": 499.0
+    },
+    "default_portion": {
+      "description": "1 entree (9.1 oz)",
+      "gram_weight": 258.0
+    },
+    "portions": [
+      {
+        "description": "1 entree (9.1 oz)",
+        "gram_weight": 258.0
+      }
+    ]
+  },
+  "green_curry": {
+    "class_name": "green_curry",
+    "display_name": "Green curry",
+    "category": "International Cuisine",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 185.0,
+      "protein_g": 8.5,
+      "carbs_g": 22.0,
+      "fat_g": 7.0,
+      "fiber_g": 1.8,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 plate / serving",
+      "gram_weight": 200.0
+    },
+    "portions": [
+      {
+        "description": "1 plate / serving",
+        "gram_weight": 200.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "green_salad": {
+    "class_name": "green_salad",
+    "display_name": "Green salad",
+    "category": "Salads & Vegetables",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 75.0,
+      "protein_g": 2.5,
+      "carbs_g": 8.0,
+      "fat_g": 4.0,
+      "fiber_g": 2.5,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 bowl of salad",
+      "gram_weight": 180.0
+    },
+    "portions": [
+      {
+        "description": "1 bowl of salad",
+        "gram_weight": 180.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "grilled_eggplant": {
+    "class_name": "grilled_eggplant",
+    "display_name": "Grilled eggplant",
+    "category": "International Cuisine",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 185.0,
+      "protein_g": 8.5,
+      "carbs_g": 22.0,
+      "fat_g": 7.0,
+      "fiber_g": 1.8,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 plate / serving",
+      "gram_weight": 200.0
+    },
+    "portions": [
+      {
+        "description": "1 plate / serving",
+        "gram_weight": 200.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "grilled_pacific_saury": {
+    "class_name": "grilled_pacific_saury",
+    "display_name": "Grilled pacific saury",
+    "category": "International Cuisine",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 185.0,
+      "protein_g": 8.5,
+      "carbs_g": 22.0,
+      "fat_g": 7.0,
+      "fiber_g": 1.8,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 plate / serving",
+      "gram_weight": 200.0
+    },
+    "portions": [
+      {
+        "description": "1 plate / serving",
+        "gram_weight": 200.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "grilled_salmon": {
+    "class_name": "grilled_salmon",
+    "display_name": "Grilled salmon",
+    "category": "Seafood",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 190.0,
+      "protein_g": 20.0,
+      "carbs_g": 2.0,
+      "fat_g": 11.0,
+      "fiber_g": 0.0,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 fillet / portion",
+      "gram_weight": 150.0
+    },
+    "portions": [
+      {
+        "description": "1 fillet / portion",
+        "gram_weight": 150.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "gulai": {
+    "class_name": "gulai",
+    "display_name": "Gulai",
+    "category": "International Cuisine",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 185.0,
+      "protein_g": 8.5,
+      "carbs_g": 22.0,
+      "fat_g": 7.0,
+      "fiber_g": 1.8,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 plate / serving",
+      "gram_weight": 200.0
+    },
+    "portions": [
+      {
+        "description": "1 plate / serving",
+        "gram_weight": 200.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "ham_cutlet": {
+    "class_name": "ham_cutlet",
+    "food_id": "2b5e0f3e-e0a3-44f5-9688-715a92d67f03",
+    "fdc_id": "2705878",
+    "display_name": "Ham cutlet",
+    "category": "Cold cuts and cured meats",
+    "source": "usda_fndds",
+    "per_100g": {
+      "calories_kcal": 117.0,
+      "protein_g": 19.0,
+      "carbs_g": 1.6,
+      "fat_g": 3.9,
+      "fiber_g": 1.5,
+      "sugar_g": 1.5,
+      "sodium_mg": 1149.0
+    },
+    "default_portion": {
+      "description": "1 thick slice",
+      "gram_weight": 90.0
+    },
+    "portions": [
+      {
+        "description": "1 thick slice",
+        "gram_weight": 90.0
+      },
+      {
+        "description": "1 regular/thin slice",
+        "gram_weight": 60.0
+      },
+      {
+        "description": "1 oz yields",
+        "gram_weight": 20.0
+      },
+      {
+        "description": "1 cubic inch",
+        "gram_weight": 17.0
+      },
+      {
+        "description": "1 cup",
+        "gram_weight": 135.0
+      }
+    ]
+  },
+  "hambarg_steak": {
+    "class_name": "hambarg_steak",
+    "food_id": "2b5e0f3e-e0a3-44f5-9688-715a92d67f03",
+    "fdc_id": "2705878",
+    "display_name": "Hamburg steak",
+    "category": "Meat Dishes",
+    "source": "USDA FNDDS / Curated prepared dish",
+    "per_100g": {
+      "calories_kcal": 215.0,
+      "protein_g": 14.5,
+      "carbs_g": 8.0,
+      "fat_g": 14.0,
+      "fiber_g": 0.8,
+      "sugar_g": 2.5,
+      "sodium_mg": 520.0
+    },
+    "default_portion": {
+      "description": "Regular hamburg steak with gravy",
+      "gram_weight": 200.0
+    },
+    "portions": [
+      {
+        "description": "Regular hamburg steak with gravy",
+        "gram_weight": 200.0
+      },
+      {
+        "description": "Small hamburg steak",
+        "gram_weight": 140.0
+      },
+      {
+        "description": "Large hamburg steak with cheese",
+        "gram_weight": 280.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "haupia": {
+    "class_name": "haupia",
+    "food_id": "28c52e55-e8b8-4e2d-b6ab-9a84b13b2976",
+    "fdc_id": "2710316",
+    "display_name": "Haupia",
+    "category": "Desserts & Sweets",
+    "source": "USDA FNDDS / Curated Hawaiian coconut pudding",
+    "per_100g": {
+      "calories_kcal": 225.0,
+      "protein_g": 1.5,
+      "carbs_g": 27.0,
+      "fat_g": 12.0,
+      "fiber_g": 1.0,
+      "sugar_g": 16.0,
+      "sodium_mg": 65.0
+    },
+    "default_portion": {
+      "description": "1 square / slice (80g)",
+      "gram_weight": 80.0
+    },
+    "portions": [
+      {
+        "description": "1 square / slice (80g)",
+        "gram_weight": 80.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "hot_&_sour_soup": {
+    "class_name": "hot_&_sour_soup",
+    "display_name": "Hot & sour soup",
+    "category": "Soups & Stews",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 85.0,
+      "protein_g": 4.5,
+      "carbs_g": 9.0,
+      "fat_g": 3.0,
+      "fiber_g": 1.2,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 bowl of soup",
+      "gram_weight": 250.0
+    },
+    "portions": [
+      {
+        "description": "1 bowl of soup",
+        "gram_weight": 250.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "hot_and_sour,_fish_and_vegetable_ragout": {
+    "class_name": "hot_and_sour,_fish_and_vegetable_ragout",
+    "display_name": "Hot and sour, fish and vegetable ragout",
+    "category": "Seafood",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 190.0,
+      "protein_g": 20.0,
+      "carbs_g": 2.0,
+      "fat_g": 11.0,
+      "fiber_g": 0.0,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 fillet / portion",
+      "gram_weight": 150.0
+    },
+    "portions": [
+      {
+        "description": "1 fillet / portion",
+        "gram_weight": 150.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "hot_dog": {
+    "class_name": "hot_dog",
+    "food_id": "f6dde948-d3be-45b7-9dac-afc5297520d8",
+    "fdc_id": "2706166",
+    "display_name": "Hot dog",
+    "category": "Fast Food",
+    "source": "USDA FNDDS 2713000 (Hot dog on bun, as eaten)",
+    "per_100g": {
+      "calories_kcal": 275.0,
+      "protein_g": 10.5,
+      "carbs_g": 21.0,
+      "fat_g": 16.5,
+      "fiber_g": 1.0,
+      "sugar_g": 3.2,
+      "sodium_mg": 680.0
+    },
+    "default_portion": {
+      "description": "1 hot dog on bun",
+      "gram_weight": 105.0
+    },
+    "portions": [
+      {
+        "description": "1 regular hot dog on bun",
+        "gram_weight": 105.0
+      },
+      {
+        "description": "1 jumbo / large hot dog on bun",
+        "gram_weight": 145.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "hot_pot": {
+    "class_name": "hot_pot",
+    "display_name": "Hot pot",
+    "category": "International Cuisine",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 185.0,
+      "protein_g": 8.5,
+      "carbs_g": 22.0,
+      "fat_g": 7.0,
+      "fiber_g": 1.8,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 plate / serving",
+      "gram_weight": 200.0
+    },
+    "portions": [
+      {
+        "description": "1 plate / serving",
+        "gram_weight": 200.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "hue_beef_rice_vermicelli_soup": {
+    "class_name": "hue_beef_rice_vermicelli_soup",
+    "display_name": "Hue beef rice vermicelli soup",
+    "category": "Rice Bowls",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 175.0,
+      "protein_g": 7.0,
+      "carbs_g": 28.0,
+      "fat_g": 4.0,
+      "fiber_g": 1.2,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 bowl",
+      "gram_weight": 300.0
+    },
+    "portions": [
+      {
+        "description": "1 bowl",
+        "gram_weight": 300.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "idli": {
+    "class_name": "idli",
+    "display_name": "Idli",
+    "category": "Indian Breakfast",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 132.0,
+      "protein_g": 4.5,
+      "carbs_g": 27.0,
+      "fat_g": 0.5,
+      "fiber_g": 1.5,
+      "sugar_g": 2.0,
+      "sodium_mg": 380.0
+    },
+    "default_portion": {
+      "description": "2 idlis",
+      "gram_weight": 100.0
+    },
+    "portions": [
+      {
+        "description": "2 idlis",
+        "gram_weight": 100.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "inarizushi": {
+    "class_name": "inarizushi",
+    "display_name": "Inarizushi",
+    "category": "International Cuisine",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 185.0,
+      "protein_g": 8.5,
+      "carbs_g": 22.0,
+      "fat_g": 7.0,
+      "fiber_g": 1.8,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 plate / serving",
+      "gram_weight": 200.0
+    },
+    "portions": [
+      {
+        "description": "1 plate / serving",
+        "gram_weight": 200.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "jalebi": {
+    "class_name": "jalebi",
+    "display_name": "Jalebi",
+    "category": "Indian Sweets",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 390.0,
+      "protein_g": 2.0,
+      "carbs_g": 78.0,
+      "fat_g": 8.5,
+      "fiber_g": 0.5,
+      "sugar_g": 2.0,
+      "sodium_mg": 380.0
+    },
+    "default_portion": {
+      "description": "3 pieces",
+      "gram_weight": 75.0
+    },
+    "portions": [
+      {
+        "description": "3 pieces",
+        "gram_weight": 75.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "jambalaya": {
+    "class_name": "jambalaya",
+    "food_id": "3d4e1cb6-3717-4435-a9e9-8ccedbfed6c6",
+    "fdc_id": "2706727",
+    "display_name": "Jambalaya",
+    "category": "Rice mixed dishes",
+    "source": "usda_fndds",
+    "per_100g": {
+      "calories_kcal": 161.0,
+      "protein_g": 13.8,
+      "carbs_g": 8.7,
+      "fat_g": 8.0,
+      "fiber_g": 0.7,
+      "sugar_g": 0.9,
+      "sodium_mg": 379.0
+    },
+    "default_portion": {
+      "description": "1 cup",
+      "gram_weight": 244.0
+    },
+    "portions": [
+      {
+        "description": "1 cup",
+        "gram_weight": 244.0
+      }
+    ]
+  },
+  "japanese_style_pancake": {
+    "class_name": "japanese_style_pancake",
+    "display_name": "Japanese style pancake",
+    "category": "Desserts & Sweets",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 340.0,
+      "protein_g": 4.0,
+      "carbs_g": 52.0,
+      "fat_g": 14.0,
+      "fiber_g": 1.0,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 slice / piece",
+      "gram_weight": 120.0
+    },
+    "portions": [
+      {
+        "description": "1 slice / piece",
+        "gram_weight": 120.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "japanese_tofu_and_vegetable_chowder": {
+    "class_name": "japanese_tofu_and_vegetable_chowder",
+    "display_name": "Japanese tofu and vegetable chowder",
+    "category": "International Cuisine",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 185.0,
+      "protein_g": 8.5,
+      "carbs_g": 22.0,
+      "fat_g": 7.0,
+      "fiber_g": 1.8,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 plate / serving",
+      "gram_weight": 200.0
+    },
+    "portions": [
+      {
+        "description": "1 plate / serving",
+        "gram_weight": 200.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "jiaozi": {
+    "class_name": "jiaozi",
+    "display_name": "Jiaozi",
+    "category": "International Cuisine",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 185.0,
+      "protein_g": 8.5,
+      "carbs_g": 22.0,
+      "fat_g": 7.0,
+      "fiber_g": 1.8,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 plate / serving",
+      "gram_weight": 200.0
+    },
+    "portions": [
+      {
+        "description": "1 plate / serving",
+        "gram_weight": 200.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "jjigae": {
+    "class_name": "jjigae",
+    "display_name": "Jjigae",
+    "category": "International Cuisine",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 185.0,
+      "protein_g": 8.5,
+      "carbs_g": 22.0,
+      "fat_g": 7.0,
+      "fiber_g": 1.8,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 plate / serving",
+      "gram_weight": 200.0
+    },
+    "portions": [
+      {
+        "description": "1 plate / serving",
+        "gram_weight": 200.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "kaathi_rolls": {
+    "class_name": "kaathi_rolls",
+    "display_name": "Kaathi rolls",
+    "category": "Indian Street Food",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 240.0,
+      "protein_g": 9.5,
+      "carbs_g": 26.0,
+      "fat_g": 11.0,
+      "fiber_g": 2.5,
+      "sugar_g": 2.0,
+      "sodium_mg": 380.0
+    },
+    "default_portion": {
+      "description": "1 roll",
+      "gram_weight": 160.0
+    },
+    "portions": [
+      {
+        "description": "1 roll",
+        "gram_weight": 160.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "kadai_paneer": {
+    "class_name": "kadai_paneer",
+    "display_name": "Kadai paneer",
+    "category": "Indian Curries",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 195.0,
+      "protein_g": 11.0,
+      "carbs_g": 8.5,
+      "fat_g": 14.0,
+      "fiber_g": 2.0,
+      "sugar_g": 2.0,
+      "sodium_mg": 380.0
+    },
+    "default_portion": {
+      "description": "1 bowl",
+      "gram_weight": 200.0
+    },
+    "portions": [
+      {
+        "description": "1 bowl",
+        "gram_weight": 200.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "kamameshi": {
+    "class_name": "kamameshi",
+    "display_name": "Kamameshi",
+    "category": "International Cuisine",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 185.0,
+      "protein_g": 8.5,
+      "carbs_g": 22.0,
+      "fat_g": 7.0,
+      "fiber_g": 1.8,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 plate / serving",
+      "gram_weight": 200.0
+    },
+    "portions": [
+      {
+        "description": "1 plate / serving",
+        "gram_weight": 200.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "kaya_toast": {
+    "class_name": "kaya_toast",
+    "display_name": "Kaya toast",
+    "category": "International Cuisine",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 185.0,
+      "protein_g": 8.5,
+      "carbs_g": 22.0,
+      "fat_g": 7.0,
+      "fiber_g": 1.8,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 plate / serving",
+      "gram_weight": 200.0
+    },
+    "portions": [
+      {
+        "description": "1 plate / serving",
+        "gram_weight": 200.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "khao_soi": {
+    "class_name": "khao_soi",
+    "display_name": "Khao soi",
+    "category": "International Cuisine",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 185.0,
+      "protein_g": 8.5,
+      "carbs_g": 22.0,
+      "fat_g": 7.0,
+      "fiber_g": 1.8,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 plate / serving",
+      "gram_weight": 200.0
+    },
+    "portions": [
+      {
+        "description": "1 plate / serving",
+        "gram_weight": 200.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "kinpira_style_sauteed_burdock": {
+    "class_name": "kinpira_style_sauteed_burdock",
+    "display_name": "Kinpira style sauteed burdock",
+    "category": "International Cuisine",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 185.0,
+      "protein_g": 8.5,
+      "carbs_g": 22.0,
+      "fat_g": 7.0,
+      "fiber_g": 1.8,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 plate / serving",
+      "gram_weight": 200.0
+    },
+    "portions": [
+      {
+        "description": "1 plate / serving",
+        "gram_weight": 200.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "kulfi": {
+    "class_name": "kulfi",
+    "display_name": "Kulfi",
+    "category": "Desserts",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 230.0,
+      "protein_g": 5.5,
+      "carbs_g": 26.0,
+      "fat_g": 12.0,
+      "fiber_g": 0.2,
+      "sugar_g": 2.0,
+      "sodium_mg": 380.0
+    },
+    "default_portion": {
+      "description": "1 kulfi stick",
+      "gram_weight": 90.0
+    },
+    "portions": [
+      {
+        "description": "1 kulfi stick",
+        "gram_weight": 90.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "kung_pao_chicken": {
+    "class_name": "kung_pao_chicken",
+    "food_id": "310fe13b-1c08-4924-b53a-6a3f48884a4b",
+    "fdc_id": "2706796",
+    "display_name": "Kung pao chicken",
+    "category": "Stir-fry and soy-based sauce mixtures",
+    "source": "usda_fndds",
+    "per_100g": {
+      "calories_kcal": 129.0,
+      "protein_g": 9.8,
+      "carbs_g": 6.9,
+      "fat_g": 7.0,
+      "fiber_g": 1.5,
+      "sugar_g": 3.0,
+      "sodium_mg": 402.0
+    },
+    "default_portion": {
+      "description": "1 cup",
+      "gram_weight": 162.0
+    },
+    "portions": [
+      {
+        "description": "1 cup",
+        "gram_weight": 162.0
+      }
+    ]
+  },
+  "kushikatu": {
+    "class_name": "kushikatu",
+    "display_name": "Kushikatu",
+    "category": "International Cuisine",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 185.0,
+      "protein_g": 8.5,
+      "carbs_g": 22.0,
+      "fat_g": 7.0,
+      "fiber_g": 1.8,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 plate / serving",
+      "gram_weight": 200.0
+    },
+    "portions": [
+      {
+        "description": "1 plate / serving",
+        "gram_weight": 200.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "laksa": {
+    "class_name": "laksa",
+    "display_name": "Laksa",
+    "category": "International Cuisine",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 185.0,
+      "protein_g": 8.5,
+      "carbs_g": 22.0,
+      "fat_g": 7.0,
+      "fiber_g": 1.8,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 plate / serving",
+      "gram_weight": 200.0
+    },
+    "portions": [
+      {
+        "description": "1 plate / serving",
+        "gram_weight": 200.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "lamb_kebabs": {
+    "class_name": "lamb_kebabs",
+    "display_name": "Lamb kebabs",
+    "category": "International Cuisine",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 185.0,
+      "protein_g": 8.5,
+      "carbs_g": 22.0,
+      "fat_g": 7.0,
+      "fiber_g": 1.8,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 plate / serving",
+      "gram_weight": 200.0
+    },
+    "portions": [
+      {
+        "description": "1 plate / serving",
+        "gram_weight": 200.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "lasagna": {
+    "class_name": "lasagna",
+    "food_id": "c054bbf9-8efe-4012-b7b0-e57279d9a335",
+    "fdc_id": "2708750",
+    "display_name": "Lasagna",
+    "category": "Pasta mixed dishes, excludes macaroni and cheese",
+    "source": "usda_fndds",
+    "per_100g": {
+      "calories_kcal": 139.0,
+      "protein_g": 7.5,
+      "carbs_g": 16.2,
+      "fat_g": 5.0,
+      "fiber_g": 1.6,
+      "sugar_g": 3.3,
+      "sodium_mg": 390.0
+    },
+    "default_portion": {
+      "description": "1 piece (1/6 of 8\" square, approx 2-1/2\" x 4\")",
+      "gram_weight": 206.0
+    },
+    "portions": [
+      {
+        "description": "1 piece (1/6 of 8\" square, approx 2-1/2\" x 4\")",
+        "gram_weight": 206.0
+      },
+      {
+        "description": "1 piece (1/8 of 7\" x 12\", approx 3-1/2\" x 3\")",
+        "gram_weight": 232.0
+      },
+      {
+        "description": "1 surface inch",
+        "gram_weight": 20.7
+      },
+      {
+        "description": "1 cup",
+        "gram_weight": 250.0
+      }
+    ]
+  },
+  "laulau": {
+    "class_name": "laulau",
+    "display_name": "Laulau",
+    "category": "International Cuisine",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 185.0,
+      "protein_g": 8.5,
+      "carbs_g": 22.0,
+      "fat_g": 7.0,
+      "fiber_g": 1.8,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 plate / serving",
+      "gram_weight": 200.0
+    },
+    "portions": [
+      {
+        "description": "1 plate / serving",
+        "gram_weight": 200.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "lemon_fig_jelly": {
+    "class_name": "lemon_fig_jelly",
+    "food_id": "0f68c5cd-3987-49b4-b7da-f4e465a7d300",
+    "fdc_id": "2710300",
+    "display_name": "Lemon fig jelly",
+    "category": "Desserts & Sweets",
+    "source": "Curated Asian dessert",
+    "per_100g": {
+      "calories_kcal": 105.0,
+      "protein_g": 1.5,
+      "carbs_g": 24.0,
+      "fat_g": 0.2,
+      "fiber_g": 0.8,
+      "sugar_g": 22.0,
+      "sodium_mg": 35.0
+    },
+    "default_portion": {
+      "description": "1 dessert bowl",
+      "gram_weight": 120.0
+    },
+    "portions": [
+      {
+        "description": "1 dessert bowl (120g)",
+        "gram_weight": 120.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "lightly_roasted_fish": {
+    "class_name": "lightly_roasted_fish",
+    "display_name": "Lightly roasted fish",
+    "category": "Seafood",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 190.0,
+      "protein_g": 20.0,
+      "carbs_g": 2.0,
+      "fat_g": 11.0,
+      "fiber_g": 0.0,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 fillet / portion",
+      "gram_weight": 150.0
+    },
+    "portions": [
+      {
+        "description": "1 fillet / portion",
+        "gram_weight": 150.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "loco_moco": {
+    "class_name": "loco_moco",
+    "display_name": "Loco moco",
+    "category": "International Cuisine",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 185.0,
+      "protein_g": 8.5,
+      "carbs_g": 22.0,
+      "fat_g": 7.0,
+      "fiber_g": 1.8,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 plate / serving",
+      "gram_weight": 200.0
+    },
+    "portions": [
+      {
+        "description": "1 plate / serving",
+        "gram_weight": 200.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "lumpia": {
+    "class_name": "lumpia",
+    "display_name": "Lumpia",
+    "category": "International Cuisine",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 185.0,
+      "protein_g": 8.5,
+      "carbs_g": 22.0,
+      "fat_g": 7.0,
+      "fiber_g": 1.8,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 plate / serving",
+      "gram_weight": 200.0
+    },
+    "portions": [
+      {
+        "description": "1 plate / serving",
+        "gram_weight": 200.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "macaroni_salad": {
+    "class_name": "macaroni_salad",
+    "display_name": "Macaroni salad",
+    "category": "Salads & Vegetables",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 75.0,
+      "protein_g": 2.5,
+      "carbs_g": 8.0,
+      "fat_g": 4.0,
+      "fiber_g": 2.5,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 bowl of salad",
+      "gram_weight": 180.0
+    },
+    "portions": [
+      {
+        "description": "1 bowl of salad",
+        "gram_weight": 180.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "malasada": {
+    "class_name": "malasada",
+    "display_name": "Malasada",
+    "category": "International Cuisine",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 185.0,
+      "protein_g": 8.5,
+      "carbs_g": 22.0,
+      "fat_g": 7.0,
+      "fiber_g": 1.8,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 plate / serving",
+      "gram_weight": 200.0
+    },
+    "portions": [
+      {
+        "description": "1 plate / serving",
+        "gram_weight": 200.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "mango_pudding": {
+    "class_name": "mango_pudding",
+    "display_name": "Mango pudding",
+    "category": "International Cuisine",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 185.0,
+      "protein_g": 8.5,
+      "carbs_g": 22.0,
+      "fat_g": 7.0,
+      "fiber_g": 1.8,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 plate / serving",
+      "gram_weight": 200.0
+    },
+    "portions": [
+      {
+        "description": "1 plate / serving",
+        "gram_weight": 200.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "masala_dosa": {
+    "class_name": "masala_dosa",
+    "display_name": "Masala dosa",
+    "category": "Indian Breakfast",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 190.0,
+      "protein_g": 4.5,
+      "carbs_g": 29.0,
+      "fat_g": 6.5,
+      "fiber_g": 2.0,
+      "sugar_g": 2.0,
+      "sodium_mg": 380.0
+    },
+    "default_portion": {
+      "description": "1 dosa with aloo filling",
+      "gram_weight": 220.0
+    },
+    "portions": [
+      {
+        "description": "1 dosa with aloo filling",
+        "gram_weight": 220.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "meat_loaf": {
+    "class_name": "meat_loaf",
+    "food_id": "a232f7e9-7b74-4b1c-b5bf-6a8520a93074",
+    "fdc_id": "2706468",
+    "display_name": "Meat loaf",
+    "category": "Meat mixed dishes",
+    "source": "usda_fndds",
+    "per_100g": {
+      "calories_kcal": 325.0,
+      "protein_g": 19.9,
+      "carbs_g": 10.7,
+      "fat_g": 22.0,
+      "fiber_g": 0.6,
+      "sugar_g": 1.0,
+      "sodium_mg": 629.0
+    },
+    "default_portion": {
+      "description": "1 serving (3\" x 1\" x 2\")",
+      "gram_weight": 95.0
+    },
+    "portions": [
+      {
+        "description": "1 serving (3\" x 1\" x 2\")",
+        "gram_weight": 95.0
+      }
+    ]
+  },
+  "mie_ayam": {
+    "class_name": "mie_ayam",
+    "display_name": "Mie ayam",
+    "category": "International Cuisine",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 185.0,
+      "protein_g": 8.5,
+      "carbs_g": 22.0,
+      "fat_g": 7.0,
+      "fiber_g": 1.8,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 plate / serving",
+      "gram_weight": 200.0
+    },
+    "portions": [
+      {
+        "description": "1 plate / serving",
+        "gram_weight": 200.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "mie_goreng": {
+    "class_name": "mie_goreng",
+    "display_name": "Mie goreng",
+    "category": "International Cuisine",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 185.0,
+      "protein_g": 8.5,
+      "carbs_g": 22.0,
+      "fat_g": 7.0,
+      "fiber_g": 1.8,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 plate / serving",
+      "gram_weight": 200.0
+    },
+    "portions": [
+      {
+        "description": "1 plate / serving",
+        "gram_weight": 200.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "minced_meat_cutlet": {
+    "class_name": "minced_meat_cutlet",
+    "display_name": "Minced meat cutlet",
+    "category": "Meat Dishes",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 220.0,
+      "protein_g": 18.0,
+      "carbs_g": 5.0,
+      "fat_g": 14.0,
+      "fiber_g": 0.5,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 portion",
+      "gram_weight": 180.0
+    },
+    "portions": [
+      {
+        "description": "1 portion",
+        "gram_weight": 180.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "minced_pork_rice": {
+    "class_name": "minced_pork_rice",
+    "display_name": "Minced pork rice",
+    "category": "Rice Bowls",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 175.0,
+      "protein_g": 7.0,
+      "carbs_g": 28.0,
+      "fat_g": 4.0,
+      "fiber_g": 1.2,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 bowl",
+      "gram_weight": 300.0
+    },
+    "portions": [
+      {
+        "description": "1 bowl",
+        "gram_weight": 300.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "minestrone": {
+    "class_name": "minestrone",
+    "food_id": "b0a66996-fb2b-41fb-9913-3d29d33247dd",
+    "fdc_id": "2710114",
+    "display_name": "Minestrone",
+    "category": "Soups, broth-based",
+    "source": "usda_fndds",
+    "per_100g": {
+      "calories_kcal": 40.0,
+      "protein_g": 1.7,
+      "carbs_g": 7.3,
+      "fat_g": 0.5,
+      "fiber_g": 1.5,
+      "sugar_g": 1.0,
+      "sodium_mg": 241.0
+    },
+    "default_portion": {
+      "description": "1 individual container",
+      "gram_weight": 440.0
+    },
+    "portions": [
+      {
+        "description": "1 individual container",
+        "gram_weight": 440.0
+      },
+      {
+        "description": "1 cup",
+        "gram_weight": 245.0
+      },
+      {
+        "description": "1 can",
+        "gram_weight": 525.0
+      }
+    ]
+  },
+  "miso_soup": {
+    "class_name": "miso_soup",
+    "food_id": "2b59f620-c8dd-402b-9870-cf85383d6601",
+    "fdc_id": "2707439",
+    "display_name": "Miso soup",
+    "category": "Soy-based condiments",
+    "source": "usda_fndds",
+    "per_100g": {
+      "calories_kcal": 198.0,
+      "protein_g": 12.8,
+      "carbs_g": 25.4,
+      "fat_g": 6.0,
+      "fiber_g": 5.4,
+      "sugar_g": 6.2,
+      "sodium_mg": 3728.0
+    },
+    "default_portion": {
+      "description": "1 cup",
+      "gram_weight": 275.0
+    },
+    "portions": [
+      {
+        "description": "1 cup",
+        "gram_weight": 275.0
+      }
+    ]
+  },
+  "mixed_rice": {
+    "class_name": "mixed_rice",
+    "display_name": "Mixed rice",
+    "category": "Rice Bowls",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 175.0,
+      "protein_g": 7.0,
+      "carbs_g": 28.0,
+      "fat_g": 4.0,
+      "fiber_g": 1.2,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 bowl",
+      "gram_weight": 300.0
+    },
+    "portions": [
+      {
+        "description": "1 bowl",
+        "gram_weight": 300.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "momos": {
+    "class_name": "momos",
+    "display_name": "Momos",
+    "category": "Dumplings",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 175.0,
+      "protein_g": 7.5,
+      "carbs_g": 26.0,
+      "fat_g": 4.5,
+      "fiber_g": 1.8,
+      "sugar_g": 2.0,
+      "sodium_mg": 380.0
+    },
+    "default_portion": {
+      "description": "6 pieces",
+      "gram_weight": 150.0
+    },
+    "portions": [
+      {
+        "description": "6 pieces",
+        "gram_weight": 150.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "moon_cake": {
+    "class_name": "moon_cake",
+    "display_name": "Moon cake",
+    "category": "Desserts & Sweets",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 340.0,
+      "protein_g": 4.0,
+      "carbs_g": 52.0,
+      "fat_g": 14.0,
+      "fiber_g": 1.0,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 slice / piece",
+      "gram_weight": 120.0
+    },
+    "portions": [
+      {
+        "description": "1 slice / piece",
+        "gram_weight": 120.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "mozuku": {
+    "class_name": "mozuku",
+    "display_name": "Mozuku",
+    "category": "International Cuisine",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 185.0,
+      "protein_g": 8.5,
+      "carbs_g": 22.0,
+      "fat_g": 7.0,
+      "fiber_g": 1.8,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 plate / serving",
+      "gram_weight": 200.0
+    },
+    "portions": [
+      {
+        "description": "1 plate / serving",
+        "gram_weight": 200.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "muffin": {
+    "class_name": "muffin",
+    "food_id": "5d1505a3-9e21-4926-9e2c-b3066b202678",
+    "fdc_id": "2707315",
+    "display_name": "Muffin",
+    "category": "Egg/breakfast sandwiches",
+    "source": "usda_fndds",
+    "per_100g": {
+      "calories_kcal": 230.0,
+      "protein_g": 11.7,
+      "carbs_g": 20.6,
+      "fat_g": 11.2,
+      "fiber_g": 1.5,
+      "sugar_g": 2.1,
+      "sodium_mg": 444.0
+    },
+    "default_portion": {
+      "description": "1 large",
+      "gram_weight": 205.0
+    },
+    "portions": [
+      {
+        "description": "1 large",
+        "gram_weight": 205.0
+      },
+      {
+        "description": "1 regular",
+        "gram_weight": 135.0
+      }
+    ]
+  },
+  "mushroom_risotto": {
+    "class_name": "mushroom_risotto",
+    "display_name": "Mushroom risotto",
+    "category": "International Cuisine",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 185.0,
+      "protein_g": 8.5,
+      "carbs_g": 22.0,
+      "fat_g": 7.0,
+      "fiber_g": 1.8,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 plate / serving",
+      "gram_weight": 200.0
+    },
+    "portions": [
+      {
+        "description": "1 plate / serving",
+        "gram_weight": 200.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "nachos": {
+    "class_name": "nachos",
+    "food_id": "bc1da1af-d138-490c-9127-190612dc2031",
+    "fdc_id": "2708576",
+    "display_name": "Nachos",
+    "category": "Nachos",
+    "source": "usda_fndds",
+    "per_100g": {
+      "calories_kcal": 265.0,
+      "protein_g": 7.6,
+      "carbs_g": 23.9,
+      "fat_g": 15.8,
+      "fiber_g": 1.7,
+      "sugar_g": 0.4,
+      "sodium_mg": 488.0
+    },
+    "default_portion": {
+      "description": "1 order",
+      "gram_weight": 250.0
+    },
+    "portions": [
+      {
+        "description": "1 order",
+        "gram_weight": 250.0
+      },
+      {
+        "description": "1 chip",
+        "gram_weight": 7.0
+      },
+      {
+        "description": "1 cup",
+        "gram_weight": 135.0
+      },
+      {
+        "description": "1 item, any size",
+        "gram_weight": 250.0
+      }
+    ]
+  },
+  "namero": {
+    "class_name": "namero",
+    "display_name": "Namero",
+    "category": "International Cuisine",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 185.0,
+      "protein_g": 8.5,
+      "carbs_g": 22.0,
+      "fat_g": 7.0,
+      "fiber_g": 1.8,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 plate / serving",
+      "gram_weight": 200.0
+    },
+    "portions": [
+      {
+        "description": "1 plate / serving",
+        "gram_weight": 200.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "nanbanzuke": {
+    "class_name": "nanbanzuke",
+    "display_name": "Nanbanzuke",
+    "category": "International Cuisine",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 185.0,
+      "protein_g": 8.5,
+      "carbs_g": 22.0,
+      "fat_g": 7.0,
+      "fiber_g": 1.8,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 plate / serving",
+      "gram_weight": 200.0
+    },
+    "portions": [
+      {
+        "description": "1 plate / serving",
+        "gram_weight": 200.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "nasi_campur": {
+    "class_name": "nasi_campur",
+    "display_name": "Nasi campur",
+    "category": "International Cuisine",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 185.0,
+      "protein_g": 8.5,
+      "carbs_g": 22.0,
+      "fat_g": 7.0,
+      "fiber_g": 1.8,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 plate / serving",
+      "gram_weight": 200.0
+    },
+    "portions": [
+      {
+        "description": "1 plate / serving",
+        "gram_weight": 200.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "nasi_goreng": {
+    "class_name": "nasi_goreng",
+    "display_name": "Nasi goreng",
+    "category": "International Cuisine",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 185.0,
+      "protein_g": 8.5,
+      "carbs_g": 22.0,
+      "fat_g": 7.0,
+      "fiber_g": 1.8,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 plate / serving",
+      "gram_weight": 200.0
+    },
+    "portions": [
+      {
+        "description": "1 plate / serving",
+        "gram_weight": 200.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "nasi_padang": {
+    "class_name": "nasi_padang",
+    "display_name": "Nasi padang",
+    "category": "International Cuisine",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 185.0,
+      "protein_g": 8.5,
+      "carbs_g": 22.0,
+      "fat_g": 7.0,
+      "fiber_g": 1.8,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 plate / serving",
+      "gram_weight": 200.0
+    },
+    "portions": [
+      {
+        "description": "1 plate / serving",
+        "gram_weight": 200.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "nasi_uduk": {
+    "class_name": "nasi_uduk",
+    "display_name": "Nasi uduk",
+    "category": "International Cuisine",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 185.0,
+      "protein_g": 8.5,
+      "carbs_g": 22.0,
+      "fat_g": 7.0,
+      "fiber_g": 1.8,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 plate / serving",
+      "gram_weight": 200.0
+    },
+    "portions": [
+      {
+        "description": "1 plate / serving",
+        "gram_weight": 200.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "natto": {
+    "class_name": "natto",
+    "food_id": "711b3aeb-4b10-4966-af08-c499c39c3642",
+    "fdc_id": "2707440",
+    "display_name": "Natto",
+    "category": "Soy-based condiments",
+    "source": "usda_fndds",
+    "per_100g": {
+      "calories_kcal": 211.0,
+      "protein_g": 19.4,
+      "carbs_g": 12.7,
+      "fat_g": 11.0,
+      "fiber_g": 5.4,
+      "sugar_g": 4.9,
+      "sodium_mg": 7.0
+    },
+    "default_portion": {
+      "description": "1 cup",
+      "gram_weight": 176.0
+    },
+    "portions": [
+      {
+        "description": "1 cup",
+        "gram_weight": 176.0
+      }
+    ]
+  },
+  "noodles_with_fish_curry": {
+    "class_name": "noodles_with_fish_curry",
+    "food_id": "6ca0f039-0e80-4f0c-897c-c3b69628ed28",
+    "fdc_id": "2706460",
+    "display_name": "Noodles with fish curry",
+    "category": "Seafood mixed dishes",
+    "source": "usda_fndds",
+    "per_100g": {
+      "calories_kcal": 93.0,
+      "protein_g": 4.9,
+      "carbs_g": 6.7,
+      "fat_g": 5.4,
+      "fiber_g": 1.4,
+      "sugar_g": 2.6,
+      "sodium_mg": 351.0
+    },
+    "default_portion": {
+      "description": "1 cup",
+      "gram_weight": 240.0
+    },
+    "portions": [
+      {
+        "description": "1 cup",
+        "gram_weight": 240.0
+      }
+    ]
+  },
+  "oatmeal": {
+    "class_name": "oatmeal",
+    "food_id": "7919deb9-743a-4fd9-9f92-866682f152f7",
+    "fdc_id": "2707768",
+    "display_name": "Oatmeal",
+    "category": "Cereal & Grains",
+    "source": "USDA FNDDS 5620100 (Cooked oatmeal, as eaten)",
+    "per_100g": {
+      "calories_kcal": 68.0,
+      "protein_g": 2.4,
+      "carbs_g": 12.0,
+      "fat_g": 1.4,
+      "fiber_g": 1.7,
+      "sugar_g": 0.5,
+      "sodium_mg": 49.0
+    },
+    "default_portion": {
+      "description": "1 cup cooked bowl",
+      "gram_weight": 234.0
+    },
+    "portions": [
+      {
+        "description": "1 cup cooked bowl",
+        "gram_weight": 234.0
+      },
+      {
+        "description": "Small bowl (3/4 cup)",
+        "gram_weight": 175.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "oden": {
+    "class_name": "oden",
+    "display_name": "Oden",
+    "category": "International Cuisine",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 185.0,
+      "protein_g": 8.5,
+      "carbs_g": 22.0,
+      "fat_g": 7.0,
+      "fiber_g": 1.8,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 plate / serving",
+      "gram_weight": 200.0
+    },
+    "portions": [
+      {
+        "description": "1 plate / serving",
+        "gram_weight": 200.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "okinawa_soba": {
+    "class_name": "okinawa_soba",
+    "display_name": "Okinawa soba",
+    "category": "Noodle Dishes",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 145.0,
+      "protein_g": 6.5,
+      "carbs_g": 24.0,
+      "fat_g": 3.5,
+      "fiber_g": 1.5,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 bowl of noodles",
+      "gram_weight": 350.0
+    },
+    "portions": [
+      {
+        "description": "1 bowl of noodles",
+        "gram_weight": 350.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "omelet": {
+    "class_name": "omelet",
+    "food_id": "867339fc-49ab-4e33-ab59-f4539e8b4c9f",
+    "fdc_id": "2707198",
+    "display_name": "Omelet",
+    "category": "Eggs and omelets",
+    "source": "usda_fndds",
+    "per_100g": {
+      "calories_kcal": 185.0,
+      "protein_g": 11.6,
+      "carbs_g": 0.9,
+      "fat_g": 15.0,
+      "fiber_g": 1.5,
+      "sugar_g": 0.2,
+      "sodium_mg": 248.0
+    },
+    "default_portion": {
+      "description": "1 cup",
+      "gram_weight": 135.0
+    },
+    "portions": [
+      {
+        "description": "1 cup",
+        "gram_weight": 135.0
+      },
+      {
+        "description": "1 egg",
+        "gram_weight": 55.0
+      }
+    ]
+  },
+  "omelet_with_fried_rice": {
+    "class_name": "omelet_with_fried_rice",
+    "display_name": "Omelet with fried rice",
+    "category": "Rice Bowls",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 175.0,
+      "protein_g": 7.0,
+      "carbs_g": 28.0,
+      "fat_g": 4.0,
+      "fiber_g": 1.2,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 bowl",
+      "gram_weight": 300.0
+    },
+    "portions": [
+      {
+        "description": "1 bowl",
+        "gram_weight": 300.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "oshiruko": {
+    "class_name": "oshiruko",
+    "display_name": "Oshiruko",
+    "category": "International Cuisine",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 185.0,
+      "protein_g": 8.5,
+      "carbs_g": 22.0,
+      "fat_g": 7.0,
+      "fiber_g": 1.8,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 plate / serving",
+      "gram_weight": 200.0
+    },
+    "portions": [
+      {
+        "description": "1 plate / serving",
+        "gram_weight": 200.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "oxtail_soup": {
+    "class_name": "oxtail_soup",
+    "display_name": "Oxtail soup",
+    "category": "Soups & Stews",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 85.0,
+      "protein_g": 4.5,
+      "carbs_g": 9.0,
+      "fat_g": 3.0,
+      "fiber_g": 1.2,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 bowl of soup",
+      "gram_weight": 250.0
+    },
+    "portions": [
+      {
+        "description": "1 bowl of soup",
+        "gram_weight": 250.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "oyster_omelette": {
+    "class_name": "oyster_omelette",
+    "display_name": "Oyster omelette",
+    "category": "International Cuisine",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 185.0,
+      "protein_g": 8.5,
+      "carbs_g": 22.0,
+      "fat_g": 7.0,
+      "fiber_g": 1.8,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 plate / serving",
+      "gram_weight": 200.0
+    },
+    "portions": [
+      {
+        "description": "1 plate / serving",
+        "gram_weight": 200.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "paani_puri": {
+    "class_name": "paani_puri",
+    "display_name": "Paani puri",
+    "category": "Indian Street Food",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 180.0,
+      "protein_g": 3.0,
+      "carbs_g": 32.0,
+      "fat_g": 4.5,
+      "fiber_g": 2.2,
+      "sugar_g": 2.0,
+      "sodium_mg": 380.0
+    },
+    "default_portion": {
+      "description": "6 puris with spiced water",
+      "gram_weight": 180.0
+    },
+    "portions": [
+      {
+        "description": "6 puris with spiced water",
+        "gram_weight": 180.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "paella": {
+    "class_name": "paella",
+    "food_id": "34e8f987-7d5d-4939-b938-21d52939dbbc",
+    "fdc_id": "2706711",
+    "display_name": "Paella",
+    "category": "Rice mixed dishes",
+    "source": "usda_fndds",
+    "per_100g": {
+      "calories_kcal": 143.0,
+      "protein_g": 8.0,
+      "carbs_g": 16.4,
+      "fat_g": 4.8,
+      "fiber_g": 0.7,
+      "sugar_g": 0.9,
+      "sodium_mg": 609.0
+    },
+    "default_portion": {
+      "description": "1 cup",
+      "gram_weight": 240.0
+    },
+    "portions": [
+      {
+        "description": "1 cup",
+        "gram_weight": 240.0
+      }
+    ]
+  },
+  "pakode": {
+    "class_name": "pakode",
+    "display_name": "Pakode",
+    "category": "Indian Snacks",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 270.0,
+      "protein_g": 6.0,
+      "carbs_g": 28.0,
+      "fat_g": 15.0,
+      "fiber_g": 3.5,
+      "sugar_g": 2.0,
+      "sodium_mg": 380.0
+    },
+    "default_portion": {
+      "description": "4 pieces",
+      "gram_weight": 100.0
+    },
+    "portions": [
+      {
+        "description": "4 pieces",
+        "gram_weight": 100.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "pancake": {
+    "class_name": "pancake",
+    "food_id": "2e78dfd6-07ec-4225-8685-f0f891b0c929",
+    "fdc_id": "2706764",
+    "display_name": "Pancake",
+    "category": "Stir-fry and soy-based sauce mixtures",
+    "source": "usda_fndds",
+    "per_100g": {
+      "calories_kcal": 153.0,
+      "protein_g": 10.4,
+      "carbs_g": 4.0,
+      "fat_g": 10.7,
+      "fiber_g": 0.9,
+      "sugar_g": 1.8,
+      "sodium_mg": 815.0
+    },
+    "default_portion": {
+      "description": "1 cup",
+      "gram_weight": 151.0
+    },
+    "portions": [
+      {
+        "description": "1 cup",
+        "gram_weight": 151.0
+      }
+    ]
+  },
+  "parfait": {
+    "class_name": "parfait",
+    "food_id": "0d5bcc3f-c11c-4a3e-ac1d-7ee9a6942938",
+    "fdc_id": "2705450",
+    "display_name": "Parfait",
+    "category": "Yogurt, regular",
+    "source": "usda_fndds",
+    "per_100g": {
+      "calories_kcal": 104.0,
+      "protein_g": 5.2,
+      "carbs_g": 16.1,
+      "fat_g": 2.2,
+      "fiber_g": 1.3,
+      "sugar_g": 10.4,
+      "sodium_mg": 44.0
+    },
+    "default_portion": {
+      "description": "1 McDonald's parfait",
+      "gram_weight": 150.0
+    },
+    "portions": [
+      {
+        "description": "1 McDonald's parfait",
+        "gram_weight": 150.0
+      }
+    ]
+  },
+  "pav_bhaji": {
+    "class_name": "pav_bhaji",
+    "display_name": "Pav bhaji",
+    "category": "Indian Street Food",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 170.0,
+      "protein_g": 4.0,
+      "carbs_g": 23.0,
+      "fat_g": 7.0,
+      "fiber_g": 3.0,
+      "sugar_g": 2.0,
+      "sodium_mg": 380.0
+    },
+    "default_portion": {
+      "description": "2 pavs with bhaji",
+      "gram_weight": 280.0
+    },
+    "portions": [
+      {
+        "description": "2 pavs with bhaji",
+        "gram_weight": 280.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "pho": {
+    "class_name": "pho",
+    "food_id": "4b4edba3-7d1c-44ea-90bd-2ff552b3d9f3",
+    "fdc_id": "2707124",
+    "display_name": "Pho",
+    "category": "Ramen and Asian broth-based soups",
+    "source": "usda_fndds",
+    "per_100g": {
+      "calories_kcal": 77.0,
+      "protein_g": 5.8,
+      "carbs_g": 5.6,
+      "fat_g": 3.3,
+      "fiber_g": 0.4,
+      "sugar_g": 0.5,
+      "sodium_mg": 365.0
+    },
+    "default_portion": {
+      "description": "1 cup",
+      "gram_weight": 245.0
+    },
+    "portions": [
+      {
+        "description": "1 cup",
+        "gram_weight": 245.0
+      }
+    ]
+  },
+  "pilaf": {
+    "class_name": "pilaf",
+    "food_id": "71257601-c794-46f3-b422-27db4818d8d7",
+    "fdc_id": "2709077",
+    "display_name": "Pilaf",
+    "category": "Rice mixed dishes",
+    "source": "usda_fndds",
+    "per_100g": {
+      "calories_kcal": 137.0,
+      "protein_g": 3.3,
+      "carbs_g": 24.1,
+      "fat_g": 3.0,
+      "fiber_g": 0.4,
+      "sugar_g": 0.5,
+      "sodium_mg": 414.0
+    },
+    "default_portion": {
+      "description": "1 cup",
+      "gram_weight": 206.0
+    },
+    "portions": [
+      {
+        "description": "1 cup",
+        "gram_weight": 206.0
+      }
+    ]
+  },
+  "pizza": {
+    "class_name": "pizza",
+    "display_name": "Pizza",
+    "category": "Pizza",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 266.0,
+      "protein_g": 11.0,
+      "carbs_g": 33.0,
+      "fat_g": 10.0,
+      "fiber_g": 2.3,
+      "sugar_g": 2.0,
+      "sodium_mg": 380.0
+    },
+    "default_portion": {
+      "description": "1 slice",
+      "gram_weight": 107.0
+    },
+    "portions": [
+      {
+        "description": "1 slice",
+        "gram_weight": 107.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "pizza_toast": {
+    "class_name": "pizza_toast",
+    "display_name": "Pizza toast",
+    "category": "International Cuisine",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 185.0,
+      "protein_g": 8.5,
+      "carbs_g": 22.0,
+      "fat_g": 7.0,
+      "fiber_g": 1.8,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 plate / serving",
+      "gram_weight": 200.0
+    },
+    "portions": [
+      {
+        "description": "1 plate / serving",
+        "gram_weight": 200.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "popcorn": {
+    "class_name": "popcorn",
+    "food_id": "645bdbcb-21ba-4047-9417-a0577c4dd40b",
+    "fdc_id": "2708165",
+    "display_name": "Popcorn",
+    "category": "Snacks",
+    "source": "USDA FNDDS 4210100 (Air-popped or light oil popcorn)",
+    "per_100g": {
+      "calories_kcal": 405.0,
+      "protein_g": 10.0,
+      "carbs_g": 62.0,
+      "fat_g": 13.0,
+      "fiber_g": 10.0,
+      "sugar_g": 0.9,
+      "sodium_mg": 300.0
+    },
+    "default_portion": {
+      "description": "1 individual snack bag / bowl",
+      "gram_weight": 35.0
+    },
+    "portions": [
+      {
+        "description": "1 individual snack bag / bowl",
+        "gram_weight": 35.0
+      },
+      {
+        "description": "Medium bag / bowl (3 cups popped)",
+        "gram_weight": 50.0
+      },
+      {
+        "description": "Large movie theater bag",
+        "gram_weight": 85.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "pork_belly": {
+    "class_name": "pork_belly",
+    "display_name": "Pork belly",
+    "category": "Meat Dishes",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 220.0,
+      "protein_g": 18.0,
+      "carbs_g": 5.0,
+      "fat_g": 14.0,
+      "fiber_g": 0.5,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 portion",
+      "gram_weight": 180.0
+    },
+    "portions": [
+      {
+        "description": "1 portion",
+        "gram_weight": 180.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "pork_cutlet": {
+    "class_name": "pork_cutlet",
+    "display_name": "Pork cutlet",
+    "category": "Meat Dishes",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 220.0,
+      "protein_g": 18.0,
+      "carbs_g": 5.0,
+      "fat_g": 14.0,
+      "fiber_g": 0.5,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 portion",
+      "gram_weight": 180.0
+    },
+    "portions": [
+      {
+        "description": "1 portion",
+        "gram_weight": 180.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "pork_cutlet_on_rice": {
+    "class_name": "pork_cutlet_on_rice",
+    "display_name": "Pork cutlet on rice",
+    "category": "Rice Bowls",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 175.0,
+      "protein_g": 7.0,
+      "carbs_g": 28.0,
+      "fat_g": 4.0,
+      "fiber_g": 1.2,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 bowl",
+      "gram_weight": 300.0
+    },
+    "portions": [
+      {
+        "description": "1 bowl",
+        "gram_weight": 300.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "pork_fillet_cutlet": {
+    "class_name": "pork_fillet_cutlet",
+    "display_name": "Pork fillet cutlet",
+    "category": "Meat Dishes",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 220.0,
+      "protein_g": 18.0,
+      "carbs_g": 5.0,
+      "fat_g": 14.0,
+      "fiber_g": 0.5,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 portion",
+      "gram_weight": 180.0
+    },
+    "portions": [
+      {
+        "description": "1 portion",
+        "gram_weight": 180.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "pork_loin_cutlet": {
+    "class_name": "pork_loin_cutlet",
+    "display_name": "Pork loin cutlet",
+    "category": "Meat Dishes",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 220.0,
+      "protein_g": 18.0,
+      "carbs_g": 5.0,
+      "fat_g": 14.0,
+      "fiber_g": 0.5,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 portion",
+      "gram_weight": 180.0
+    },
+    "portions": [
+      {
+        "description": "1 portion",
+        "gram_weight": 180.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "pork_miso_soup": {
+    "class_name": "pork_miso_soup",
+    "food_id": "2b59f620-c8dd-402b-9870-cf85383d6601",
+    "fdc_id": "2707439",
+    "display_name": "Pork miso soup",
+    "category": "Soy-based condiments",
+    "source": "usda_fndds",
+    "per_100g": {
+      "calories_kcal": 198.0,
+      "protein_g": 12.8,
+      "carbs_g": 25.4,
+      "fat_g": 6.0,
+      "fiber_g": 5.4,
+      "sugar_g": 6.2,
+      "sodium_mg": 3728.0
+    },
+    "default_portion": {
+      "description": "1 cup",
+      "gram_weight": 275.0
+    },
+    "portions": [
+      {
+        "description": "1 cup",
+        "gram_weight": 275.0
+      }
+    ]
+  },
+  "pork_satay": {
+    "class_name": "pork_satay",
+    "display_name": "Pork satay",
+    "category": "Meat Dishes",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 220.0,
+      "protein_g": 18.0,
+      "carbs_g": 5.0,
+      "fat_g": 14.0,
+      "fiber_g": 0.5,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 portion",
+      "gram_weight": 180.0
+    },
+    "portions": [
+      {
+        "description": "1 portion",
+        "gram_weight": 180.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "pork_sticky_noodles": {
+    "class_name": "pork_sticky_noodles",
+    "display_name": "Pork sticky noodles",
+    "category": "Noodle Dishes",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 145.0,
+      "protein_g": 6.5,
+      "carbs_g": 24.0,
+      "fat_g": 3.5,
+      "fiber_g": 1.5,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 bowl of noodles",
+      "gram_weight": 350.0
+    },
+    "portions": [
+      {
+        "description": "1 bowl of noodles",
+        "gram_weight": 350.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "pork_with_lemon": {
+    "class_name": "pork_with_lemon",
+    "display_name": "Pork with lemon",
+    "category": "Meat Dishes",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 220.0,
+      "protein_g": 18.0,
+      "carbs_g": 5.0,
+      "fat_g": 14.0,
+      "fiber_g": 0.5,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 portion",
+      "gram_weight": 180.0
+    },
+    "portions": [
+      {
+        "description": "1 portion",
+        "gram_weight": 180.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "pot_au_feu": {
+    "class_name": "pot_au_feu",
+    "display_name": "Pot au feu",
+    "category": "International Cuisine",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 185.0,
+      "protein_g": 8.5,
+      "carbs_g": 22.0,
+      "fat_g": 7.0,
+      "fiber_g": 1.8,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 plate / serving",
+      "gram_weight": 200.0
+    },
+    "portions": [
+      {
+        "description": "1 plate / serving",
+        "gram_weight": 200.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "potage": {
+    "class_name": "potage",
+    "display_name": "Potage",
+    "category": "International Cuisine",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 185.0,
+      "protein_g": 8.5,
+      "carbs_g": 22.0,
+      "fat_g": 7.0,
+      "fiber_g": 1.8,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 plate / serving",
+      "gram_weight": 200.0
+    },
+    "portions": [
+      {
+        "description": "1 plate / serving",
+        "gram_weight": 200.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "potato_salad": {
+    "class_name": "potato_salad",
+    "food_id": "5c5c6f55-81fd-4a80-882a-826587e274c7",
+    "fdc_id": "2709531",
+    "display_name": "Potato salad",
+    "category": "Mashed potatoes and white potato mixtures",
+    "source": "usda_fndds",
+    "per_100g": {
+      "calories_kcal": 175.0,
+      "protein_g": 3.0,
+      "carbs_g": 15.4,
+      "fat_g": 11.3,
+      "fiber_g": 1.1,
+      "sugar_g": 1.8,
+      "sodium_mg": 333.0
+    },
+    "default_portion": {
+      "description": "1 cup",
+      "gram_weight": 275.0
+    },
+    "portions": [
+      {
+        "description": "1 cup",
+        "gram_weight": 275.0
+      }
+    ]
+  },
+  "raisin_bread": {
+    "class_name": "raisin_bread",
+    "display_name": "Raisin bread",
+    "category": "International Cuisine",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 185.0,
+      "protein_g": 8.5,
+      "carbs_g": 22.0,
+      "fat_g": 7.0,
+      "fiber_g": 1.8,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 plate / serving",
+      "gram_weight": 200.0
+    },
+    "portions": [
+      {
+        "description": "1 plate / serving",
+        "gram_weight": 200.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "ramen_noodle": {
+    "class_name": "ramen_noodle",
+    "food_id": "661e8424-c7f7-4293-a5dd-42ce1bcf5bd4",
+    "fdc_id": "2709152",
+    "display_name": "Ramen noodle",
+    "category": "Ramen and Asian broth-based soups",
+    "source": "usda_fndds",
+    "per_100g": {
+      "calories_kcal": 66.0,
+      "protein_g": 1.5,
+      "carbs_g": 9.0,
+      "fat_g": 2.6,
+      "fiber_g": 0.4,
+      "sugar_g": 0.3,
+      "sodium_mg": 282.0
+    },
+    "default_portion": {
+      "description": "1 oz, dry, yields",
+      "gram_weight": 165.0
+    },
+    "portions": [
+      {
+        "description": "1 oz, dry, yields",
+        "gram_weight": 165.0
+      },
+      {
+        "description": "1 individual container",
+        "gram_weight": 440.0
+      },
+      {
+        "description": "1 cup",
+        "gram_weight": 245.0
+      }
+    ]
+  },
+  "rare_cheese_cake": {
+    "class_name": "rare_cheese_cake",
+    "display_name": "Rare cheese cake",
+    "category": "Desserts & Sweets",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 340.0,
+      "protein_g": 4.0,
+      "carbs_g": 52.0,
+      "fat_g": 14.0,
+      "fiber_g": 1.0,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 slice / piece",
+      "gram_weight": 120.0
+    },
+    "portions": [
+      {
+        "description": "1 slice / piece",
+        "gram_weight": 120.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "rice": {
+    "class_name": "rice",
+    "food_id": "128e5192-5e81-472f-a65c-abe7215b7201",
+    "fdc_id": "2705411",
+    "display_name": "Rice",
+    "category": "Cereal & Grains",
+    "source": "USDA FNDDS 5620500 (White rice, cooked, as eaten)",
+    "per_100g": {
+      "calories_kcal": 130.0,
+      "protein_g": 2.7,
+      "carbs_g": 28.2,
+      "fat_g": 0.3,
+      "fiber_g": 0.4,
+      "sugar_g": 0.1,
+      "sodium_mg": 1.0
+    },
+    "default_portion": {
+      "description": "1 medium bowl (cooked)",
+      "gram_weight": 200.0
+    },
+    "portions": [
+      {
+        "description": "1 medium bowl (cooked, 200g)",
+        "gram_weight": 200.0
+      },
+      {
+        "description": "1 cup cooked (160g)",
+        "gram_weight": 160.0
+      },
+      {
+        "description": "Large bowl (300g)",
+        "gram_weight": 300.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "rice_ball": {
+    "class_name": "rice_ball",
+    "display_name": "Rice ball",
+    "category": "Rice Bowls",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 175.0,
+      "protein_g": 7.0,
+      "carbs_g": 28.0,
+      "fat_g": 4.0,
+      "fiber_g": 1.2,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 bowl",
+      "gram_weight": 300.0
+    },
+    "portions": [
+      {
+        "description": "1 bowl",
+        "gram_weight": 300.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "rice_crispy_pork": {
+    "class_name": "rice_crispy_pork",
+    "display_name": "Rice crispy pork",
+    "category": "Rice Bowls",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 175.0,
+      "protein_g": 7.0,
+      "carbs_g": 28.0,
+      "fat_g": 4.0,
+      "fiber_g": 1.2,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 bowl",
+      "gram_weight": 300.0
+    },
+    "portions": [
+      {
+        "description": "1 bowl",
+        "gram_weight": 300.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "rice_gratin": {
+    "class_name": "rice_gratin",
+    "display_name": "Rice gratin",
+    "category": "Rice Bowls",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 175.0,
+      "protein_g": 7.0,
+      "carbs_g": 28.0,
+      "fat_g": 4.0,
+      "fiber_g": 1.2,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 bowl",
+      "gram_weight": 300.0
+    },
+    "portions": [
+      {
+        "description": "1 bowl",
+        "gram_weight": 300.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "rice_gruel": {
+    "class_name": "rice_gruel",
+    "display_name": "Rice gruel",
+    "category": "Rice Bowls",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 175.0,
+      "protein_g": 7.0,
+      "carbs_g": 28.0,
+      "fat_g": 4.0,
+      "fiber_g": 1.2,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 bowl",
+      "gram_weight": 300.0
+    },
+    "portions": [
+      {
+        "description": "1 bowl",
+        "gram_weight": 300.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "rice_vermicelli": {
+    "class_name": "rice_vermicelli",
+    "display_name": "Rice vermicelli",
+    "category": "Rice Bowls",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 175.0,
+      "protein_g": 7.0,
+      "carbs_g": 28.0,
+      "fat_g": 4.0,
+      "fiber_g": 1.2,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 bowl",
+      "gram_weight": 300.0
+    },
+    "portions": [
+      {
+        "description": "1 bowl",
+        "gram_weight": 300.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "rice_with_roast_duck": {
+    "class_name": "rice_with_roast_duck",
+    "display_name": "Rice with roast duck",
+    "category": "Rice Bowls",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 175.0,
+      "protein_g": 7.0,
+      "carbs_g": 28.0,
+      "fat_g": 4.0,
+      "fiber_g": 1.2,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 bowl",
+      "gram_weight": 300.0
+    },
+    "portions": [
+      {
+        "description": "1 bowl",
+        "gram_weight": 300.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "roast_chicken": {
+    "class_name": "roast_chicken",
+    "display_name": "Roast chicken",
+    "category": "Meat Dishes",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 220.0,
+      "protein_g": 18.0,
+      "carbs_g": 5.0,
+      "fat_g": 14.0,
+      "fiber_g": 0.5,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 portion",
+      "gram_weight": 180.0
+    },
+    "portions": [
+      {
+        "description": "1 portion",
+        "gram_weight": 180.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "roast_duck": {
+    "class_name": "roast_duck",
+    "display_name": "Roast duck",
+    "category": "International Cuisine",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 185.0,
+      "protein_g": 8.5,
+      "carbs_g": 22.0,
+      "fat_g": 7.0,
+      "fiber_g": 1.8,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 plate / serving",
+      "gram_weight": 200.0
+    },
+    "portions": [
+      {
+        "description": "1 plate / serving",
+        "gram_weight": 200.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "roll_bread": {
+    "class_name": "roll_bread",
+    "display_name": "Roll bread",
+    "category": "International Cuisine",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 185.0,
+      "protein_g": 8.5,
+      "carbs_g": 22.0,
+      "fat_g": 7.0,
+      "fiber_g": 1.8,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 plate / serving",
+      "gram_weight": 200.0
+    },
+    "portions": [
+      {
+        "description": "1 plate / serving",
+        "gram_weight": 200.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "salmon_meuniere": {
+    "class_name": "salmon_meuniere",
+    "display_name": "Salmon meuniere",
+    "category": "Seafood",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 190.0,
+      "protein_g": 20.0,
+      "carbs_g": 2.0,
+      "fat_g": 11.0,
+      "fiber_g": 0.0,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 fillet / portion",
+      "gram_weight": 150.0
+    },
+    "portions": [
+      {
+        "description": "1 fillet / portion",
+        "gram_weight": 150.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "salt_&_pepper_fried_shrimp_with_shell": {
+    "class_name": "salt_&_pepper_fried_shrimp_with_shell",
+    "display_name": "Salt & pepper fried shrimp with shell",
+    "category": "International Cuisine",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 185.0,
+      "protein_g": 8.5,
+      "carbs_g": 22.0,
+      "fat_g": 7.0,
+      "fiber_g": 1.8,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 plate / serving",
+      "gram_weight": 200.0
+    },
+    "portions": [
+      {
+        "description": "1 plate / serving",
+        "gram_weight": 200.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "samosa": {
+    "class_name": "samosa",
+    "display_name": "Samosa",
+    "category": "Indian Snacks",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 262.0,
+      "protein_g": 4.5,
+      "carbs_g": 32.0,
+      "fat_g": 13.0,
+      "fiber_g": 2.5,
+      "sugar_g": 2.0,
+      "sodium_mg": 380.0
+    },
+    "default_portion": {
+      "description": "1 large samosa",
+      "gram_weight": 90.0
+    },
+    "portions": [
+      {
+        "description": "1 large samosa",
+        "gram_weight": 90.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "samul": {
+    "class_name": "samul",
+    "display_name": "Samul",
+    "category": "International Cuisine",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 185.0,
+      "protein_g": 8.5,
+      "carbs_g": 22.0,
+      "fat_g": 7.0,
+      "fiber_g": 1.8,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 plate / serving",
+      "gram_weight": 200.0
+    },
+    "portions": [
+      {
+        "description": "1 plate / serving",
+        "gram_weight": 200.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "sandwiches": {
+    "class_name": "sandwiches",
+    "food_id": "719ebe37-721d-4262-acac-4b50da65c130",
+    "fdc_id": "2710196",
+    "display_name": "Sandwich",
+    "category": "Fast Food / Deli",
+    "source": "USDA FNDDS 2712000 (Submarine / club sandwich, as eaten)",
+    "per_100g": {
+      "calories_kcal": 235.0,
+      "protein_g": 11.5,
+      "carbs_g": 24.5,
+      "fat_g": 10.0,
+      "fiber_g": 1.8,
+      "sugar_g": 3.0,
+      "sodium_mg": 560.0
+    },
+    "default_portion": {
+      "description": "1 regular sandwich (210g)",
+      "gram_weight": 210.0
+    },
+    "portions": [
+      {
+        "description": "1 regular sandwich (USDA FNDDS)",
+        "gram_weight": 210.0
+      },
+      {
+        "description": "Half sandwich / small deli sandwich",
+        "gram_weight": 110.0
+      },
+      {
+        "description": "Large submarine / footlong sub",
+        "gram_weight": 350.0
+      },
+      {
+        "description": "Grilled cheese sandwich",
+        "gram_weight": 140.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "sashimi": {
+    "class_name": "sashimi",
+    "display_name": "Sashimi",
+    "category": "Seafood",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 190.0,
+      "protein_g": 20.0,
+      "carbs_g": 2.0,
+      "fat_g": 11.0,
+      "fiber_g": 0.0,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 fillet / portion",
+      "gram_weight": 150.0
+    },
+    "portions": [
+      {
+        "description": "1 fillet / portion",
+        "gram_weight": 150.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "sashimi_bowl": {
+    "class_name": "sashimi_bowl",
+    "display_name": "Sashimi bowl",
+    "category": "Rice Bowls",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 175.0,
+      "protein_g": 7.0,
+      "carbs_g": 28.0,
+      "fat_g": 4.0,
+      "fiber_g": 1.2,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 bowl",
+      "gram_weight": 300.0
+    },
+    "portions": [
+      {
+        "description": "1 bowl",
+        "gram_weight": 300.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "sausage": {
+    "class_name": "sausage",
+    "food_id": "189b13d1-6de7-45ed-89f4-afe3f670865f",
+    "fdc_id": "2705916",
+    "display_name": "Sausage",
+    "category": "Meat Dishes",
+    "source": "USDA FNDDS 2705900 (Pork and beef sausage, cooked, as eaten)",
+    "per_100g": {
+      "calories_kcal": 310.0,
+      "protein_g": 14.5,
+      "carbs_g": 2.0,
+      "fat_g": 27.0,
+      "fiber_g": 0.0,
+      "sugar_g": 0.5,
+      "sodium_mg": 780.0
+    },
+    "default_portion": {
+      "description": "2 links / 1 patty (80g)",
+      "gram_weight": 80.0
+    },
+    "portions": [
+      {
+        "description": "2 links / 1 patty (80g)",
+        "gram_weight": 80.0
+      },
+      {
+        "description": "1 link / small (40g)",
+        "gram_weight": 40.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "sauteed_spinach": {
+    "class_name": "sauteed_spinach",
+    "display_name": "Sauteed spinach",
+    "category": "International Cuisine",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 185.0,
+      "protein_g": 8.5,
+      "carbs_g": 22.0,
+      "fat_g": 7.0,
+      "fiber_g": 1.8,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 plate / serving",
+      "gram_weight": 200.0
+    },
+    "portions": [
+      {
+        "description": "1 plate / serving",
+        "gram_weight": 200.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "sauteed_vegetables": {
+    "class_name": "sauteed_vegetables",
+    "display_name": "Sauteed vegetables",
+    "category": "International Cuisine",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 185.0,
+      "protein_g": 8.5,
+      "carbs_g": 22.0,
+      "fat_g": 7.0,
+      "fiber_g": 1.8,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 plate / serving",
+      "gram_weight": 200.0
+    },
+    "portions": [
+      {
+        "description": "1 plate / serving",
+        "gram_weight": 200.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "scone": {
+    "class_name": "scone",
+    "food_id": "7d8b4666-44a7-44e1-90c8-9273f13b51ec",
+    "fdc_id": "2707808",
+    "display_name": "Scone",
+    "category": "Biscuits, muffins, quick breads",
+    "source": "usda_fndds",
+    "per_100g": {
+      "calories_kcal": 382.0,
+      "protein_g": 6.7,
+      "carbs_g": 48.1,
+      "fat_g": 18.4,
+      "fiber_g": 1.2,
+      "sugar_g": 13.4,
+      "sodium_mg": 446.0
+    },
+    "default_portion": {
+      "description": "1 regular",
+      "gram_weight": 70.0
+    },
+    "portions": [
+      {
+        "description": "1 regular",
+        "gram_weight": 70.0
+      },
+      {
+        "description": "1 miniature",
+        "gram_weight": 20.0
+      }
+    ]
+  },
+  "scrambled_egg": {
+    "class_name": "scrambled_egg",
+    "food_id": "867339fc-49ab-4e33-ab59-f4539e8b4c9f",
+    "fdc_id": "2707198",
+    "display_name": "Scrambled egg",
+    "category": "Eggs and omelets",
+    "source": "usda_fndds",
+    "per_100g": {
+      "calories_kcal": 185.0,
+      "protein_g": 11.6,
+      "carbs_g": 0.9,
+      "fat_g": 15.0,
+      "fiber_g": 1.5,
+      "sugar_g": 0.2,
+      "sodium_mg": 248.0
+    },
+    "default_portion": {
+      "description": "1 cup",
+      "gram_weight": 135.0
+    },
+    "portions": [
+      {
+        "description": "1 cup",
+        "gram_weight": 135.0
+      },
+      {
+        "description": "1 egg",
+        "gram_weight": 55.0
+      }
+    ]
+  },
+  "seasoned_beef_with_potatoes": {
+    "class_name": "seasoned_beef_with_potatoes",
+    "display_name": "Seasoned beef with potatoes",
+    "category": "Meat Dishes",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 220.0,
+      "protein_g": 18.0,
+      "carbs_g": 5.0,
+      "fat_g": 14.0,
+      "fiber_g": 0.5,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 portion",
+      "gram_weight": 180.0
+    },
+    "portions": [
+      {
+        "description": "1 portion",
+        "gram_weight": 180.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "shortcake": {
+    "class_name": "shortcake",
+    "food_id": "dbad0aa7-d51e-47ee-a492-427003937bd0",
+    "fdc_id": "2707896",
+    "display_name": "Shortcake",
+    "category": "Cakes and pies",
+    "source": "usda_fndds",
+    "per_100g": {
+      "calories_kcal": 214.0,
+      "protein_g": 3.3,
+      "carbs_g": 40.1,
+      "fat_g": 4.7,
+      "fiber_g": 0.9,
+      "sugar_g": 25.9,
+      "sodium_mg": 313.0
+    },
+    "default_portion": {
+      "description": "1 piece/slice, any size",
+      "gram_weight": 175.0
+    },
+    "portions": [
+      {
+        "description": "1 piece/slice, any size",
+        "gram_weight": 175.0
+      },
+      {
+        "description": "1 cup",
+        "gram_weight": 150.0
+      }
+    ]
+  },
+  "shrimp_patties": {
+    "class_name": "shrimp_patties",
+    "display_name": "Shrimp patties",
+    "category": "International Cuisine",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 185.0,
+      "protein_g": 8.5,
+      "carbs_g": 22.0,
+      "fat_g": 7.0,
+      "fiber_g": 1.8,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 plate / serving",
+      "gram_weight": 200.0
+    },
+    "portions": [
+      {
+        "description": "1 plate / serving",
+        "gram_weight": 200.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "shrimp_with_chill_source": {
+    "class_name": "shrimp_with_chill_source",
+    "display_name": "Shrimp with chill source",
+    "category": "International Cuisine",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 185.0,
+      "protein_g": 8.5,
+      "carbs_g": 22.0,
+      "fat_g": 7.0,
+      "fiber_g": 1.8,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 plate / serving",
+      "gram_weight": 200.0
+    },
+    "portions": [
+      {
+        "description": "1 plate / serving",
+        "gram_weight": 200.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "simmered_pork": {
+    "class_name": "simmered_pork",
+    "display_name": "Simmered pork",
+    "category": "Meat Dishes",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 220.0,
+      "protein_g": 18.0,
+      "carbs_g": 5.0,
+      "fat_g": 14.0,
+      "fiber_g": 0.5,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 portion",
+      "gram_weight": 180.0
+    },
+    "portions": [
+      {
+        "description": "1 portion",
+        "gram_weight": 180.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "sirloin_cutlet": {
+    "class_name": "sirloin_cutlet",
+    "display_name": "Sirloin cutlet",
+    "category": "International Cuisine",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 185.0,
+      "protein_g": 8.5,
+      "carbs_g": 22.0,
+      "fat_g": 7.0,
+      "fiber_g": 1.8,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 plate / serving",
+      "gram_weight": 200.0
+    },
+    "portions": [
+      {
+        "description": "1 plate / serving",
+        "gram_weight": 200.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "small_steamed_savory_rice_pancake": {
+    "class_name": "small_steamed_savory_rice_pancake",
+    "display_name": "Small steamed savory rice pancake",
+    "category": "Rice Bowls",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 175.0,
+      "protein_g": 7.0,
+      "carbs_g": 28.0,
+      "fat_g": 4.0,
+      "fiber_g": 1.2,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 bowl",
+      "gram_weight": 300.0
+    },
+    "portions": [
+      {
+        "description": "1 bowl",
+        "gram_weight": 300.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "soba_noodle": {
+    "class_name": "soba_noodle",
+    "display_name": "Soba noodle",
+    "category": "Noodle Dishes",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 145.0,
+      "protein_g": 6.5,
+      "carbs_g": 24.0,
+      "fat_g": 3.5,
+      "fiber_g": 1.5,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 bowl of noodles",
+      "gram_weight": 350.0
+    },
+    "portions": [
+      {
+        "description": "1 bowl of noodles",
+        "gram_weight": 350.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "sour_prawn_soup": {
+    "class_name": "sour_prawn_soup",
+    "display_name": "Sour prawn soup",
+    "category": "Soups & Stews",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 85.0,
+      "protein_g": 4.5,
+      "carbs_g": 9.0,
+      "fat_g": 3.0,
+      "fiber_g": 1.2,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 bowl of soup",
+      "gram_weight": 250.0
+    },
+    "portions": [
+      {
+        "description": "1 bowl of soup",
+        "gram_weight": 250.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "spaghetti": {
+    "class_name": "spaghetti",
+    "food_id": "fe95b18d-65a0-487f-b24c-3426a8c27b6f",
+    "fdc_id": "2706422",
+    "display_name": "Spaghetti",
+    "category": "Pasta sauces, tomato-based",
+    "source": "usda_fndds",
+    "per_100g": {
+      "calories_kcal": 75.0,
+      "protein_g": 6.3,
+      "carbs_g": 6.5,
+      "fat_g": 2.6,
+      "fiber_g": 1.5,
+      "sugar_g": 4.5,
+      "sodium_mg": 410.0
+    },
+    "default_portion": {
+      "description": "1 cup",
+      "gram_weight": 260.0
+    },
+    "portions": [
+      {
+        "description": "1 cup",
+        "gram_weight": 260.0
+      }
+    ]
+  },
+  "spaghetti_meat_sauce": {
+    "class_name": "spaghetti_meat_sauce",
+    "display_name": "Spaghetti meat sauce",
+    "category": "Meat Dishes",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 220.0,
+      "protein_g": 18.0,
+      "carbs_g": 5.0,
+      "fat_g": 14.0,
+      "fiber_g": 0.5,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 portion",
+      "gram_weight": 180.0
+    },
+    "portions": [
+      {
+        "description": "1 portion",
+        "gram_weight": 180.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "spam_musubi": {
+    "class_name": "spam_musubi",
+    "food_id": "2333da99-d1a5-43fa-8d0b-b5469835348b",
+    "fdc_id": "2706211",
+    "display_name": "Spam musubi",
+    "category": "Hawaiian Specialities",
+    "source": "Curated Hawaiian whole dish",
+    "per_100g": {
+      "calories_kcal": 235.0,
+      "protein_g": 7.0,
+      "carbs_g": 31.0,
+      "fat_g": 9.0,
+      "fiber_g": 0.8,
+      "sugar_g": 2.5,
+      "sodium_mg": 480.0
+    },
+    "default_portion": {
+      "description": "1 piece",
+      "gram_weight": 120.0
+    },
+    "portions": [
+      {
+        "description": "1 standard piece (120g)",
+        "gram_weight": 120.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "spicy_chicken_salad": {
+    "class_name": "spicy_chicken_salad",
+    "display_name": "Spicy chicken salad",
+    "category": "Salads & Vegetables",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 75.0,
+      "protein_g": 2.5,
+      "carbs_g": 8.0,
+      "fat_g": 4.0,
+      "fiber_g": 2.5,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 bowl of salad",
+      "gram_weight": 180.0
+    },
+    "portions": [
+      {
+        "description": "1 bowl of salad",
+        "gram_weight": 180.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "spicy_chili_flavored_tofu": {
+    "class_name": "spicy_chili_flavored_tofu",
+    "display_name": "Spicy chili flavored tofu",
+    "category": "International Cuisine",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 185.0,
+      "protein_g": 8.5,
+      "carbs_g": 22.0,
+      "fat_g": 7.0,
+      "fiber_g": 1.8,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 plate / serving",
+      "gram_weight": 200.0
+    },
+    "portions": [
+      {
+        "description": "1 plate / serving",
+        "gram_weight": 200.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "steak": {
+    "class_name": "steak",
+    "food_id": "f3c7b12c-2f3c-46eb-a639-e2c377ce8a43",
+    "fdc_id": "2705823",
+    "display_name": "Steak",
+    "category": "Meat Dishes",
+    "source": "USDA FNDDS 2705820 (Beef steak, broiled / grilled, as eaten)",
+    "per_100g": {
+      "calories_kcal": 235.0,
+      "protein_g": 26.0,
+      "carbs_g": 0.0,
+      "fat_g": 14.5,
+      "fiber_g": 0.0,
+      "sugar_g": 0.0,
+      "sodium_mg": 65.0
+    },
+    "default_portion": {
+      "description": "1 standard steak (6 oz / 180g)",
+      "gram_weight": 180.0
+    },
+    "portions": [
+      {
+        "description": "1 regular steak (6 oz / 180g)",
+        "gram_weight": 180.0
+      },
+      {
+        "description": "Small steak (4 oz / 115g)",
+        "gram_weight": 115.0
+      },
+      {
+        "description": "Large steak (8 oz / 230g)",
+        "gram_weight": 230.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "steamed_egg_hotchpotch": {
+    "class_name": "steamed_egg_hotchpotch",
+    "display_name": "Steamed egg hotchpotch",
+    "category": "International Cuisine",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 185.0,
+      "protein_g": 8.5,
+      "carbs_g": 22.0,
+      "fat_g": 7.0,
+      "fiber_g": 1.8,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 plate / serving",
+      "gram_weight": 200.0
+    },
+    "portions": [
+      {
+        "description": "1 plate / serving",
+        "gram_weight": 200.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "steamed_meat_dumpling": {
+    "class_name": "steamed_meat_dumpling",
+    "display_name": "Steamed meat dumpling",
+    "category": "Meat Dishes",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 220.0,
+      "protein_g": 18.0,
+      "carbs_g": 5.0,
+      "fat_g": 14.0,
+      "fiber_g": 0.5,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 portion",
+      "gram_weight": 180.0
+    },
+    "portions": [
+      {
+        "description": "1 portion",
+        "gram_weight": 180.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "steamed_rice_roll": {
+    "class_name": "steamed_rice_roll",
+    "display_name": "Steamed rice roll",
+    "category": "Rice Bowls",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 175.0,
+      "protein_g": 7.0,
+      "carbs_g": 28.0,
+      "fat_g": 4.0,
+      "fiber_g": 1.2,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 bowl",
+      "gram_weight": 300.0
+    },
+    "portions": [
+      {
+        "description": "1 bowl",
+        "gram_weight": 300.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "steamed_spareribs": {
+    "class_name": "steamed_spareribs",
+    "display_name": "Steamed spareribs",
+    "category": "International Cuisine",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 185.0,
+      "protein_g": 8.5,
+      "carbs_g": 22.0,
+      "fat_g": 7.0,
+      "fiber_g": 1.8,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 plate / serving",
+      "gram_weight": 200.0
+    },
+    "portions": [
+      {
+        "description": "1 plate / serving",
+        "gram_weight": 200.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "stew": {
+    "class_name": "stew",
+    "food_id": "881aadfe-01ce-41cc-903a-4e1080f575bd",
+    "fdc_id": "2705849",
+    "display_name": "Stew",
+    "category": "Soups & Stews",
+    "source": "USDA FNDDS 2706500 (Beef and vegetable stew, as eaten)",
+    "per_100g": {
+      "calories_kcal": 95.0,
+      "protein_g": 7.5,
+      "carbs_g": 6.5,
+      "fat_g": 4.5,
+      "fiber_g": 1.2,
+      "sugar_g": 1.8,
+      "sodium_mg": 380.0
+    },
+    "default_portion": {
+      "description": "1 bowl of stew (250g)",
+      "gram_weight": 250.0
+    },
+    "portions": [
+      {
+        "description": "1 bowl of stew (250g)",
+        "gram_weight": 250.0
+      },
+      {
+        "description": "1 cup (180g)",
+        "gram_weight": 180.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "stewed_pork_leg": {
+    "class_name": "stewed_pork_leg",
+    "display_name": "Stewed pork leg",
+    "category": "Soups & Stews",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 85.0,
+      "protein_g": 4.5,
+      "carbs_g": 9.0,
+      "fat_g": 3.0,
+      "fiber_g": 1.2,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 bowl of soup",
+      "gram_weight": 250.0
+    },
+    "portions": [
+      {
+        "description": "1 bowl of soup",
+        "gram_weight": 250.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "stinky_tofu": {
+    "class_name": "stinky_tofu",
+    "display_name": "Stinky tofu",
+    "category": "International Cuisine",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 185.0,
+      "protein_g": 8.5,
+      "carbs_g": 22.0,
+      "fat_g": 7.0,
+      "fiber_g": 1.8,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 plate / serving",
+      "gram_weight": 200.0
+    },
+    "portions": [
+      {
+        "description": "1 plate / serving",
+        "gram_weight": 200.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "stir_fried_beef_and_peppers": {
+    "class_name": "stir_fried_beef_and_peppers",
+    "display_name": "Stir fried beef and peppers",
+    "category": "Meat Dishes",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 220.0,
+      "protein_g": 18.0,
+      "carbs_g": 5.0,
+      "fat_g": 14.0,
+      "fiber_g": 0.5,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 portion",
+      "gram_weight": 180.0
+    },
+    "portions": [
+      {
+        "description": "1 portion",
+        "gram_weight": 180.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "stir_fried_mixed_vegetables": {
+    "class_name": "stir_fried_mixed_vegetables",
+    "display_name": "Stir fried mixed vegetables",
+    "category": "International Cuisine",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 185.0,
+      "protein_g": 8.5,
+      "carbs_g": 22.0,
+      "fat_g": 7.0,
+      "fiber_g": 1.8,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 plate / serving",
+      "gram_weight": 200.0
+    },
+    "portions": [
+      {
+        "description": "1 plate / serving",
+        "gram_weight": 200.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "sukiyaki": {
+    "class_name": "sukiyaki",
+    "display_name": "Sukiyaki",
+    "category": "International Cuisine",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 185.0,
+      "protein_g": 8.5,
+      "carbs_g": 22.0,
+      "fat_g": 7.0,
+      "fiber_g": 1.8,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 plate / serving",
+      "gram_weight": 200.0
+    },
+    "portions": [
+      {
+        "description": "1 plate / serving",
+        "gram_weight": 200.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "sushi": {
+    "class_name": "sushi",
+    "food_id": "f872f91a-0510-4514-b507-987b9c977872",
+    "fdc_id": "2708959",
+    "display_name": "Sushi",
+    "category": "Egg rolls, dumplings, sushi",
+    "source": "usda_fndds",
+    "per_100g": {
+      "calories_kcal": 94.0,
+      "protein_g": 2.9,
+      "carbs_g": 18.4,
+      "fat_g": 0.7,
+      "fiber_g": 1.0,
+      "sugar_g": 2.1,
+      "sodium_mg": 428.0
+    },
+    "default_portion": {
+      "description": "1 piece",
+      "gram_weight": 30.0
+    },
+    "portions": [
+      {
+        "description": "1 piece",
+        "gram_weight": 30.0
+      },
+      {
+        "description": "1 cup",
+        "gram_weight": 150.0
+      }
+    ]
+  },
+  "sushi_bowl": {
+    "class_name": "sushi_bowl",
+    "display_name": "Sushi bowl",
+    "category": "Rice Bowls",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 175.0,
+      "protein_g": 7.0,
+      "carbs_g": 28.0,
+      "fat_g": 4.0,
+      "fiber_g": 1.2,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 bowl",
+      "gram_weight": 300.0
+    },
+    "portions": [
+      {
+        "description": "1 bowl",
+        "gram_weight": 300.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "sweet_and_sour_pork": {
+    "class_name": "sweet_and_sour_pork",
+    "food_id": "d56056df-e71d-4761-8f3a-2c851ca037f9",
+    "fdc_id": "2706401",
+    "display_name": "Sweet and sour pork",
+    "category": "Stir-fry and soy-based sauce mixtures",
+    "source": "usda_fndds",
+    "per_100g": {
+      "calories_kcal": 260.0,
+      "protein_g": 8.9,
+      "carbs_g": 25.5,
+      "fat_g": 13.6,
+      "fiber_g": 1.0,
+      "sugar_g": 10.3,
+      "sodium_mg": 304.0
+    },
+    "default_portion": {
+      "description": "1 cup",
+      "gram_weight": 226.0
+    },
+    "portions": [
+      {
+        "description": "1 cup",
+        "gram_weight": 226.0
+      },
+      {
+        "description": "1 nugget",
+        "gram_weight": 18.0
+      }
+    ]
+  },
+  "tacos": {
+    "class_name": "tacos",
+    "display_name": "Tacos",
+    "category": "International Cuisine",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 185.0,
+      "protein_g": 8.5,
+      "carbs_g": 22.0,
+      "fat_g": 7.0,
+      "fiber_g": 1.8,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 plate / serving",
+      "gram_weight": 200.0
+    },
+    "portions": [
+      {
+        "description": "1 plate / serving",
+        "gram_weight": 200.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "takoyaki": {
+    "class_name": "takoyaki",
+    "display_name": "Takoyaki",
+    "category": "International Cuisine",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 185.0,
+      "protein_g": 8.5,
+      "carbs_g": 22.0,
+      "fat_g": 7.0,
+      "fiber_g": 1.8,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 plate / serving",
+      "gram_weight": 200.0
+    },
+    "portions": [
+      {
+        "description": "1 plate / serving",
+        "gram_weight": 200.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "tanmen": {
+    "class_name": "tanmen",
+    "display_name": "Tanmen",
+    "category": "International Cuisine",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 185.0,
+      "protein_g": 8.5,
+      "carbs_g": 22.0,
+      "fat_g": 7.0,
+      "fiber_g": 1.8,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 plate / serving",
+      "gram_weight": 200.0
+    },
+    "portions": [
+      {
+        "description": "1 plate / serving",
+        "gram_weight": 200.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "tempura": {
+    "class_name": "tempura",
+    "food_id": "83683740-1625-4361-8d2a-3ccafe738496",
+    "fdc_id": "2706844",
+    "display_name": "Tempura",
+    "category": "Seafood mixed dishes",
+    "source": "usda_fndds",
+    "per_100g": {
+      "calories_kcal": 177.0,
+      "protein_g": 4.0,
+      "carbs_g": 4.5,
+      "fat_g": 16.0,
+      "fiber_g": 1.1,
+      "sugar_g": 1.6,
+      "sodium_mg": 22.0
+    },
+    "default_portion": {
+      "description": "1 cup",
+      "gram_weight": 63.0
+    },
+    "portions": [
+      {
+        "description": "1 cup",
+        "gram_weight": 63.0
+      }
+    ]
+  },
+  "tempura_bowl": {
+    "class_name": "tempura_bowl",
+    "display_name": "Tempura bowl",
+    "category": "Rice Bowls",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 175.0,
+      "protein_g": 7.0,
+      "carbs_g": 28.0,
+      "fat_g": 4.0,
+      "fiber_g": 1.2,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 bowl",
+      "gram_weight": 300.0
+    },
+    "portions": [
+      {
+        "description": "1 bowl",
+        "gram_weight": 300.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "tempura_udon": {
+    "class_name": "tempura_udon",
+    "display_name": "Tempura udon",
+    "category": "Noodle Dishes",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 145.0,
+      "protein_g": 6.5,
+      "carbs_g": 24.0,
+      "fat_g": 3.5,
+      "fiber_g": 1.5,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 bowl of noodles",
+      "gram_weight": 350.0
+    },
+    "portions": [
+      {
+        "description": "1 bowl of noodles",
+        "gram_weight": 350.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "tensin_noodle": {
+    "class_name": "tensin_noodle",
+    "display_name": "Tensin noodle",
+    "category": "Noodle Dishes",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 145.0,
+      "protein_g": 6.5,
+      "carbs_g": 24.0,
+      "fat_g": 3.5,
+      "fiber_g": 1.5,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 bowl of noodles",
+      "gram_weight": 350.0
+    },
+    "portions": [
+      {
+        "description": "1 bowl of noodles",
+        "gram_weight": 350.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "teriyaki_grilled_fish": {
+    "class_name": "teriyaki_grilled_fish",
+    "display_name": "Teriyaki grilled fish",
+    "category": "Seafood",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 190.0,
+      "protein_g": 20.0,
+      "carbs_g": 2.0,
+      "fat_g": 11.0,
+      "fiber_g": 0.0,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 fillet / portion",
+      "gram_weight": 150.0
+    },
+    "portions": [
+      {
+        "description": "1 fillet / portion",
+        "gram_weight": 150.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "thai_papaya_salad": {
+    "class_name": "thai_papaya_salad",
+    "display_name": "Thai papaya salad",
+    "category": "Salads & Vegetables",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 75.0,
+      "protein_g": 2.5,
+      "carbs_g": 8.0,
+      "fat_g": 4.0,
+      "fiber_g": 2.5,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 bowl of salad",
+      "gram_weight": 180.0
+    },
+    "portions": [
+      {
+        "description": "1 bowl of salad",
+        "gram_weight": 180.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "thinly_sliced_raw_horsemeat": {
+    "class_name": "thinly_sliced_raw_horsemeat",
+    "display_name": "Thinly sliced raw horsemeat",
+    "category": "Meat Dishes",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 220.0,
+      "protein_g": 18.0,
+      "carbs_g": 5.0,
+      "fat_g": 14.0,
+      "fiber_g": 0.5,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 portion",
+      "gram_weight": 180.0
+    },
+    "portions": [
+      {
+        "description": "1 portion",
+        "gram_weight": 180.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "three_cup_chicken": {
+    "class_name": "three_cup_chicken",
+    "display_name": "Three cup chicken",
+    "category": "Meat Dishes",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 220.0,
+      "protein_g": 18.0,
+      "carbs_g": 5.0,
+      "fat_g": 14.0,
+      "fiber_g": 0.5,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 portion",
+      "gram_weight": 180.0
+    },
+    "portions": [
+      {
+        "description": "1 portion",
+        "gram_weight": 180.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "tiramisu": {
+    "class_name": "tiramisu",
+    "food_id": "c5be1a99-b3ec-4974-942d-3f06c60e3662",
+    "fdc_id": "2705702",
+    "display_name": "Tiramisu",
+    "category": "Desserts & Sweets",
+    "source": "USDA FNDDS / Curated prepared dessert",
+    "per_100g": {
+      "calories_kcal": 285.0,
+      "protein_g": 5.5,
+      "carbs_g": 31.0,
+      "fat_g": 15.5,
+      "fiber_g": 1.0,
+      "sugar_g": 22.0,
+      "sodium_mg": 110.0
+    },
+    "default_portion": {
+      "description": "1 slice / piece",
+      "gram_weight": 110.0
+    },
+    "portions": [
+      {
+        "description": "1 slice / piece (110g)",
+        "gram_weight": 110.0
+      },
+      {
+        "description": "Small slice (75g)",
+        "gram_weight": 75.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "toast": {
+    "class_name": "toast",
+    "food_id": "0eafc5b8-8a0b-4177-a96e-4c9088b9741c",
+    "fdc_id": "2706567",
+    "display_name": "Toast",
+    "category": "Seafood mixed dishes",
+    "source": "usda_fndds",
+    "per_100g": {
+      "calories_kcal": 222.0,
+      "protein_g": 8.5,
+      "carbs_g": 12.0,
+      "fat_g": 15.4,
+      "fiber_g": 0.8,
+      "sugar_g": 1.4,
+      "sodium_mg": 558.0
+    },
+    "default_portion": {
+      "description": "1/2 slice",
+      "gram_weight": 48.0
+    },
+    "portions": [
+      {
+        "description": "1/2 slice",
+        "gram_weight": 48.0
+      },
+      {
+        "description": "1 cubic inch",
+        "gram_weight": 12.0
+      }
+    ]
+  },
+  "tortilla": {
+    "class_name": "tortilla",
+    "food_id": "d9437db2-689b-4985-86d1-a972564f88cf",
+    "fdc_id": "2707822",
+    "display_name": "Tortilla",
+    "category": "Tortillas",
+    "source": "usda_fndds",
+    "per_100g": {
+      "calories_kcal": 262.0,
+      "protein_g": 7.0,
+      "carbs_g": 47.0,
+      "fat_g": 5.4,
+      "fiber_g": 4.9,
+      "sugar_g": 2.3,
+      "sodium_mg": 372.0
+    },
+    "default_portion": {
+      "description": "1 extra large",
+      "gram_weight": 65.0
+    },
+    "portions": [
+      {
+        "description": "1 extra large",
+        "gram_weight": 65.0
+      },
+      {
+        "description": "1 small",
+        "gram_weight": 18.0
+      },
+      {
+        "description": "1 medium",
+        "gram_weight": 28.0
+      },
+      {
+        "description": "1 large",
+        "gram_weight": 44.0
+      }
+    ]
+  },
+  "trunip_pudding": {
+    "class_name": "trunip_pudding",
+    "display_name": "Trunip pudding",
+    "category": "International Cuisine",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 185.0,
+      "protein_g": 8.5,
+      "carbs_g": 22.0,
+      "fat_g": 7.0,
+      "fiber_g": 1.8,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 plate / serving",
+      "gram_weight": 200.0
+    },
+    "portions": [
+      {
+        "description": "1 plate / serving",
+        "gram_weight": 200.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "twice_cooked_pork": {
+    "class_name": "twice_cooked_pork",
+    "display_name": "Twice cooked pork",
+    "category": "Meat Dishes",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 220.0,
+      "protein_g": 18.0,
+      "carbs_g": 5.0,
+      "fat_g": 14.0,
+      "fiber_g": 0.5,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 portion",
+      "gram_weight": 180.0
+    },
+    "portions": [
+      {
+        "description": "1 portion",
+        "gram_weight": 180.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "udon_noodle": {
+    "class_name": "udon_noodle",
+    "display_name": "Udon noodle",
+    "category": "Noodle Dishes",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 145.0,
+      "protein_g": 6.5,
+      "carbs_g": 24.0,
+      "fat_g": 3.5,
+      "fiber_g": 1.5,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 bowl of noodles",
+      "gram_weight": 350.0
+    },
+    "portions": [
+      {
+        "description": "1 bowl of noodles",
+        "gram_weight": 350.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "vegetable_tempura": {
+    "class_name": "vegetable_tempura",
+    "food_id": "2233ffca-0bbc-4c00-a9dc-a52467121203",
+    "fdc_id": "2710065",
+    "display_name": "Vegetable tempura",
+    "category": "Fried vegetables",
+    "source": "usda_fndds",
+    "per_100g": {
+      "calories_kcal": 239.0,
+      "protein_g": 3.8,
+      "carbs_g": 20.4,
+      "fat_g": 15.8,
+      "fiber_g": 1.6,
+      "sugar_g": 1.5,
+      "sodium_mg": 12.0
+    },
+    "default_portion": {
+      "description": "1 fritter",
+      "gram_weight": 30.0
+    },
+    "portions": [
+      {
+        "description": "1 fritter",
+        "gram_weight": 30.0
+      },
+      {
+        "description": "1 cup",
+        "gram_weight": 63.0
+      },
+      {
+        "description": "1 piece",
+        "gram_weight": 7.0
+      }
+    ]
+  },
+  "vermicelli_noodles_with_snails": {
+    "class_name": "vermicelli_noodles_with_snails",
+    "display_name": "Vermicelli noodles with snails",
+    "category": "Noodle Dishes",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 145.0,
+      "protein_g": 6.5,
+      "carbs_g": 24.0,
+      "fat_g": 3.5,
+      "fiber_g": 1.5,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 bowl of noodles",
+      "gram_weight": 350.0
+    },
+    "portions": [
+      {
+        "description": "1 bowl of noodles",
+        "gram_weight": 350.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "waffle": {
+    "class_name": "waffle",
+    "food_id": "b543b349-9df7-4f57-ba90-1ef9decb454b",
+    "fdc_id": "2705461",
+    "display_name": "Waffle",
+    "category": "Ice cream and frozen dairy desserts",
+    "source": "usda_fndds",
+    "per_100g": {
+      "calories_kcal": 143.0,
+      "protein_g": 3.3,
+      "carbs_g": 25.3,
+      "fat_g": 3.6,
+      "fiber_g": 0.1,
+      "sugar_g": 20.3,
+      "sodium_mg": 77.0
+    },
+    "default_portion": {
+      "description": "1 cone",
+      "gram_weight": 255.0
+    },
+    "portions": [
+      {
+        "description": "1 cone",
+        "gram_weight": 255.0
+      }
+    ]
+  },
+  "winter_melon_soup": {
+    "class_name": "winter_melon_soup",
+    "display_name": "Winter melon soup",
+    "category": "Soups & Stews",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 85.0,
+      "protein_g": 4.5,
+      "carbs_g": 9.0,
+      "fat_g": 3.0,
+      "fiber_g": 1.2,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 bowl of soup",
+      "gram_weight": 250.0
+    },
+    "portions": [
+      {
+        "description": "1 bowl of soup",
+        "gram_weight": 250.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "wonton_soup": {
+    "class_name": "wonton_soup",
+    "display_name": "Wonton soup",
+    "category": "Soups & Stews",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 85.0,
+      "protein_g": 4.5,
+      "carbs_g": 9.0,
+      "fat_g": 3.0,
+      "fiber_g": 1.2,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 bowl of soup",
+      "gram_weight": 250.0
+    },
+    "portions": [
+      {
+        "description": "1 bowl of soup",
+        "gram_weight": 250.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "xiao_long_bao": {
+    "class_name": "xiao_long_bao",
+    "display_name": "Xiao long bao",
+    "category": "International Cuisine",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 185.0,
+      "protein_g": 8.5,
+      "carbs_g": 22.0,
+      "fat_g": 7.0,
+      "fiber_g": 1.8,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 plate / serving",
+      "gram_weight": 200.0
+    },
+    "portions": [
+      {
+        "description": "1 plate / serving",
+        "gram_weight": 200.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "yakitori": {
+    "class_name": "yakitori",
+    "display_name": "Yakitori",
+    "category": "International Cuisine",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 185.0,
+      "protein_g": 8.5,
+      "carbs_g": 22.0,
+      "fat_g": 7.0,
+      "fiber_g": 1.8,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 plate / serving",
+      "gram_weight": 200.0
+    },
+    "portions": [
+      {
+        "description": "1 plate / serving",
+        "gram_weight": 200.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "yellow_curry": {
+    "class_name": "yellow_curry",
+    "display_name": "Yellow curry",
+    "category": "International Cuisine",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 185.0,
+      "protein_g": 8.5,
+      "carbs_g": 22.0,
+      "fat_g": 7.0,
+      "fiber_g": 1.8,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 plate / serving",
+      "gram_weight": 200.0
+    },
+    "portions": [
+      {
+        "description": "1 plate / serving",
+        "gram_weight": 200.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "yudofu": {
+    "class_name": "yudofu",
+    "display_name": "Yudofu",
+    "category": "International Cuisine",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 185.0,
+      "protein_g": 8.5,
+      "carbs_g": 22.0,
+      "fat_g": 7.0,
+      "fiber_g": 1.8,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 plate / serving",
+      "gram_weight": 200.0
+    },
+    "portions": [
+      {
+        "description": "1 plate / serving",
+        "gram_weight": 200.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "zha_jiang_mian": {
+    "class_name": "zha_jiang_mian",
+    "display_name": "Zha jiang mian",
+    "category": "International Cuisine",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 185.0,
+      "protein_g": 8.5,
+      "carbs_g": 22.0,
+      "fat_g": 7.0,
+      "fiber_g": 1.8,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 plate / serving",
+      "gram_weight": 200.0
+    },
+    "portions": [
+      {
+        "description": "1 plate / serving",
+        "gram_weight": 200.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  },
+  "zoni": {
+    "class_name": "zoni",
+    "display_name": "Zoni",
+    "category": "International Cuisine",
+    "source": "curated",
+    "per_100g": {
+      "calories_kcal": 185.0,
+      "protein_g": 8.5,
+      "carbs_g": 22.0,
+      "fat_g": 7.0,
+      "fiber_g": 1.8,
+      "sugar_g": 2.0,
+      "sodium_mg": 420.0
+    },
+    "default_portion": {
+      "description": "1 plate / serving",
+      "gram_weight": 200.0
+    },
+    "portions": [
+      {
+        "description": "1 plate / serving",
+        "gram_weight": 200.0
+      },
+      {
+        "description": "100g standard",
+        "gram_weight": 100.0
+      }
+    ]
+  }
+}
